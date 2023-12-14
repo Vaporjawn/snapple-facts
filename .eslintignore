@@ -37,3 +37,7 @@ serviceWorkerRegistration.ts
 setupTests.ts
 ./ios
 ./android
+*jest.config.js
+*tsconfig.json
+**.js
+**.yml
