@@ -5,8 +5,8 @@ var __importDefault =
     return mod && mod.__esModule ? mod : { default: mod };
   };
 Object.defineProperty(exports, '__esModule', { value: true });
-const snappleFacts_json_1 = __importDefault(require('../../snappleFacts.json'));
+const snappleFacts_1 = __importDefault(require('../../snappleFacts'));
 const GetFacts = () => {
-  return snappleFacts_json_1.default.snapplefacts;
+  return snappleFacts_1.default;
 };
 exports.default = GetFacts;

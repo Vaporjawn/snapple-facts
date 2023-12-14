@@ -1,8 +1,8 @@
 import { SnappleFact } from '../../interfaces/snappleFact';
-import data from '../../snappleFacts.json';
+import snappleFacts from '../../snappleFacts';
 
 const GetFacts = (): SnappleFact[] => {
-  return data.snapplefacts;
+  return snappleFacts;
 };
 
 export default GetFacts;

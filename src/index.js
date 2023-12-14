@@ -9,10 +9,10 @@ const getFactByNumber_1 = __importDefault(require('./functions/getFactByNumber/g
 const getFacts_1 = __importDefault(require('./functions/getFacts/getFacts'));
 const listFacts_1 = __importDefault(require('./functions/listFacts/listFacts'));
 const randomFact_1 = __importDefault(require('./functions/randomFact/randomFact'));
-const snappleFacts_json_1 = __importDefault(require('./snappleFacts.json'));
+const snappleFacts_1 = __importDefault(require('./snappleFacts'));
 class SnappleFacts {
   constructor() {
-    this.snappleFacts = snappleFacts_json_1.default.snapplefacts;
+    this.snappleFacts = snappleFacts_1.default;
   }
   getFacts() {
     return (0, getFacts_1.default)();

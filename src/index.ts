@@ -3,13 +3,13 @@ import GetFacts from './functions/getFacts/getFacts';
 import ListFacts from './functions/listFacts/listFacts';
 import RandomFact from './functions/randomFact/randomFact';
 import { SnappleFact } from './interfaces/snappleFact';
-import data from './snappleFacts.json';
+import snappleFacts from './snappleFacts';
 
 class SnappleFacts {
   private snappleFacts: SnappleFact[];
 
   constructor() {
-    this.snappleFacts = data.snapplefacts;
+    this.snappleFacts = snappleFacts;
   }
 
   public getFacts(): SnappleFact[] {

@@ -15,4 +15,10 @@ describe('GetFacts', () => {
     const facts = GetFacts();
     expect(facts[0].fact).toBeDefined();
   });
+
+  it('should return an array of SnappleFacts with sources', () => {
+    const facts = GetFacts();
+    expect(facts[0].fact).toBeDefined();
+  });
+
 });

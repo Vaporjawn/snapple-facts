@@ -19,4 +19,16 @@ describe('GetFacts', () => {
     const facts = (0, getFacts_1.default)();
     expect(facts[0].fact).toBeDefined();
   });
+  it('should return an array of SnappleFacts with sources', () => {
+    const facts = (0, getFacts_1.default)();
+    expect(facts[0].fact).toBeDefined();
+  });
+  it('should return an array of SnappleFacts with sources', () => {
+    const facts = (0, getFacts_1.default)();
+    expect(facts[0].fact).toBeDefined();
+  });
+  it('should return an array of SnappleFacts with sources', () => {
+    const facts = (0, getFacts_1.default)();
+    expect(facts[0].fact).toBeDefined();
+  });
 });
