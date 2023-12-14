@@ -1,4 +1,5 @@
-<h1 align="center"><img src='./src/assets/Snapple_logo_(2020).png' width='50' height='30' align='center' alt='Snapple Logo' />
+<div align="center">
+<h1><img src='./src/assets/Snapple_logo_(2020).png' width='50' height='30' align='center' alt='Snapple Logo' />
 Snapple Facts
 <img src='./src/assets/Snapple_logo_(2020).png' width='50' height='30' align='center' alt='Snapple Logo' />
 </h1>
@@ -12,6 +13,8 @@ Snapple Facts
 [![GitHub repo forks](https://img.shields.io/github/forks/Vaporjawn/snapple-facts?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/Vaporjawn/snapple-facts/network)&#160;[![GitHub repo stars](https://img.shields.io/github/stars/Vaporjawn/snapple-facts?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/Vaporjawn/snapple-facts/stargazers)&#160;[![GitHub repo contributors](https://img.shields.io/github/contributors-anon/Vaporjawn/snapple-facts?style=flat&logo=github&logoColor=whitesmoke&label=Contributors)](https://github.com/Vaporjawn/snapple-facts/graphs/contributors)[![GitHub org sponsors](https://img.shields.io/github/sponsors/Vaporjawn?style=flat&logo=github&logoColor=whitesmoke&label=Sponsors)](https://github.com/sponsors/Vaporjawn)&#160;[![GitHub repo watchers](https://img.shields.io/github/watchers/Vaporjawn/snapple-facts?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/Vaporjawn/snapple-facts/watchers)&#160;[![GitHub repo size](https://img.shields.io/github/repo-size/Vaporjawn/snapple-facts?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/Vaporjawn/snapple-facts/archive/refs/heads/main.zip)
 
 [![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/Vaporjawn/snapple-facts/dev/typescript/main?style=flat&logo=typescript&logoColor=whitesmoke&label=TypeScript)](https://www.typescriptlang.org/)&#160;![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/Vaporjawn/snapple-facts/dev/prettier/main?style=flat&logo=prettier&logoColor=whitesmoke&label=Prettier)&#160;![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/Vaporjawn/snapple-facts/dev/eslint/main?style=flat&logo=eslint&logoColor=whitesmoke&label=ESLint)&#160;![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/Vaporjawn/snapple-facts/dev/jest/main?style=flat&logo=jest&logoColor=whitesmoke&label=Jest)&#160;
+
+</div>
 
 ## Usage
 
