@@ -95,6 +95,14 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The San Francisco cable cars are the only mobile national monument.',
   },
   {
+    number: 24,
+    fact: 'The state of Maine has 62 lighthouses.',
+  },
+  {
+    number: 25,
+    fact: 'The only food that does not spoil is honey.',
+  },
+  {
     number: 26,
     fact: 'The Hawaiian alphabet has only 12 letters.',
   },
@@ -103,8 +111,12 @@ const snappleFacts: SnappleFact[] = [
     fact: 'A ball of glass will bounce higher than a ball of rubber.',
   },
   {
-    number: 29,
-    fact: 'On average a human being will spend up to 2 weeks kissing in his/her lifetime.',
+      number: 28,
+      fact: 'Chewing gum while peeling onions will prevent you from crying.',
+  },
+  {
+      number: 29,
+      fact: 'On average a human being will spend up to 2 weeks kissing in his/her lifetime.',
   },
   {
     number: 30,

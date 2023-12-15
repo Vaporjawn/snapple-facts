@@ -20,5 +20,4 @@ describe('GetFacts', () => {
     const facts = GetFacts();
     expect(facts[0].fact).toBeDefined();
   });
-
 });
