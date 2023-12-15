@@ -1,0 +1,804 @@
+Add Snapple Fact 1: A goldfish's attention span is three seconds.
+Add Snapple Fact 2: Animals that lay eggs don't have belly buttons.
+Add Snapple Fact 3: Beavers can hold their breath for 45 minutes underwater.
+Add Snapple Fact 4: Slugs have four noses.
+Add Snapple Fact 5: Camels have three eyelids.
+Add Snapple Fact 6: A honey bee can fly at 15 mph.
+Add Snapple Fact 7: A queen bee can lay 800-1,500 eggs per day.
+Add Snapple Fact 8: A bee has five eyelids.
+Add Snapple Fact 9: The average speed of a housefly is 4.5 mph.
+Add Snapple Fact 10: Mosquitoes are attracted to people who just ate bananas.
+Add Snapple Fact 11: Flamingos turn pink from eating shrimp.
+Add Snapple Fact 12: Emus and kangaroos cannot walk backward.
+Add Snapple Fact 13: Cats have over 100 vocal cords.
+Add Snapple Fact 14: Camel's milk does not curdle.
+Add Snapple Fact 15: All porcupines float in water.
+Add Snapple Fact 16: The world's termites outweigh the world's humans 10 to 1.
+Add Snapple Fact 17: A hummingbird weighs less than a penny.
+Add Snapple Fact 18: A jellyfish is 95% water.
+Add Snapple Fact 19: Children grow faster in the spring.
+Add Snapple Fact 20: Broccoli is the only vegetable that is also a flower.
+Add Snapple Fact 21: Almonds are part of the peach family.
+Add Snapple Fact 22: Alaska has the highest percentage of people who walk to work.
+Add Snapple Fact 23: The San Francisco cable cars are the only mobile national monument.
+Add Snapple Fact 24: The state of Maine has 62 lighthouses.
+Add Snapple Fact 25: The only food that does not spoil is honey.
+Add Snapple Fact 26: The Hawaiian alphabet only has 12 letters.
+Add Snapple Fact 27: A ball of glass will bounce higher than a ball of rubber.
+Add Snapple Fact 28: Chewing gum while peeling onions will prevent you from crying.
+Add Snapple Fact 29: On average, a human will spend up to 2 weeks kissing in his/her lifetime.
+Add Snapple Fact 30: Fish have eyelids.
+Add Snapple Fact 31: The average human eats 8 spiders in his/her lifetime while sleeping.
+Add Snapple Fact 32: There are one million ants to every human in the world.
+Add Snapple Fact 33: Termites eat through wood two times faster when listening to rock music!
+Add Snapple Fact 34: If you keep a goldfish in a dark room, it will eventually turn white.
+Add Snapple Fact 35: Elephants only sleep two hours a day.
+Add Snapple Fact 36: A duck's quack doesn't echo.
+Add Snapple Fact 37: A snail breathes through its foot.
+Add Snapple Fact 38: Fish cough.
+Add Snapple Fact 39: An ant's sense of smell is stronger than a dog's.
+Add Snapple Fact 40: It is possible to lead a cow upstairs but not down.
+Add Snapple Fact 41: Shrimp can only swim backward.
+Add Snapple Fact 42: Frogs cannot swallow with their eyes open.
+Add Snapple Fact 43: A cat's lower jaw cannot move sideways.
+Add Snapple Fact 44: The bullfrog is the only animal that never sleeps.
+Add Snapple Fact 45: Elephants are capable of swimming 20 miles per day.
+Add Snapple Fact 46: Elephants are the only mammals that can't jump.
+Add Snapple Fact 47: Giraffes have no vocal cords.
+Add Snapple Fact 48: Cats can hear ultrasound.
+Add Snapple Fact 49: Despite its hump, a camel has a straight spine.
+Add Snapple Fact 50: Mosquitoes have 47 teeth.
+Add Snapple Fact 51: There are 63,360 inches in a mile.
+Add Snapple Fact 52: Eleven percent of people in the world are left-handed.
+Add Snapple Fact 53: The average woman consumes six pounds of lipstick in her lifetime.
+Add Snapple Fact 54: The average smell weighs 760 nanograms.
+Add Snapple Fact 55: A human brain weighs about three pounds.
+Add Snapple Fact 56: 1/4 of the bones in your body are in your feet.
+Add Snapple Fact 57: You blink over 10,000,000 times a year.
+Add Snapple Fact 58: A sneeze travels out of your mouth at over 100 miles an hour.
+Add Snapple Fact 59: Brain waves can be used to power an electric train.
+Add Snapple Fact 60: The tongue is the fastest healing part of the body.
+Add Snapple Fact 61: Pigs get sunburned.
+Add Snapple Fact 62: The lifespan of a taste bud is 10 days.
+Add Snapple Fact 63: The average human produces 10,000 gallons of saliva in a lifetime.
+Add Snapple Fact 64: Strawberries contain more vitamin C than oranges.
+Add Snapple Fact 65: A one-day weather forecast requires about 10 billion math calculations.
+Add Snapple Fact 66: Americans, on average, eat 18 acres of pizza a day.
+Add Snapple Fact 67: There are 18 different animal shapes in the animal cracker zoo.
+Add Snapple Fact 68: The longest one-syllable word is "screeched."
+Add Snapple Fact 69: No word in the English language rhymes with month.
+Add Snapple Fact 70: Caller ID is illegal in California.
+Add Snapple Fact 71: There is a town called "Big Ugly" in West Virginia.
+Add Snapple Fact 72: The average person uses 150 gallons of water per day for personal use.
+Add Snapple Fact 73: The average person spends 2 weeks over his/her lifetime waiting for a traffic light to change.
+Add Snapple Fact 74: You share your birthday with at least 9 million other people in the world.
+Add Snapple Fact 75: The average person makes 1,140 phone calls per year.
+Add Snapple Fact 76: The average person spends about 2 years on the phone in a lifetime.
+Add Snapple Fact 77: No piece of paper can be folded more than seven times.
+Add Snapple Fact 78: Alaska is the most eastern and western state in the U.S.
+Add Snapple Fact 79: There are 119 grooves on the edge of a quarter.
+Add Snapple Fact 80: About 18 percent of animal owners share their bed with their pet.
+Add Snapple Fact 81: Alaska has more caribou than people.
+Add Snapple Fact 82: August has the highest percentage of births.
+Add Snapple Fact 83: Googol is a number (1 followed by 100 zeros).
+Add Snapple Fact 84: Oysters can change from one gender to another and back again.
+Add Snapple Fact 85: The Mona Lisa has no eyebrows.
+Add Snapple Fact 86: Until the 19th century, solid blocks of tea were used as money in Siberia.
+Add Snapple Fact 87: A mile on the ocean and a mile on land are not the same distance.
+Add Snapple Fact 88: A ten-gallon hat holds less than one gallon of liquid.
+Add Snapple Fact 89: The average American walks 18,000 steps a day.
+Add Snapple Fact 90: The average raindrop falls at seven mph.
+Add Snapple Fact 91: There are more telephones than people in Washington, D.C.
+Add Snapple Fact 92: Fish can drown.
+Add Snapple Fact 93: A kangaroo can jump 30 feet.
+Add Snapple Fact 94: Lizards communicate by doing push-ups.
+Add Snapple Fact 95: Squids can have eyes the size of a volleyball.
+Add Snapple Fact 96: The average American will eat 35,000 cookies in his/her lifetime.
+Add Snapple Fact 97: A turkey can run at 20 mph.
+Add Snapple Fact 98: When the moon is directly overhead you weigh slightly less.
+Add Snapple Fact 99: You burn 20 calories an hour chewing gum.
+Add Snapple Fact 100: In a year, the average person walks four miles making his or her bed.
+Add Snapple Fact 101: About half of all Americans are on a diet on any given day.
+Add Snapple Fact 102: A one-minute kiss burns 26 calories.
+Add Snapple Fact 103: Frowning burns more calories than smiling.
+Add Snapple Fact 104: There are more than 30,000 diets on public record.
+Add Snapple Fact 105: You will burn about 7% more calories walking on hard dirt than on pavement.
+Add Snapple Fact 106: You would weigh less on the top of a mountain than at sea level.
+Add Snapple Fact 107: You burn more calories sleeping than watching TV.
+Add Snapple Fact 108: Licking a stamp burns 10 calories.
+Add Snapple Fact 109: Smelling apples and/or bananas can help you lose weight.
+Add Snapple Fact 110: Frogs never drink.
+Add Snapple Fact 111: Only male turkeys gobble.
+Add Snapple Fact 112: At birth, a Dalmation is always pure white.
+Add Snapple Fact 113: The fastest recorded speed of a racehorse was over 43 mph.
+Add Snapple Fact 114: The oldest known animal was a tortoise, which lived to be 152 years old.
+Add Snapple Fact 115: Bamboo makes up 99 percent of a panda's diet.
+Add Snapple Fact 116: The largest fish is the whale shark - it can be over 50 feet long and weigh two tons.
+Add Snapple Fact 117: The starfish is the only animal that can turn its stomach inside out.
+Add Snapple Fact 118: Honeybees are the only insects that create a form of food for humans.
+Add Snapple Fact 119: The hummingbird is the only bird that can fly backward.
+Add Snapple Fact 120: The only continent without reptiles or snakes is Antarctica.
+Add Snapple Fact 121: The only bird that can swim and not fly is a penguin.
+Add Snapple Fact 122: A duck can't walk without bobbing its head.
+Add Snapple Fact 123: Beavers were once the size of bears.
+Add Snapple Fact 124: Seals sleep only one and a half minutes at a time.
+Add Snapple Fact 125: Pigeons have been trained by the U.S. Coast Guard to spot people lost at sea.
+Add Snapple Fact 126: A pigeon's feathers are heavier than its bones.
+Add Snapple Fact 127: A hummingbird's heart beats 1,400 times a minute.
+Add Snapple Fact 128: Dragonflies have six legs but can't walk.
+Add Snapple Fact 129: Dolphins can jump up to 20 feet in the air.
+Add Snapple Fact 130: Koala and humans are the only animals with unique fingerprints.
+Add Snapple Fact 131: Penguins have an organ above their eyes that converts seawater to fresh water.
+Add Snapple Fact 132: A crocodile cannot move its tongue.
+Add Snapple Fact 133: Honeybees navigate by using the sun as a compass.
+Add Snapple Fact 134: An ant can lift 50 times its own weight.
+Add Snapple Fact 135: A single coffee tree produces only about a pound of coffee beans per year.
+Add Snapple Fact 136: Strawberries are the only fruits whose seeds grow on the outside.
+Add Snapple Fact 137: The city of Los Angeles has three times more automobiles than people.
+Add Snapple Fact 138: Hawaii is the only U.S. state that grows coffee.
+Add Snapple Fact 139: Hawaii is the only state with one school district.
+Add Snapple Fact 140: Holland is the only country with a national dog.
+Add Snapple Fact 141: The square dance is the official dance of the state of Washington.
+Add Snapple Fact 142: Hawaii is the only U.S. state never to report a temperature of zero degrees F or below.
+Add Snapple Fact 143: "Q" is the only letter in the alphabet not appearing in the name of any U.S. state.
+Add Snapple Fact 144: Texas is the only state that permits residents to cast absentee ballots from space.
+Add Snapple Fact 145: Lake Superior is the world's largest lake.
+Add Snapple Fact 146: The smallest county in America is New York County, better known as Manhattan.
+Add Snapple Fact 147: Panama is the only place in the world where you can see the sun rise on the Pacific and set on the Atlantic.
+Add Snapple Fact 148: The tallest man was 8 ft. 11 in.
+Add Snapple Fact 149: Theodore Roosevelt was the only president who was blind in one eye.
+Add Snapple Fact 150: The first sport to be filmed was boxing in 1894.
+Add Snapple Fact 151: The fastest served ball in tennis was clocked at 154 mph in 1963.
+Add Snapple Fact 152: In 1985, the fastest bicyclist was clocked at 154 mph.
+Add Snapple Fact 153: The speed limit in NYC was eight mph in 1895.
+Add Snapple Fact 154: Americans spend more than $630 million a year on golf balls.
+Add Snapple Fact 155: In 1926, the first outdoor mini-golf courses were built on rooftops in NYC.
+Add Snapple Fact 156: Swimming pools in the U.S. contain enough water to cover San Francisco.
+Add Snapple Fact 157: The first TV soap opera debuted in 1946.
+Add Snapple Fact 158: The first MTV video was "Video Killed the Radio Star" by the Buggles.
+Add Snapple Fact 159: The first TV show ever to be put into reruns was "The Lone Ranger."
+Add Snapple Fact 160: One alternative title that had been considered for NBC's hit "Friends" was "Insomnia Café."
+Add Snapple Fact 161: The first TV network kids show in the U.S. was "Captain Kangaroo."
+Add Snapple Fact 162: The temperature of the sun can reach up to 15 million degrees Fahrenheit.
+Add Snapple Fact 163: The first penny had the motto "Mind your own business."
+Add Snapple Fact 164: The first vacuum was so large, it was brought to a house by horses.
+Add Snapple Fact 165: Your eye expands up to 45% when looking at something pleasing.
+Add Snapple Fact 166: Before mercury, brandy was used to fill thermometers.
+Add Snapple Fact 167: You have to play ping-pong for 12 hours to lose one pound.
+Add Snapple Fact 168: One brow wrinkle is the result of 200,000 frowns.
+Add Snapple Fact 169: The first human-made object to break the sound barrier was a whip.
+Add Snapple Fact 170: In 1878, the first telephone book ever issued contained only 50 names.
+Add Snapple Fact 171: The most sensitive parts of the body are the mouth and the fingertips.
+Add Snapple Fact 172: The eye makes movements 50 times every second.
+Add Snapple Fact 173: Chinese is the most spoken language in the world.
+Add Snapple Fact 174: The world's biggest pyramid is not in Egypt, but in Mexico.
+Add Snapple Fact 175: In 1634, tulip bulbs were a form of currency in Holland.
+Add Snapple Fact 176: The first bike was called a hobbyhorse.
+Add Snapple Fact 177: The first sailing boats were built in Egypt.
+Add Snapple Fact 178: The first ballpoint pens were sold in 1945 for $12.00.
+Add Snapple Fact 179: The first lighthouse to use electricity was the Statue of Liberty in 1886.
+Add Snapple Fact 180: The first VCR was made in 1956 and was the size of a piano.
+Add Snapple Fact 181: The first jukebox was located in San Francisco in 1899.
+Add Snapple Fact 182: A rainbow can only be seen in the morning or late afternoon.
+Add Snapple Fact 183: The Capitol building in Washington, D.C. has 365 steps to represent every day of the year.
+Add Snapple Fact 184: The most used letters in the English language are E, T, A, O, I and N.
+Add Snapple Fact 185: A male kangaroo is called a boomer.
+Add Snapple Fact 186: A female kangaroo is called a flyer.
+Add Snapple Fact 187: There are over 61,000 pizzerias in the U.S.
+Add Snapple Fact 188: Antarctica is the driest, coldest, windiest, and highest continent on earth.
+Add Snapple Fact 189: The Sahara Desert stretches farther than the distance from California to New York.
+Add Snapple Fact 190: Thailand means "Land of the Free."
+Add Snapple Fact 191: Popcorn was invented by the American Indians.
+Add Snapple Fact 192: Jupiter spins so fast that there is a new sunrise nearly every 10 hours.
+Add Snapple Fact 193: The year that read the same upside down was 1961. That won't happen again until 6009.
+Add Snapple Fact 194: You don't have to be a lawyer to be a Supreme Court Justice.
+Add Snapple Fact 195: Eleven of the 50 U.S. states are named after an actual person.
+Add Snapple Fact 196: If you doubled one penny every day for 30 days, you would have $5,368,709.
+Add Snapple Fact 197: The first person crossed Niagara Falls by tightrope in 1859.
+Add Snapple Fact 198: The U.S. is the largest country named after an actual person (Amerigo Vespucci).
+Add Snapple Fact 199: The largest cheesecake ever made weighed 57,508 lbs.
+Add Snapple Fact 200: The first country to use postcards was Austria.
+Add Snapple Fact 201: The only one-syllabled U.S. state is Maine.
+Add Snapple Fact 202: The mouth of the Statue of Liberty is 3 feet wide.
+Add Snapple Fact 203: Atlantic salmon are capable of leaping 15 feet high.
+Add Snapple Fact 204: A stamp shaped like a banana was once issued in the country of Tonga.
+Add Snapple Fact 205: For every human being in the world there is approximately one chicken.
+Add Snapple Fact 206: Over 1 million Earths would fit inside the Sun.
+Add Snapple Fact 207: Before 1687 clocks were made with only an hour hand.
+Add Snapple Fact 208: Add up opposing sides of a dice cue and you'll always get seven.
+Add Snapple Fact 209: The largest pumpkin ever grown weighed 1,061 lbs.
+Add Snapple Fact 210: 1.3 billion pounds of peanuts are produced in Georgia each year.
+Add Snapple Fact 211: The average koala sleeps 22 hours each day.
+Add Snapple Fact 212: Galapagos turtles can take up to three weeks to digest a meal.
+Add Snapple Fact 213: The largest ball of twine in the US weighs over 17,000.
+Add Snapple Fact 214: Giraffes can lick their own eyes.
+Add Snapple Fact 215: Tennessee banned the use of a lasso to catch fish.
+Add Snapple Fact 216: TV dinners originated in the Arctic.
+Add Snapple Fact 217: Blackboard chalk contains no chalk.
+Add Snapple Fact 218: A jackrabbit can travel more than 12 feet in one hop.
+Add Snapple Fact 219: An electric eel can release a charge powerful enough to start 50 cars.
+Add Snapple Fact 220: Porcupines each have 30,000 quills.
+Add Snapple Fact 221: The game of basketball was first played using a soccer ball and two peach baskets.
+Add Snapple Fact 222: Twinkle Twinkle Little Star was composed by Mozart when he was five years old.
+Add Snapple Fact 223: The Basenji is the only type of dog that does not bark.
+Add Snapple Fact 224: America's 1st roller coaster was built in 1827 to carry coal from a mine to boats below.
+Add Snapple Fact 225: There are towns named Sandwich in Illinois and Massachusetts.
+Add Snapple Fact 226: 13 percent of the world's tea comes from Kenya.
+Add Snapple Fact 227: Tsiology is anything written about tea.
+Add Snapple Fact 228: There is a town in South Dakota named Tea.
+Add Snapple Fact 229: The Caspian Sea is actually a lake.
+Add Snapple Fact 230: Caterpillars have over 2,000 muscles.
+Add Snapple Fact 231: Detroit has the greatest number of registered bowlers in the U.S.
+Add Snapple Fact 232: The blue whale's heart is the size of a small car.
+Add Snapple Fact 233: There are seven letters that look the same upside down as right side up.
+Add Snapple Fact 234: Great Falls, Montana, is the windiest city in the U.S.
+Add Snapple Fact 235: The biggest pig in recorded history weighed almost one ton.
+Add Snapple Fact 236: Cows give more milk when they listen to music.
+Add Snapple Fact 237: The number of times a cricket chirps in 15 seconds, plus 37, will give you the current air temperature.
+Add Snapple Fact 238: An ostrich's brain is smaller than its eye.
+Add Snapple Fact 239: Besides humans, elephants are the only animals that can be taught to stand on their head.
+Add Snapple Fact 240: "Challenger Deep" is the deepest point on Earth and can hold 25 Empire State Buildings end to end.
+Add Snapple Fact 241: The only cactus plantation in the world is in Mississippi.
+Add Snapple Fact 242: The Nickname of President Hayes's wife was "Lemonade Lucy."
+Add Snapple Fact 243: If you put all the streets in New York City in a straight line, they would stretch to Japan.
+Add Snapple Fact 244: The watermelon seed-spitting world record is about 70 feet.
+Add Snapple Fact 245: The first typewriter was called the "literary piano."
+Add Snapple Fact 246: The "silk" of a spider is stronger than steel threads of the same diameter.
+Add Snapple Fact 247: Britain was the first country to register a patent on polyester.
+Add Snapple Fact 248: Snoopy is the most common dog name beginning with the letter S.
+Add Snapple Fact 249: The 1st public message to be transmitted via Morse code was "A patient waiter is no loser."
+Add Snapple Fact 250: Mongolians invented lemonade around 1299 A.D.
+Add Snapple Fact 251: There are more French restaurants in New York City than in Paris.
+Add Snapple Fact 252: There is a town in Alaska called Chicken.
+Add Snapple Fact 253: The first TV remote control, introduced in 1950, was called Lazy Bones.
+Add Snapple Fact 254: The only bird who can see the color blue is the owl.
+Add Snapple Fact 255: Among North Atlantic lobsters, 1 in 5,000 is born bright blue.
+Add Snapple Fact 256: There are more saunas than cars in Finland.
+Add Snapple Fact 257: The first food eaten in space by a U.S. astronaut was applesauce.
+Add Snapple Fact 258: Lemon wood is carved into chess pieces.
+Add Snapple Fact 259: The original recipe for chocolate contained chili powder instead of sugar.
+Add Snapple Fact 260: Underwater hockey is played with a 3-pound puck.
+Add Snapple Fact 261: Playing in a marching band is considered moderate exercise.
+Add Snapple Fact 262: The act of chewing an apple is a more efficient way to stay awake than caffeine.
+Add Snapple Fact 263: Bowling pins need to tip over a mere 7 1/2 degrees to fall down.
+Add Snapple Fact 264: Your breathing rate increases when you start to type.
+Add Snapple Fact 265: 90% of all garlic consumed in the U.S. comes from Gilroy, CA.
+Add Snapple Fact 266: Manhattan is the only borough in New York City that doesn't have a Main Street.
+Add Snapple Fact 267: Double Dutch jump rope is considered a cross-training sport.
+Add Snapple Fact 268: One lemon tree will produce about 1,500 lemons a year.
+Add Snapple Fact 269: Horseback riding can improve your posture.
+Add Snapple Fact 270: Colors like red, yellow and orange make you hungry.
+Add Snapple Fact 271: Dim lights reduce your appetite.
+Add Snapple Fact 272: At birth a human has 350 bones, but only 206 bones when full grown.
+Add Snapple Fact 273: Each year, the average American eats about 15 pounds of apples.
+Add Snapple Fact 274: All lemons are harvested by hand.
+Add Snapple Fact 275: It took the first man to walk around the world four years, three months and 16 days to complete his journey.
+Add Snapple Fact 276: Grizzly bears run as fast as the average horse.
+Add Snapple Fact 277: Today's "modern" wrestling moves have been seen in tomb drawings from ancient Egypt.
+Add Snapple Fact 278: China only has one time zone.
+Add Snapple Fact 279: Canada has the longest coastline of any country in the world.
+Add Snapple Fact 280: The amount of concrete used in the Hoover Dam could build a highway from New York to California.
+Add Snapple Fact 281: The original name of Nashville, Tennessee was Big Salt Lick.
+Add Snapple Fact 282: If you drive from Los Angeles to Reno, NV, you will be heading west.
+Add Snapple Fact 283: A compass needle does not point directly north.
+Add Snapple Fact 284: Mt. Everest has grown one foot over the last 100 years.
+Add Snapple Fact 285: In ancient Rome, lemons were used as an antidote to all poisons.
+Add Snapple Fact 286: The height of the Eiffel Tower varies by as much as 6 inches depending on the temperature.
+Add Snapple Fact 287: Wisconsin has points located farther east than parts of Florida.
+Add Snapple Fact 288: Four Corners, AZ, is the only place where a person can stand in 4 states at the same time.
+Add Snapple Fact 289: In 1908, the first lollipop-making machine started in New Haven, CT.
+Add Snapple Fact 290: One out of every eight residents in the U.S. lives in California.
+Add Snapple Fact 291: Africa is divided into more countries than any other continent.
+Add Snapple Fact 292: Heavier, not bigger lemons, produce more juice.
+Add Snapple Fact 293: Vermont is the only New England state without a seacoast.
+Add Snapple Fact 294: No only child has been a U.S. President.
+Add Snapple Fact 295: Leonardo da Vinci could draw with one hand while writing with the other.
+Add Snapple Fact 296: In 1860, Abraham Lincoln grew a beard at the suggestion of an 11-year-old girl.
+Add Snapple Fact 297: David Rice Atchison was President of the United States for only one day.
+Add Snapple Fact 298: The sail fish has been clocked at speeds of over 60 miles per hour.
+Add Snapple Fact 299: The Library of Congress has 600 miles of shelves.
+Add Snapple Fact 300: Pennsylvania is misspelled on the Liberty Bell.
+Add Snapple Fact 301: William Shakespeare was born and died on the same day: April 23.
+Add Snapple Fact 302: Ketchup was once sold as a medicine.
+Add Snapple Fact 303: Napoleon suffered from a fear of cats.
+Add Snapple Fact 304: In 1900, 1/3 of all automobiles in New York City were powered by electricity.
+Add Snapple Fact 305: The 4th Earl of Sandwich invented the sandwich so he could eat and gamble at the same time.
+Add Snapple Fact 306: In the Middle Ages, chicken soup was considered an aphrodisiac.
+Add Snapple Fact 307: All dog breeds except chow-chows have black lips to prevent them from getting sunburned.
+Add Snapple Fact 308: Connecticut was the first state to pass a Lemon Law in 1982.
+Add Snapple Fact 309: Ancient Egyptians believed the "vein of love" ran from the third finger on the left hand to the heart.
+Add Snapple Fact 310: The word "facetious" features all the vowels in alphabetical order.
+Add Snapple Fact 311: The standard Chinese typewriter has 1,500 characters.
+Add Snapple Fact 312: A flea can jump 30,000 times without stopping.
+Add Snapple Fact 313: "O" is the oldest letter of the alphabet, dating back to 3000 B.C.
+Add Snapple Fact 314: The Japanese word "judo" means "the gentle way."
+Add Snapple Fact 315: No two lip impressions are the same.
+Add Snapple Fact 316: It took Leonardo da Vinci 12 years to paint the lips of Mona Lisa.
+Add Snapple Fact 317: Lemon sharks can give birth to about 36 babies at one time.
+Add Snapple Fact 318: Top-performing companies are called "blue chips" after the costliest chips in casinos.
+Add Snapple Fact 319: The name for the space between your eyebrows is "nasion."
+Add Snapple Fact 320: There is a town called Jackpot in Nevada.
+Add Snapple Fact 321: The word "purple" does not rhyme with any other word in the English language.
+Add Snapple Fact 322: In the U.S., there are about 15,000 vacuum cleaner-related accidents each year.
+Add Snapple Fact 323: The Lemon-Yellow Tree Frog is only active in the darkness of night.
+Add Snapple Fact 324: The legs of bats are too weak to support their weight, so they hang upside down.
+Add Snapple Fact 325: 75% of people wash from top to bottom in the shower.
+Add Snapple Fact 326: On average, you'll spend a year of your life looking for misplaced objects.
+Add Snapple Fact 327: Chewing gum was invented in New York City in 1870 by Thomas Adams.
+Add Snapple Fact 328: The Statue of Liberty features 7 points in her crown- one for each of the continents.
+Add Snapple Fact 329: The world's first escalator was built in Coney Island, NY, in 1896.
+Add Snapple Fact 330: The top of the Empire State Building was originally built as a place to anchor blimps.
+Add Snapple Fact 331: The area code in Cape Canaveral, Fl, is 321.
+Add Snapple Fact 332: Ohio is the only U.S. state that does not have a rectangular flag.
+Add Snapple Fact 333: Long Island is the largest island in the Continental U.S.
+Add Snapple Fact 334: The beaver is the official animal of Canada.
+Add Snapple Fact 335: Maine produces more toothpicks than any other state in the U.S.
+Add Snapple Fact 336: The last letter to be added to our alphabet was J.
+Add Snapple Fact 337: Farmington, Maine celebrates Chester Greenwood Day to honor the inventor of earmuffs.
+Add Snapple Fact 338: Of all the trees in Australia, 75% are eucalyptus.
+Add Snapple Fact 339: There are more doughnut shops per capita in Canada than in any other country.
+Add Snapple Fact 340: There is an underground mushroom in Oregon that measures 3.5 miles across.
+Add Snapple Fact 341: Of the 92 counties in Indiana, only 5 observe daylight savings time.
+Add Snapple Fact 342: California and Arizona grow approximately 95% of the fresh lemons in the U.S.
+Add Snapple Fact 343: The term 007 was derived from 20007, the home zip code of many Washington, D.C. agents.
+Add Snapple Fact 344: Leonardo da Vinci discovered that a tree's rings reveal its age.
+Add Snapple Fact 345: The popsicle was invented in 1905 by an 11-year-old boy.
+Add Snapple Fact 346: The medical term for writer's cramp is graphospasm.
+Add Snapple Fact 347: A male firefly's light is twice as bright as a female's.
+Add Snapple Fact 348: It is estimated that the world's oceans contain 10 billion tons of gold.
+Add Snapple Fact 349: Most cats don't like lemonade.
+Add Snapple Fact 350: The watersheds that supply water to New York City are roughly the size of Delaware.
+Add Snapple Fact 351: Cold water weighs less than hot water.
+Add Snapple Fact 352: Storm clouds hold about 6 trillion raindrops.
+Add Snapple Fact 353: The weight of the moon is 81 billion tons.
+Add Snapple Fact 354: Bamboo can grow three feet in one day.
+Add Snapple Fact 355: A tune that gets stuck in your head is called an earworm.
+Add Snapple Fact 356: You exhale air at 15 m.p.h.
+Add Snapple Fact 357: A baboon is a variety of lemon.
+Add Snapple Fact 358: Butterflies were formerly known by the name Flutterby.
+Add Snapple Fact 359: A teaspoon contains 120 drops of water.
+Add Snapple Fact 360: Mexican jumping beans jump to get out of sunlight.
+Add Snapple Fact 361: The pineapple is a very big berry.
+Add Snapple Fact 362: "Arachibutlphobia" is the fear of peanut butter sticking to the roof of your mouth.
+Add Snapple Fact 363: Pearls dissolve in vinegar.
+Add Snapple Fact 364: Borborygmi is the noise that your stomach makes when you are hungry.
+Add Snapple Fact 365: The oil in cashews helps prevent tooth decay.
+Add Snapple Fact 366: The center of some golf balls contain honey.
+Add Snapple Fact 367: International tug of war rules state that the rope must be over 100-feet long.
+Add Snapple Fact 368: In 2003, a 6-year-old from Naples, FL was ticketed for not having a permit for her lemonade stand.
+Add Snapple Fact 369: On Valentine's Day, there is no charge to get married in the Empire State Building's chapel.
+Add Snapple Fact 370: Heat, not sunlight, ripens tomatoes.
+Add Snapple Fact 371: Grapes are the most popular fruit in the world.
+Add Snapple Fact 372: A housefly hums in the key of F.
+Add Snapple Fact 373: Endocarp is the edible pulp inside a lemon.
+Add Snapple Fact 374: Thomas Edison coined the word "hello" and introduced it as a way to answer the phone.
+Add Snapple Fact 375: "Way" is the most frequently used noun in the English language.
+Add Snapple Fact 376: The "high five" was introduced by a professional baseball player in 1977.
+Add Snapple Fact 377: "Disco" means "I learn" in Latin.
+Add Snapple Fact 378: It costs the U.S. government 2.5 cents to produce a quarter.
+Add Snapple Fact 379: The "lemon yellow" crayon was introduced in 1949 and retired in 1990.
+Add Snapple Fact 380: It is illegal for a portrait of a living person to appear on U.S. postage stamps.
+Add Snapple Fact 381: Baboons were once trained by Egyptians to wait on tables.
+Add Snapple Fact 382: The official state gem of Washington is petrified wood.
+Add Snapple Fact 383: Mount Katahdin in Maine is the first place in the U.S. to get sunlight each morning.
+Add Snapple Fact 384: Each year, the average person walks the distance from NY to Miami.
+Add Snapple Fact 385: Lemons are more acidic than vinegar.
+Add Snapple Fact 386: New York City's public school students represent about 188 different countries.
+Add Snapple Fact 387: A banana is a giant herb.
+Add Snapple Fact 388: The first person in the U.S. arrested for speeding was a NYC cab driver.
+Add Snapple Fact 389: In the U.S., all interstate highways that run east to west are even-numbered.
+Add Snapple Fact 390: Jack is the most common name in nursery rhymes.
+Add Snapple Fact 391: A sea lemon is a mollusk that feeds on sponges.
+Add Snapple Fact 392: Three out of every six Americans live within fifty miles of where they were born.
+Add Snapple Fact 393: The raised bump reflectors on U.S. roads are named "Botts dots."
+Add Snapple Fact 394: Nearly 9,000 people injure themselves with a toothpick each year.
+Add Snapple Fact 395: It is impossible to sneeze with your eyes open.
+Add Snapple Fact 396: The dragonfly can reach speeds of up to 36 mph.
+Add Snapple Fact 397: Bamboo can grow over three feet per day.
+Add Snapple Fact 398: Hippos can open their mouths 180 degrees.
+Add Snapple Fact 399: Manhattan was the first capital of the United States.
+Add Snapple Fact 400: About 80 women go into labor on NYC subways every year.
+Add Snapple Fact 401: The coldest city in the U.S. is International Falls, Minnesota.
+Add Snapple Fact 402: Christopher Columbus brought the first lemon seeds to America.
+Add Snapple Fact 403: The largest hailstone ever recorded in the U.S. was 17.5 inches around.
+Add Snapple Fact 404: The Statue of Liberty's nose is four feet six inches long.
+Add Snapple Fact 405: The East Antarctic Ice Sheet is as thick as the Alps Mountains are high.
+Add Snapple Fact 406: The deepest place in the ocean is about seven miles deep.
+Add Snapple Fact 407: The largest dog litter was 23 puppies.
+Add Snapple Fact 408: Panda bears eat up to 16 hours a day.
+Add Snapple Fact 409: Approximately 16,500 people in the U.S. go by the last name Lemon.
+Add Snapple Fact 410: Bald eagles can swim using a stroke similar to the butterfly stroke.
+Add Snapple Fact 411: Lifejackets used to be filled with sunflower seeds for flotation.
+Add Snapple Fact 412: Two trees can create enough oxygen for a family of four.
+Add Snapple Fact 413: The T-rex's closest living relative is the chicken.
+Add Snapple Fact 414: Chameleons can move both their eyes in different directions at the same time.
+Add Snapple Fact 415: The most popular pet name in the United States is 'Max.'
+Add Snapple Fact 416: Many butterflies and moths are able to taste with their feet.
+Add Snapple Fact 417: All polar bears are left-handed.
+Add Snapple Fact 418: The smallest mammal in the world is the bumblebee bat, which weighs less than a penny.
+Add Snapple Fact 419: A jiffy is an actual time measurement equaling 1/100th of a second.
+Add Snapple Fact 421: Greyhounds can reach speeds of 45 miles per hour.
+Add Snapple Fact 422: Apples, peaches, and raspberries are all members of the rose family.
+Add Snapple Fact 423: U.S. paper currency isn't made of paper - it's actually a blend of cotton and linen.
+Add Snapple Fact 424: The ZIP in the ZIP code stands for Zone Improvement Plan.
+Add Snapple Fact 425: Kangaroos can't walk backward.
+Add Snapple Fact 426: The Empire State Building has 73 elevators.
+Add Snapple Fact 427: Lemons ripen after you pick them, but oranges do not.
+Add Snapple Fact 428: There are 118 ridges on the edge of a United States dime.
+Add Snapple Fact 429: There are 336 dimples on a regulation American golf ball.
+Add Snapple Fact 430: One acre of peanuts will make 30,000 peanut butter sandwiches.
+Add Snapple Fact 431: A twit is the technical term for a pregnant goldfish.
+Add Snapple Fact 432: Antarctica holds 90% of the world's fresh water.
+Add Snapple Fact 433: The state of Tennessee was originally called Franklin.
+Add Snapple Fact 434: In the U.S. a pig has to weigh more than 180 lbs to be called a hog.
+Add Snapple Fact 435: Bloodhounds can track a man by smell for up to 100 miles.
+Add Snapple Fact 436: Beavers have orange teeth.
+Add Snapple Fact 437: The woodpecker can hammer wood up to 16 times per second.
+Add Snapple Fact 438: Mount Everest rises a few millimeters every year.
+Add Snapple Fact 439: Snails can sleep for up to three years.
+Add Snapple Fact 440: The pupils in goats' eyes are rectangular.
+Add Snapple Fact 441: Jousting is the official sport in the state of Maryland.
+Add Snapple Fact 442: Bees' wings beat 11,400 times per minute.
+Add Snapple Fact 443: The pound sign, or #, is called an octothorp.
+Add Snapple Fact 444: The Statue of Liberty wears a size 879 sandal.
+Add Snapple Fact 445: If there are two full moons in a month, the second one is called a blue moon.
+Add Snapple Fact 446: You breathe in about 13 pints of air every minute.
+Add Snapple Fact 447: A gallon of water weighs 8.34 pounds.
+Add Snapple Fact 448: The sun evaporates about a trillion tons of water a day.
+Add Snapple Fact 449: Sound travels quicker in water than in air.
+Add Snapple Fact 450: A group of cats is called a clowder.
+Add Snapple Fact 451: Human eyes have over two million working parts.
+Add Snapple Fact 452: There are approximately 9,000 taste buds on your tongue.
+Add Snapple Fact 453: Raindrops can fall as fast as 20 miles per hour.
+Add Snapple Fact 454: Polar bear fur is transparent, not white.
+Add Snapple Fact 455: Lobsters can live up to 50 years.
+Add Snapple Fact 456: About 85% of the world's population is right-handed.
+Add Snapple Fact 457: The first traffic light was in use in London in 1868, before the advent of cars.
+Add Snapple Fact 458: Fresh cranberries can be bounced like a rubber ball.
+Add Snapple Fact 459: A group of a dozen or more cows is called a 'flink.'
+Add Snapple Fact 460: Astronauts actually get taller when in space.
+Add Snapple Fact 461: A fifteen-year-old boy invented earmuffs in 1873.
+Add Snapple Fact 462: There is a ranch in Texas that is bigger than the entire state of Rhode Island.
+Add Snapple Fact 463: The dot over the letter i is called a tittle.
+Add Snapple Fact 464: Cows do not have upper front teeth.
+Add Snapple Fact 465: The great white shark can go up to three months between meals.
+Add Snapple Fact 466: During the Boston Tea Party, 342 chests of tea were thrown into the harbor.
+Add Snapple Fact 467: Pluto takes 248 years to orbit the sun once.
+Add Snapple Fact 468: Camels have three eyelids.
+Add Snapple Fact 469: 454 U.S. dollar bills weigh exactly one pound.
+Add Snapple Fact 470: Dairy cows drink up to 50 gallons of water per day.
+Add Snapple Fact 471: The most common name for a pet goldfish is 'Jaws.'
+Add Snapple Fact 472: A nautical mile is 800 feet longer than a land mile.
+Add Snapple Fact 473: Antarctica has as much ice as the Atlantic Ocean has water.
+Add Snapple Fact 474: To temporarily revive your ballpoint pen, dip the tip into hot water for a few seconds.
+Add Snapple Fact 475: Wrapping rubber bands around the ends of hangers can prevent clothes from slipping off.
+Add Snapple Fact 476: Replacing your car's air filter can improve gas mileage by 10 percent.
+Add Snapple Fact 477: A chalkboard eraser is one of the best ways to wipe a foggy windshield.
+Add Snapple Fact 478: Candles will burn longer and drip less if they are placed in the freezer a few hours before using.
+Add Snapple Fact 479: Knots come out easier if you sprinkle talcum powder on them.
+Add Snapple Fact 480: You can tell which day a loaf of bread was baked by the color of its plastic twist tag.
+Add Snapple Fact 481: Over 50 percent of your body heat is lost through your head and neck.
+Add Snapple Fact 482: Dieting by not eating will actually make your body start conserving calories as fat.
+Add Snapple Fact 483: Smile more - every two thousand frowns creates one wrinkle.
+Add Snapple Fact 484: Rinsing bacon under cold water before frying can reduce the amount it shrinks by almost 50 percent.
+Add Snapple Fact 485: Refrigerating apples can help them last up to 10 times longer than those left at room temperature.
+Add Snapple Fact 486: While chopping onions, hold a piece of bread between your lips to keep your eyes from watering.
+Add Snapple Fact 487: Place an apple in the bag with your potatoes to keep them from budding.
+Add Snapple Fact 488: Place a slice of bread in the storage container to keep cookies soft when storing.
+Add Snapple Fact 489: To keep an ice cream cone from dripping, stuff a miniature marshmallow into the bottom of the cone.
+Add Snapple Fact 490: To take lumps out of a bag of sugar, place it in the refrigerator for 24 hours.
+Add Snapple Fact 492: To remove crayon marks from walls, use a hairdryer to heat the wax.
+Add Snapple Fact 493: To make a zipper slide up and down more smoothly, rub a bar of soap over the teeth.
+Add Snapple Fact 494: Wipe the leaves of your plants with the soft inside of a banana skin to bring up shine and remove dust.
+Add Snapple Fact 496: To clean paint off your hands, use olive oil - it softens the paint and makes it easy to remove.
+Add Snapple Fact 497: To fix a button about to fall off, dab a little clear nail polish over the threads holding it on.
+Add Snapple Fact 651: Forty-six percent of leisure visitors to downtown New York City come from outside the United States.
+Add Snapple Fact 654: New York taxi drivers collectively speak 60 languages.
+Add Snapple Fact 658: New York City is made up of 50 islands.
+Add Snapple Fact 660: The strike note of The Liberty Bell is E flat.
+Add Snapple Fact 661: Pigs were banished from Philadelphia's city streets in 1710.
+Add Snapple Fact 662: Philadelphia was the first capital of the United States.
+Add Snapple Fact 663: Forty percent of America's population lives within a one-day drive to Philadelphia.
+Add Snapple Fact 664: It is against the law to put pretzels in bags in Philadelphia.
+Add Snapple Fact 665: One in six doctors in America was trained in Philadelphia.
+Add Snapple Fact 667: The shoreline at Wildwood grows almost 100 feet per year.
+Add Snapple Fact 668: Cape May is the oldest seashore resort in America.
+Add Snapple Fact 669: In the game Monopoly, the properties are named after streets in Atlantic City.
+Add Snapple Fact 670: Long Beach Island was once frequented by pirates.
+Add Snapple Fact 671: There is a town called Jersey Shore in Pennsylvania.
+Add Snapple Fact 672: The Wildwood Boardwalk extends nearly two miles and has more than 70,000 wooden planks.
+Add Snapple Fact 673: The average turtle can't reproduce until it's 25 years old.
+Add Snapple Fact 674: The oldest living animal ever found was a 405 year-old clam, named Ming by researchers.
+Add Snapple Fact 675: More than 180 countries celebrate Earth Day together every April 22nd.
+Add Snapple Fact 676: At 5 feet, the whooping crane is the tallest bird in North America.
+Add Snapple Fact 677: A full-grown tree produces enough oxygen to support a family of four.
+Add Snapple Fact 678: Unlike your housecat, the Siberian tiger actually loves to swim!
+Add Snapple Fact 679: A tiger's night vision is six times better than a human's.
+Add Snapple Fact 680: More Siberian tigers live in zoos than in the wild.
+Add Snapple Fact 681: The jaguar, the largest cat in the Western Hemisphere, once lived all over the southern US.
+Add Snapple Fact 682: The giant panda can eat up to 83 lbs of bamboo a day.
+Add Snapple Fact 683: Wildlife Forever has helped plant 132,420 trees in America since its founding in 1987.
+Add Snapple Fact 684: Manhattan Island was once home to as many different species as Yellowstone National Park.
+Add Snapple Fact 685: Dogs can make about 10 sounds, cats make about 100.
+Add Snapple Fact 686: A Pelican can hold more food in its beak than its belly.
+Add Snapple Fact 687: The average cat can jump 5 times as high as its tail is long.
+Add Snapple Fact 688: Flying fish leap out of the water at 20 mph or more, and can glide for over 500 feet.
+Add Snapple Fact 689: The roadrunner chases after its prey at a blurring speed of up to 25 mph.
+Add Snapple Fact 690: A chameleon shoots out its tongue to catch prey at speeds faster than a fighter jet.
+Add Snapple Fact 691: The archer fish can spit water up to 7 feet to shoot down bugs from overhanging leaves.
+Add Snapple Fact 692: The spotted skunk does a handstand to warn off its enemies before it sprays its stench.
+Add Snapple Fact 693: A male cricket's ear is located on the tibia of its leg.
+Add Snapple Fact 694: Spiny lobsters migrate in groups of 50 or more, forming a conga line on the ocean floor.
+Add Snapple Fact 695: The National Park Service manages over 350 parks on 80 million acres of public land.
+Add Snapple Fact 696: With an average life expectancy of 81.2 years, the people of Okinawa, Japan live the longest.
+Add Snapple Fact 697: Pilates stretches your muscles, improving your posture and helping you appear taller.
+Add Snapple Fact 698: Stepping out for a walk every day can actually help you sleep better at night.
+Add Snapple Fact 699: After working out, it takes 5 hours for your body temperature to return to normal.
+Add Snapple Fact 700: Turning the faucet off while brushing your teeth can save up to 5 gallons of water.
+Add Snapple Fact 701: It takes more water to fill a bathtub than it does to enjoy a nice, warm shower.
+Add Snapple Fact 702: On average, a laptop uses half as much energy as a desktop computer.
+Add Snapple Fact 703: The average bar of soap lasts twice as long as a bottle of body wash.
+Add Snapple Fact 704: Recycled paper is made using 40% less energy than normal paper.
+Add Snapple Fact 705: Every ton of recycled paper saves about 17 trees.
+Add Snapple Fact 706: Steel is 100% recyclable.
+Add Snapple Fact 707: Most rechargeable batteries can be recharged up to 1,000 times.
+Add Snapple Fact 708: Manufacturing recycled goods uses up to 95% less energy than using raw materials.
+Add Snapple Fact 709: Hybrid cars produce up to 75% less pollution than other vehicles.
+Add Snapple Fact 710: A tankless water heater uses half the energy of a standard model.
+Add Snapple Fact 711: Baking soda makes a great scouring cleanser, and it's naturally chemical-free.
+Add Snapple Fact 712: 100% recyclable, old newspapers are great for washing windows.
+Add Snapple Fact 713: An egg that is fresh will sink in water, but a stale one won't.
+Add Snapple Fact 714: When thirsty, a camel can drink 25 gallons of water in less than three minutes.
+Add Snapple Fact 715: In one day, a full-grown oak tree expels 7 tons of water through its leaves.
+Add Snapple Fact 716: There is a museum of strawberries in Belgium.
+Add Snapple Fact 717: The mango is the most consumed fruit in the world.
+Add Snapple Fact 718: On average a strawberry has 200 seeds on it.
+Add Snapple Fact 719: A strawberry is not an actual berry but a banana is.
+Add Snapple Fact 720: Fresh apples float because 25 percent of their volume is air.
+Add Snapple Fact 721: The pomegranate is one of the oldest fruits known to man.
+Add Snapple Fact 722: The peach was the first fruit to be eaten on the moon.
+Add Snapple Fact 723: The optimum depth of water in a birdbath is two and a half inches.
+Add Snapple Fact 724: A pineapple is neither an apple or a pine. It is, in fact, a large berry.
+Add Snapple Fact 725: Only female mosquitoes bite.
+Add Snapple Fact 726: A polar bear cannot be seen by an infrared camera, due to its transparent fur.
+Add Snapple Fact 727: A spider's silk is stronger than steel.
+Add Snapple Fact 728: The planet Saturn has a density lower than water. It would float if placed in water.
+Add Snapple Fact 729: Twins have a very high occurrence of left handedness.
+Add Snapple Fact 730: The fear of vegetables is called lachanophobia.
+Add Snapple Fact 731: There are over 2,000 different species of cactuses.
+Add Snapple Fact 732: The chicken is the closest living relative of Tyrannosaurus Rex.
+Add Snapple Fact 733: All scorpions glow.
+Add Snapple Fact 734: Potatoes have more chromosomes than humans.
+Add Snapple Fact 735: A full moon is nine times brighter than a half moon.
+Add Snapple Fact 736: More babies are born at night than during the day.
+Add Snapple Fact 737: The human brain takes up 2% of human body weight but uses 20% of its energy.
+Add Snapple Fact 738: There are more species of fish in the Amazon river than in the Atlantic Ocean.
+Add Snapple Fact 739: You transfer more germs shaking hands than kissing.
+Add Snapple Fact 740: Poison Ivy is not Ivy and Poison Oak is not an Oak. They are both part of the Cashew family.
+Add Snapple Fact 741: Plants, like humans, can run a fever if they are sick.
+Add Snapple Fact 742: Over half of the world's geysers are found in Yellowstone National Park.
+Add Snapple Fact 743: A group of geese on the ground is a gaggle, a group of geese in the air is a skein.
+Add Snapple Fact 744: Polar bears can smell a seal from 20 miles away.
+Add Snapple Fact 745: Armadillos have four babies at a time and they are always all the same sex.
+Add Snapple Fact 746: The only insect that can turn its head is a praying mantis.
+Add Snapple Fact 747: Alaska was bought from Russia for about 2 cents an acre.
+Add Snapple Fact 748: A dog's average body temperature is 101 degrees Fahrenheit.
+Add Snapple Fact 749: The average housefly lives for one month.
+Add Snapple Fact 750: The common garden worm has five pairs of hearts.
+Add Snapple Fact 751: Flamingos can only eat with their heads upside down.
+Add Snapple Fact 752: A group of twelve or more cows is called a flink.
+Add Snapple Fact 753: A group of goats is called a trip.
+Add Snapple Fact 754: An alligator can go through 3,000 teeth in a lifetime.
+Add Snapple Fact 755: There are more chickens than people in the world.
+Add Snapple Fact 756: Penguins can jump 6 feet.
+Add Snapple Fact 757: There are approximately 7,000 feathers on an eagle.
+Add Snapple Fact 758: The only lizard that has a voice is the Gecko.
+Add Snapple Fact 759: A rhinoceros horn is made of compacted hair.
+Add Snapple Fact 760: Dolphins sleep with one eye open.
+Add Snapple Fact 761: Owls are one of the only birds who can see the color blue.
+Add Snapple Fact 762: A duck has three eyelids.
+Add Snapple Fact 763: Tigers have striped skin, not just striped fur.
+Add Snapple Fact 764: The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.
+Add Snapple Fact 765: A cat has 32 muscles in each ear.
+Add Snapple Fact 766: The hippopotamus has the capability to remain underwater for as long as five minutes.
+Add Snapple Fact 767: Honeybees have hair on their eyes.
+Add Snapple Fact 768: Most elephants weigh less than the tongue of a blue whale.
+Add Snapple Fact 769: If a sheep and a goat mate the offspring is called a geep.
+Add Snapple Fact 770: Pistol shrimp can make a noise loud enough to break glass.
+Add Snapple Fact 771: Some dinosaurs were as small as chickens.
+Add Snapple Fact 772: Male moose shed their antlers every winter and grow a new pair the next year.
+Add Snapple Fact 773: Mountain goats aren't actually goats. They are antelopes.
+Add Snapple Fact 774: Koalas only drink water in extreme heat or drought.
+Add Snapple Fact 775: Bees are born fully grown.
+Add Snapple Fact 776: Ferret comes from the Latin word for little thief.
+Add Snapple Fact 777: Cats have 2 sets of vocal cords: one for purring and one for meowing.
+Add Snapple Fact 778: Some bears build nests in trees for sunbathing and resting.
+Add Snapple Fact 779: A group of jellyfish is called a smack.
+Add Snapple Fact 780: The indentation in the middle of the area between the nose and the upper lip is called the philtrum.
+Add Snapple Fact 781: Women blink nearly twice as much as men.
+Add Snapple Fact 803: Antarctica is the only continent with no owls.
+Add Snapple Fact 804: There are 293 ways to make change for a dollar.
+Add Snapple Fact 805: India has a Bill of Rights for cows.
+Add Snapple Fact 806: In Albania, nodding your head means no and shaking your head means yes.
+Add Snapple Fact 807: Shakespeare invented the word assassination and bump.
+Add Snapple Fact 808: Some violins contain 70 separate pieces of wood.
+Add Snapple Fact 809: French author Michel Thayer published a 233 page novel which has no verbs.
+Add Snapple Fact 810: Australia is the only continent without an active volcano.
+Add Snapple Fact 811: The dots on a domino are called pips.
+Add Snapple Fact 812: 111,111,111 x 111,111,111 = 12,345,678,987,654,321
+Add Snapple Fact 813: The number sign # is called an octothorpe.
+Add Snapple Fact 814: Tug-of-war was an Olympic sport in the early 1900's.
+Add Snapple Fact 815: The name of the city we call Bangkok is 115 letters long in the Thai language.
+Add Snapple Fact 816: In Ancient Greece throwing an apple to a woman was considered a marriage proposal.
+Add Snapple Fact 817: Karate originated in India.
+Add Snapple Fact 818: The infinity sign is called a lemniscate.
+Add Snapple Fact 819: Children grow faster during springtime.
+Add Snapple Fact 820: Relative to size, the tongue is the strongest muscle in the human body.
+Add Snapple Fact 821: It takes an interaction of 72 muscles to produce human speech.
+Add Snapple Fact 822: The only jointless bone in the body is in your throat.
+Add Snapple Fact 823: Sailors once thought wearing gold earrings improved eyesight.
+Add Snapple Fact 824: On average a man spends about five months of his life shaving.
+Add Snapple Fact 825: Our eyes are always the same size from birth, but our nose and ears never stop growing.
+Add Snapple Fact 826: In the average lifetime, a person will walk the equivalent of 5 times around the equator.
+Add Snapple Fact 827: Your skull is made up of 29 different bones.
+Add Snapple Fact 828: Every hour more than one billion cells in the body must be replaced.
+Add Snapple Fact 829: Women's hearts beat faster than men's hearts.
+Add Snapple Fact 830: The average human dream lasts only 2 to 3 seconds.
+Add Snapple Fact 831: Six-year-olds laugh an average of 300 times a day. Adults only laugh 15 to 100 times a day.
+Add Snapple Fact 832: Brain waves can power an electric train.
+Add Snapple Fact 833: Children have more taste buds than adults.
+Add Snapple Fact 834: Right handed people tend to chew food on the right side and lefties chew on the left.
+Add Snapple Fact 835: You burn more calories sleeping than you do watching television.
+Add Snapple Fact 836: Pomology is the study of fruit.
+Add Snapple Fact 837: The most widely eaten fruit in America is the banana.
+Add Snapple Fact 838: Cranberries are sorted for ripeness by bouncing them.
+Add Snapple Fact 839: A cucumber consists of 96% water.
+Add Snapple Fact 840: The only food that does not spoil is honey.
+Add Snapple Fact 841: The most popular ice cream flavor is vanilla.
+Add Snapple Fact 842: Vanilla is used to make chocolate.
+Add Snapple Fact 843: Bamboo (the world's tallest grass) can grow up to 90cm in a day.
+Add Snapple Fact 844: One lump of sugar is equivalent to three feet of sugar cane.
+Add Snapple Fact 845: A lemon contains more sugar than a strawberry.
+Add Snapple Fact 846: An average of three billion cups of tea are consumed daily worldwide.
+Add Snapple Fact 847: Until the nineteenth century, solid blocks of tea were used as money in Siberia.
+Add Snapple Fact 848: Wild camels once roamed Arizona's deserts.
+Add Snapple Fact 849: New York was the first state to require cars to have license plates.
+Add Snapple Fact 850: Hawaii is further south than Florida.
+Add Snapple Fact 851: Miami installed the first ATM for rollerbladers.
+Add Snapple Fact 852: Clearwater, Florida has the highest rate of lightning strikes per capita in the US.
+Add Snapple Fact 853: Hawaii has its own time zone.
+Add Snapple Fact 854: Hawaii is the only US state that grows coffee.
+Add Snapple Fact 855: Oregon has more ghost towns than any other US city.
+Add Snapple Fact 856: The world's largest silver nugget (1,840 lbs) was found in 1894 near Aspen, Colorado.
+Add Snapple Fact 857: Louisiana is home to over 80% of the world's crayfish.
+Add Snapple Fact 858: New Jersey is home to the world's first drive-in movie theater.
+Add Snapple Fact 859: George Washington took the oath of office in New York City in 1789.
+Add Snapple Fact 860: Cleveland, OH is home to the first electric traffic lights.
+Add Snapple Fact 861: South Carolina is home to the first tea farm in the U.S.
+Add Snapple Fact 862: The typewriter was invented in Milwaukee, WI in 1867.
+Add Snapple Fact 863: The term rookies comes from a Civil War term, reckie, which was short for recruit.
+Add Snapple Fact 864: Taft was the heaviest U.S. President at 329lbs; Madison was the smallest at 100lbs.
+Add Snapple Fact 865: Harry Truman was the last U.S. President to not have a college degree.
+Add Snapple Fact 866: Abraham Lincoln was the tallest U.S. President at 6'4". James Madison was the shortest at 5'4".
+Add Snapple Fact 867: Franklin Roosevelt was related to 5 U.S. Presidents by blood and 6 by marriage.
+Add Snapple Fact 868: Thomas Jefferson invented the coat hanger.
+Add Snapple Fact 869: Theodore Roosevelt had a pet bear while in office.
+Add Snapple Fact 870: President Warren G. Harding once lost white house china in a poker game.
+Add Snapple Fact 871: Ulysses Simpson Grant once got a $20.00 fine for speeding on his horse.
+Add Snapple Fact 872: President William Taft weighed over 300 lbs and once got stuck in the white house bathtub.
+Add Snapple Fact 873: President William McKinley had a pet parrot that he named "Washington Post."
+Add Snapple Fact 874: Harry S. Truman's middle name is S.
+Add Snapple Fact 875: Before Thomas Jefferson took office people bowed to the president, rather than shaking his hand.
+Add Snapple Fact 876: The youngest U.S. president to be in office was Theodore Roosevelt at age 42.
+Add Snapple Fact 877: People don't sneeze when they are asleep because the nerves involved in the sneeze reflex are also resting.
+Add Snapple Fact 878: Only male fireflies can fly.
+Add Snapple Fact 879: Most Koala bears sleep about 22 hours a day.
+Add Snapple Fact 880: The Venus flytrap can eat a whole cheeseburger.
+Add Snapple Fact 881: A baby caribou can outrun its mother at 3 days old.
+Add Snapple Fact 882: In 1859, 24 rabbits were released in Australia. Within 6 years, the population grew to 2 million.
+Add Snapple Fact 883: Butterflies taste with their hind feet.
+Add Snapple Fact 884: A strand from the web of a golden spider is as strong as a steel wire of the same size.
+Add Snapple Fact 885: Vultures can fly for six hours without flapping their wings.
+Add Snapple Fact 886: The bumblebee bat is the smallest mammal on Earth. It weighs less than a penny.
+Add Snapple Fact 887: The Valley of Square Trees in Panama is the only known place in the world where trees have rectangular trunks.
+Add Snapple Fact 888: In some cultures' telling of Snow White, the dwarves are thieves.
+Add Snapple Fact 889: The original Cinderella was Egyptian and wore fur slippers.
+Add Snapple Fact 890: The number 1 or the word One appears on the dollar bill 16 times.
+Add Snapple Fact 891: Pound cake got its name from the original recipe which called for a pound of butter.
+Add Snapple Fact 892: The can opener was invented 48 years after the can.
+Add Snapple Fact 893: Jack-O-Lanterns were originally made out of turnips.
+Add Snapple Fact 894: Jousting is the official sport of Maryland.
+Add Snapple Fact 895: If you shake a can of mixed nuts, the larger nuts will rise to the top.
+Add Snapple Fact 896: 2nd Street is the most common street name in the United States; First Street is the 6th most common.
+Add Snapple Fact 897: The Mayflower only held 102 People.
+Add Snapple Fact 898: The ridges on the sides of coins are called reeding or milling.
+Add Snapple Fact 899: The plastic things on the end of shoelaces are called aglets.
+Add Snapple Fact 900: Neckties were first worn in Croatia, which is why they were called cravats.
+Add Snapple Fact 901: The quartz crystal in your wristwatch vibrates 32,768 times a second.
+Add Snapple Fact 902: Barbie's full name is Barbara Millicent Roberts.
+Add Snapple Fact 903: The first TV toy commercial aired in 1946 for Mr. Potato Head.
+Add Snapple Fact 904: If done perfectly, any Rubik's Cube combination can be solved in 17 turns.
+Add Snapple Fact 905: The side of a hammer is called a cheek.
+Add Snapple Fact 906: Rubber bands last longer when refrigerated.
+Add Snapple Fact 907: Dueling is legal in Paraguay as long as both parties are registered blood donors.
+Add Snapple Fact 908: In Athens, Greece, a driver's license can be taken away by law if the driver is deemed either unbathed or poorly dressed.
+Add Snapple Fact 909: In Texas, it is illegal to graffiti someone's cow.
+Add Snapple Fact 910: Less than 2% of the water on Earth is fresh.
+Add Snapple Fact 911: A cubic mile of fog is made up of less than a gallon of water.
+Add Snapple Fact 912: Meteorologists claim they're right 85% of the time.
+Add Snapple Fact 913: The Saturn V moon rocket consumed 15 tons of fuel per second.
+Add Snapple Fact 914: A manned rocket can reach the moon in less time than it took a stagecoach to travel the length of England.
+Add Snapple Fact 915: At room temperature, the average air molecule travels at the speed of a rifle bullet.
+Add Snapple Fact 917: The average lead pencil can draw a line 35 miles long or write roughly 50,000 English words.
+Add Snapple Fact 918: The first lollipop was invented in Connecticut.
+Add Snapple Fact 919: The Lollipop was named after one of the most famous Racehorses in the early 1900s, Lolly Pop.
+Add Snapple Fact 920: Buzz Aldrin was one of the first men on the moon. His mother's maiden name was also Moon.
+Add Snapple Fact 921: If you had 1 billion dollars and spent 1 thousand dollars a day, it would take you 2,749 years to spend it all.
+Add Snapple Fact 922: Maine is the only state with a one-syllable name.
+Add Snapple Fact 923: In Germany the shhh sound means hurry up.
+Add Snapple Fact 924: The highest denomination issued by the U.S. was the 100,000 dollar bill.
+Add Snapple Fact 925: The White House was originally called the President's Palace. It became The White House in 1901.
+Add Snapple Fact 926: George Washington was the only unanimously elected President.
+Add Snapple Fact 927: John Adams was the only President to be defeated by his Vice President, Thomas Jefferson.
+Add Snapple Fact 928: New York City has 722 miles of subway track.
+Add Snapple Fact 929: Manatees' eyes close in a circular motion, much like the aperture of a camera.
+Add Snapple Fact 930: Even though it is nearly twice as far away from the Sun as Mercury, Venus is by far the hottest planet.
+Add Snapple Fact 931: The nothingness of a black hole generates a sound in the key of B flat.
+Add Snapple Fact 932: Horses can't vomit.
+Add Snapple Fact 933: A crocodile can't stick out its tongue.
+Add Snapple Fact 934: Babies are born with about 300 separate bones. Adults have 206.
+Add Snapple Fact 935: Newborn babies cannot cry tears for at least three weeks.
+Add Snapple Fact 936: A day on Venus lasts longer than a year on Venus.
+Add Snapple Fact 937: Squirrels lose more than half of the nuts they hide.
+Add Snapple Fact 938: It cost the United States Mint two cents to produce and distribute a penny in 2012.
+Add Snapple Fact 939: The penny was the first U.S. coin to feature the likeness of an actual person.
+Add Snapple Fact 940: Forty percent of twins invent their own language.
+Add Snapple Fact 941: In South Korea, it is against the rules for a professional baseball player to wear cabbage leaves inside of his hat.
+Add Snapple Fact 942: Curly hair follicles are oval, while straight hair follicles are round.
+Add Snapple Fact 943: George Washington had false teeth made of gold, ivory, and lead - but never wood.
+Add Snapple Fact 944: Napoleon Bonaparte was not short. At 5' 7", he was of average height for his time.
+Add Snapple Fact 945: The Inca built the largest and wealthiest empire in South America, but had no concept of money.
+Add Snapple Fact 946: It is against the law to use "The Star Spangled Banner" as dance music in Massachusetts.
+Add Snapple Fact 947: Queen Cleopatra of Egypt was not actually Egyptian, but a Macedonian Greek.
+Add Snapple Fact 948: Early football fields were painted with both horizontal and vertical lines, creating a pattern that resembled a gridiron.
+Add Snapple Fact 949: Two national capitals are named after U.S. presidents: Washington, D.C., and Monrovia, the capital of Liberia.
+Add Snapple Fact 950: The first spam message was transmitted over telegraph wires in 1864.
+Add Snapple Fact 951: A pearl can be dissolved by vinegar.
+Add Snapple Fact 952: Queen Isabella I of Spain, who funded Columbus' voyage across the ocean, claimed to have only bathed twice in her life.
+Add Snapple Fact 953: The longest attack of hiccups ever lasted 68 years.
+Add Snapple Fact 954: Until its demolition in 2012, one percent of Greenland's total population lived in a single apartment building called Blok P.
+Add Snapple Fact 955: A bolt of lightning can reach temperatures hotter than 50,000 degrees Fahrenheit - five times hotter than the sun.
+Add Snapple Fact 956: At the deepest point in the ocean, the water pressure is equivalent to having about 50 jumbo jets piled on top of you.
+Add Snapple Fact 957: In only 7.6 billion years, the sun will reach its maximum size and will shine 3,000 times brighter.
+Add Snapple Fact 958: The state of Alabama once financed the construction of a bridge by holding a rooster auction.
+Add Snapple Fact 959: Federal law once allowed the government to quarantine people who came in contact with aliens.
+Add Snapple Fact 960: There are 21 "secret" highways that are part of the Interstate Highway System. They are not identified as such by road signs.
+Add Snapple Fact 961: The aphid, a small, sap-sucking insect, is born pregnant.
+Add Snapple Fact 962: John Wilkes Booth's brother once saved the life of Abraham Lincoln's son.
+Add Snapple Fact 963: The Pacific Ocean is eight inches higher than the Atlantic Ocean at the Panama Canal.
+Add Snapple Fact 964: It is illegal in the United Kingdom to handle salmon in suspicious circumstances.
+Add Snapple Fact 965: It is illegal to play annoying games in the street in the United Kingdom.
+Add Snapple Fact 966: Tennis was originally played with bare hands.
+Add Snapple Fact 967: There are ten times more microbial cells than human cells in our bodies.
+Add Snapple Fact 968: -40 degrees Fahrenheit is the same temperatures as -40 degrees Celsius.
+Add Snapple Fact 969: John Tyler had more children than any other U.S. president. The last of his 15 children was born when he was 70 years old.
+Add Snapple Fact 970: Dolphins are unable to smell.
+Add Snapple Fact 971: Charlie Chaplin failed to make the finals of a Charlie Chaplin look-alike contest.
+Add Snapple Fact 972: The name of the city of Portland, Oregon was decided by a coin toss. The name that lost was Boston.
+Add Snapple Fact 973: Within five minutes of waking, 50 percent of a dream is forgotten. Within ten minutes, 90 percent of it is forgotten.
+Add Snapple Fact 974: All gondolas in Venice, Italy must be painted black unless they are carrying an important person.
+Add Snapple Fact 975: The letter J is the only letter in the alphabet that does not appear anywhere on the periodic table of the elements.
+Add Snapple Fact 976: 'K' was chosen to stand for a strikeout in baseball because 'S' was being used to denote a sacrifice.
+Add Snapple Fact 977: The tradition of baseball managers wearing player uniforms started because the first managers were also players.
+Add Snapple Fact 978: George Washington feared being buried alive.
+Add Snapple Fact 979: A dimpled golf ball produces less drag and flies farther than a smooth golf ball would fly.
+Add Snapple Fact 980: When grazing or resting, cows tend to align their bodies with the magnetic north and south poles.
+Add Snapple Fact 981: President Chester A. Arthur owned 80 pairs of pants, which he changed several times per day.
+Add Snapple Fact 982: Cows do not have upper front teeth.
+Add Snapple Fact 983: Between 1979 and 1999, the planet Neptune was farther from the Sun than Pluto. This will happen again in 2227.
+Add Snapple Fact 984: When creating a mummy, Ancient Egyptians removed the brain by inserting a hook through the nostrils.
+Add Snapple Fact 985: All of the major candidates in the 1992, 1996, and 2008 U.S. presidential elections were left-handed.
+Add Snapple Fact 986: In Switzerland, it is illegal to own only one guinea pig because they are prone to loneliness.
+Add Snapple Fact 987: The first American gold rush happened in North Carolina, not California.
+Add Snapple Fact 988: Each year, the Moon moves away from Earth by about four centimeters.
+Add Snapple Fact 989: To make one pound of honey, a honeybee must tap about two million flowers.
