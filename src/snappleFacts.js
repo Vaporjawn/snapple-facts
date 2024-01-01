@@ -122,6 +122,14 @@ const snappleFacts = [
     fact: 'Fish have eyelids.',
   },
   {
+    number: 31,
+    fact: 'The average human eats 8 spiders in his/her lifetime while sleeping.',
+  },
+  {
+    number: 32,
+    fact: 'There are one million ants to every human in the world.',
+  },
+  {
     number: 33,
     fact: 'Termites eat through wood two times faster when listening to rock music!',
   },
