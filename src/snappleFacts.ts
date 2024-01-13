@@ -287,6 +287,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'There is a town called "Big Ugly" in West Virginia.',
   },
   {
+    number: 72,
+    fact: 'The average person uses 150 gallons of water per day for personal use.',
+  },
+  {
     number: 73,
     fact: 'The average person spends 2 weeks over his/her lifetime waiting for a traffic light to change.',
   },
