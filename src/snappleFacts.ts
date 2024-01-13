@@ -454,6 +454,10 @@ const snappleFacts: SnappleFact[] = [
     number: 113,
     fact: 'The fastest recorded speed of a racehorse was over 43 mph.',
   },
+  {
+      number: 114,
+      fact: 'The oldest known animal was a tortoise, which lived to be 152 years old.',
+  },
   },
   {
     number: 118,
