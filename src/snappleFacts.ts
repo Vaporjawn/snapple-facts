@@ -418,6 +418,9 @@ const snappleFacts: SnappleFact[] = [
     number: 104,
     fact: 'There are more than 30,000 diets on public record.',
   },
+  {
+    number: 105,
+    fact: 'You will burn about 7% more calories walking on hard dirt than on pavement.',
   },
   {
     number: 106,
