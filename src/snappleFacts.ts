@@ -466,6 +466,9 @@ const snappleFacts: SnappleFact[] = [
       number: 116,
       fact: 'The largest fish is the whale shark - it can be over 50 feet long and weigh two tons.',
   },
+  {
+      number: 117,
+      fact: 'The starfish is the only animal that can turn its stomach inside out.',
   },
   {
     number: 118,
