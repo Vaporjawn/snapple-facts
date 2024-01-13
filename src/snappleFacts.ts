@@ -303,6 +303,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The average person makes 1,140 phone calls per year.',
   },
   {
+    number: 76,
+    fact: 'The average person spends about 2 years on the phone in a lifetime.',
+  },
+  {
     number: 77,
     fact: 'No piece of paper can be folded more than seven times.',
   },
