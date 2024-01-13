@@ -414,6 +414,10 @@ const snappleFacts: SnappleFact[] = [
     number: 103,
     fact: 'Frowning burns more calories than smiling.',
   },
+  {
+    number: 104,
+    fact: 'There are more than 30,000 diets on public record.',
+  },
   },
   {
     number: 106,
