@@ -299,6 +299,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'You share your birthday with at least 9 million other people in the world.',
   },
   {
+    number: 75,
+    fact: 'The average person makes 1,140 phone calls per year.',
+  },
+  {
     number: 77,
     fact: 'No piece of paper can be folded more than seven times.',
   },
