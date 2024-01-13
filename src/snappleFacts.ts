@@ -363,6 +363,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The average raindrop falls at seven mph.',
   },
   {
+    number: 91,
+    fact: 'There are more telephones than people in Washington, D.C.',
+  },
+  {
     number: 92,
     fact: 'Fish can drown.',
   },
