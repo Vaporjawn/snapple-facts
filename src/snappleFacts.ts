@@ -211,6 +211,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'About 11% of the people in the world are left-handed.',
   },
   {
+    number: 53,
+    fact: 'The average woman consumes six pounds of lipstick in her lifetime.',
+  },
+  {
     number: 54,
     fact: 'The average smell weighs 760 nanograms.',
   },
