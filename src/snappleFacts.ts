@@ -399,6 +399,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'You burn about 20 calories per hour chewing gum.',
   },
   {
+    number: 100,
+    fact: 'In a year, the average person walks four miles making his or her bed.',
+  },
+  {
     number: 102,
     fact: 'A one-minute kiss burns about 26 calories.',
   },
