@@ -428,7 +428,11 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 107,
-    fact: 'You burn more calories sleeping than you do watching TV.',
+    fact: 'You burn more calories sleeping than watching TV.',
+  },
+  {
+    number: 108,
+    fact: 'Licking a stamp burns 10 calories.',
   },
   {
     number: 109,
@@ -447,8 +451,9 @@ const snappleFacts: SnappleFact[] = [
     fact: 'At birth, a Dalmatian is always pure white.',
   },
   {
-    number: 116,
-    fact: 'The largest fish is the whale shark – it can be over 50 feet long and weigh two tons.',
+    number: 113,
+    fact: 'The fastest recorded speed of a racehorse was over 43 mph.',
+  },
   },
   {
     number: 118,
