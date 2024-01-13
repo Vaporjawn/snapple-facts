@@ -355,6 +355,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'A ten gallon hat holds less than one gallon of liquid.',
   },
   {
+    number: 89,
+    fact: 'The average American walks 18,000 steps a day.',
+  },
+  {
     number: 90,
     fact: 'The average raindrop falls at seven mph.',
   },
