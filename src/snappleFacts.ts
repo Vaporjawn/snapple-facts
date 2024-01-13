@@ -458,6 +458,10 @@ const snappleFacts: SnappleFact[] = [
       number: 114,
       fact: 'The oldest known animal was a tortoise, which lived to be 152 years old.',
   },
+  {
+      number: 115,
+      fact: 'Bamboo makes up 99 percent of a panda\'s diet.',
+  },
   },
   {
     number: 118,
