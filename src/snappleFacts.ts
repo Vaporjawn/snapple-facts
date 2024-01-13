@@ -143,6 +143,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Elephants only sleep two hours a day.',
   },
   {
+    number: 36,
+    fact: 'A duck\'s quack doesn\'t echo.',
+  },
+  {
     number: 37,
     fact: 'A snail breathes through its foot.',
   },
