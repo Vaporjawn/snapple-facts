@@ -403,6 +403,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'In a year, the average person walks four miles making his or her bed.',
   },
   {
+    number: 101,
+    fact: 'About half of all Americans are on a diet on any given day.',
+  },
+  {
     number: 102,
     fact: 'A one-minute kiss burns about 26 calories.',
   },
