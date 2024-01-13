@@ -163,6 +163,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'It is possible to lead a cow up stairs but not down.',
   },
   {
+    number: 41,
+    fact: 'Shrimp can only swim backward.',
+  },
+  {
     number: 42,
     fact: 'Frogs cannot swallow with their eyes open.',
   },
