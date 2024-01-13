@@ -428,7 +428,11 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 107,
-    fact: 'You burn more calories sleeping than you do watching TV.',
+    fact: 'You burn more calories sleeping than watching TV.',
+  },
+  {
+    number: 108,
+    fact: 'Licking a stamp burns 10 calories.',
   },
   {
     number: 109,
