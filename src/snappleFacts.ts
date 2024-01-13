@@ -408,7 +408,12 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 102,
-    fact: 'A one-minute kiss burns about 26 calories.',
+    fact: 'A one-minute kiss burns 26 calories.',
+  },
+  {
+    number: 103,
+    fact: 'Frowning burns more calories than smiling.',
+  },
   },
   {
     number: 106,
