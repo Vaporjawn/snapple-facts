@@ -462,6 +462,10 @@ const snappleFacts: SnappleFact[] = [
       number: 115,
       fact: 'Bamboo makes up 99 percent of a panda\'s diet.',
   },
+  {
+      number: 116,
+      fact: 'The largest fish is the whale shark - it can be over 50 feet long and weigh two tons.',
+  },
   },
   {
     number: 118,
