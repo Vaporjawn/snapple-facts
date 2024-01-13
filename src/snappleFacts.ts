@@ -327,6 +327,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Alaska has more caribou than people.',
   },
   {
+    number: 82,
+    fact: 'August has the highest percentage of births.',
+  },
+  {
     number: 83,
     fact: 'Googol is a number (1 followed by 100 zeros).',
   },
