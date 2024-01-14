@@ -863,6 +863,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Tennessee banned the use of a lasso to catch fish.',
   },
   {
+    number: 216,
+    fact: 'TV dinners originated in the Arctic.',
+  },
+  {
     number: 217,
     fact: 'Blackboard chalk contains no chalk.',
   },
