@@ -539,6 +539,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'An ant can lift 50 times its own weight.',
   },
   {
+    number: 135,
+    fact: 'A single coffee tree produces only about a pound of coffee beans per year.',
+  },
+  {
     number: 136,
     fact: 'Strawberries are the only fruits whose seeds grow on the outside.',
   },
