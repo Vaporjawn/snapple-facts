@@ -923,6 +923,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Caterpillars have over 2,000 muscles.',
   },
   {
+    number: 231,
+    fact: 'Detroit has the greatest number of registered bowlers in the U.S.',
+  },
+  {
     number: 232,
     fact: 'The blue whale\'s heart is the size of a small car.',
   },
