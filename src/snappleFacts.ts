@@ -899,6 +899,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'America\'s 1st roller coaster was built in 1827 to carry coal from a mine to boats below.',
   },
   {
+    number: 225,
+    fact: 'There are towns named Sandwich in Illinois and Massachusetts.',
+  },
+  {
     number: 228,
     fact: 'There is a town in South Dakota named Tea.',
   },
