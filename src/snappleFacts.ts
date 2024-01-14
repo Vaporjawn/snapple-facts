@@ -815,6 +815,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Atlantic salmon are capable of leaping 15 feet high.',
   },
   {
+    number: 204,
+    fact: 'A stamp shaped like a banana was once issued in the country of Tonga.',
+  },
+  {
     number: 206,
     fact: 'Over 1 million Earths would fit inside the Sun.',
   },
