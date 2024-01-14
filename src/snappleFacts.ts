@@ -807,6 +807,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The only one-syllabled U.S. state is Maine.',
   },
   {
+    number: 202,
+    fact: 'The mouth of the Statue of Liberty is 3 feet wide.',
+  },
+  {
     number: 203,
     fact: 'Atlantic salmon are capable of leaping 15 feet high.',
   },
