@@ -855,6 +855,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The largest ball of twine in the US weighs over 17,000.',
   },
   {
+    number: 214,
+    fact: 'Giraffes can lick their own eyes.',
+  },
+  {
     number: 215,
     fact: 'Tennessee banned the use of a lasso to catch fish.',
   },
