@@ -903,6 +903,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'There are towns named Sandwich in Illinois and Massachusetts.',
   },
   {
+    number: 226,
+    fact: '13 percent of the world\'s tea comes from Kenya.',
+  },
+  {
     number: 228,
     fact: 'There is a town in South Dakota named Tea.',
   },
