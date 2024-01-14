@@ -891,6 +891,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Twinkle Twinkle Little Star was composed by Mozart when he was five years old.',
   },
   {
+    number: 223,
+    fact: 'The Basenji is the only type of dog that does not bark.',
+  },
+  {
     number: 224,
     fact: 'America\'s 1st roller coaster was built in 1827 to carry coal from a mine to boats below.',
   },
