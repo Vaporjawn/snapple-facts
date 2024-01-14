@@ -819,6 +819,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'A stamp shaped like a banana was once issued in the country of Tonga.',
   },
   {
+    number: 205,
+    fact: 'For every human being in the world there is approximately one chicken.',
+  },
+  {
     number: 206,
     fact: 'Over 1 million Earths would fit inside the Sun.',
   },
