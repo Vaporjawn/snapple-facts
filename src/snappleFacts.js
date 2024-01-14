@@ -794,12 +794,32 @@ const snappleFacts = [
     fact: 'The U.S. is the largest country named after a real person (Amerigo Vespucci).',
   },
   {
+    number: 199,
+    fact: 'The largest cheesecake ever made weighed 57,508 lbs.',
+  },
+  {
+    number: 200,
+    fact: 'The first country to use postcards was Austria.',
+  },
+  {
     number: 201,
     fact: 'The only one-syllabled U.S. state is Maine.',
   },
   {
+    number: 202,
+    fact: 'The mouth of the Statue of Liberty is 3 feet wide.',
+  },
+  {
     number: 203,
     fact: 'Atlantic salmon are capable of leaping 15 feet high.',
+  },
+  {
+    number: 204,
+    fact: 'A stamp shaped like a banana was once issued in the country of Tonga.',
+  },
+  {
+    number: 205,
+    fact: 'For every human being in the world there is approximately one chicken.',
   },
   {
     number: 206,
@@ -814,6 +834,14 @@ const snappleFacts = [
     fact: "Add up opposing sides of a dice cue, and you'll always get seven.",
   },
   {
+    number: 209,
+    fact: 'The largest pumpkin ever grown weighed 1,061 lbs.',
+  },
+  {
+    number: 210,
+    fact: '1.3 billion pounds of peanuts are produced in Georgia each year.',
+  },
+  {
     number: 211,
     fact: 'The average koala sleeps 22 hours each day.',
   },
@@ -822,8 +850,20 @@ const snappleFacts = [
     fact: 'Galapagos turtles can take up to three weeks to digest a meal.',
   },
   {
+    number: 213,
+    fact: 'The largest ball of twine in the US weighs over 17,000.',
+  },
+  {
+    number: 214,
+    fact: 'Giraffes can lick their own eyes.',
+  },
+  {
     number: 215,
     fact: 'Tennessee banned the use of a lasso to catch fish.',
+  },
+  {
+    number: 216,
+    fact: 'TV dinners originated in the Arctic.',
   },
   {
     number: 217,
@@ -846,8 +886,28 @@ const snappleFacts = [
     fact: 'The game of basketball was first played using a soccer ball and two peach baskets.',
   },
   {
+    number: 222,
+    fact: 'Twinkle Twinkle Little Star was composed by Mozart when he was five years old.',
+  },
+  {
+    number: 223,
+    fact: 'The Basenji is the only type of dog that does not bark.',
+  },
+  {
     number: 224,
     fact: "America's 1st roller coaster was built in 1827 to carry coal from a mine to boats below.",
+  },
+  {
+    number: 225,
+    fact: 'There are towns named Sandwich in Illinois and Massachusetts.',
+  },
+  {
+    number: 226,
+    fact: "13 percent of the world's tea comes from Kenya.",
+  },
+  {
+    number: 227,
+    fact: 'Tsiology is anything written about tea.',
   },
   {
     number: 228,
@@ -862,12 +922,20 @@ const snappleFacts = [
     fact: 'Caterpillars have over 2,000 muscles.',
   },
   {
+    number: 231,
+    fact: 'Detroit has the greatest number of registered bowlers in the U.S.',
+  },
+  {
     number: 232,
     fact: "The blue whale's heart is the size of a small car.",
   },
   {
     number: 233,
     fact: 'There are seven letters that look the same upside down as right side up.',
+  },
+  {
+    number: 234,
+    fact: 'Great Falls, Montana, is the windiest city in the U.S.',
   },
   {
     number: 235,
@@ -886,12 +954,20 @@ const snappleFacts = [
     fact: "An ostrich's brain is smaller than its eye.",
   },
   {
+    number: 239,
+    fact: 'Besides humans, elephants are the only animals that can be taught to stand on their head.',
+  },
+  {
     number: 240,
     fact: '"Challenger Deep" is the deepest point on Earth and can hold 25 Empire State Buildings end to end.',
   },
   {
     number: 241,
     fact: 'The only cactus plantation in the world is in Mississippi.',
+  },
+  {
+    number: 242,
+    fact: 'The Nickname of President Hayes\'s wife was "Lemonade Lucy."',
   },
   {
     number: 243,

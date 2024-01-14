@@ -967,6 +967,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The only cactus plantation in the world is in Mississippi.',
   },
   {
+    number: 242,
+    fact: 'The Nickname of President Hayes\'s wife was "Lemonade Lucy."',
+  },
+  {
     number: 243,
     fact: 'If you put all the streets in New York City in a straight line, they would stretch to Japan.',
   },
