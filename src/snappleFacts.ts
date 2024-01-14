@@ -515,6 +515,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Dragonflies have six legs but cannot walk.',
   },
   {
+    number: 129,
+    fact: 'Dolphins can jump up to 20 feet in the air.',
+  },
+  {
     number: 130,
     fact: 'Koalas and humans are the only animals with unique fingerprints.',
   },
