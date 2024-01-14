@@ -935,6 +935,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'There are seven letters that look the same upside down as right side up.',
   },
   {
+    number: 234,
+    fact: 'Great Falls, Montana, is the windiest city in the U.S.',
+  },
+  {
     number: 235,
     fact: 'The biggest pig in recorded history weighed almost one ton.',
   },
