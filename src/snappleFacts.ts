@@ -839,6 +839,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The largest pumpkin ever grown weighed 1,061 lbs.',
   },
   {
+    number: 210,
+    fact: '1.3 billion pounds of peanuts are produced in Georgia each year.',
+  },
+  {
     number: 211,
     fact: 'The average koala sleeps 22 hours each day.',
   },
