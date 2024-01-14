@@ -535,6 +535,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Honeybees navigate by using the sun as a compass.',
   },
   {
+    number: 134,
+    fact: 'An ant can lift 50 times its own weight.',
+  },
+  {
     number: 136,
     fact: 'Strawberries are the only fruits whose seeds grow on the outside.',
   },
