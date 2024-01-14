@@ -450,8 +450,24 @@ const snappleFacts = [
         fact: 'At birth, a Dalmatian is always pure white.',
     },
     {
+        number: 113,
+        fact: 'The fastest recorded speed of a racehorse was over 43 mph.',
+    },
+    {
+        number: 114,
+        fact: 'The oldest known animal was a tortoise, which lived to be 152 years old.',
+    },
+    {
+        number: 115,
+        fact: 'Bamboo makes up 99 percent of a panda\'s diet.',
+    },
+    {
         number: 116,
-        fact: 'The largest fish is the whale shark – it can be over 50 feet long and weigh two tons.',
+        fact: 'The largest fish is the whale shark - it can be over 50 feet long and weigh two tons.',
+    },
+    {
+        number: 117,
+        fact: 'The starfish is the only animal that can turn its stomach inside out.',
     },
     {
         number: 118,
