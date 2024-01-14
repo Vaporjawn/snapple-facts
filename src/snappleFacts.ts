@@ -643,6 +643,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'One alternate title that had been considered for NBC\'s hit "Friends" was "Insomnia Caf�."',
   },
   {
+    number: 161,
+    fact: 'The first TV network kids show in the U.S. was "Captain Kangaroo."',
+  },
+  {
     number: 162,
     fact: 'The temperature of the sun can reach up to 15 million degrees Fahrenheit.',
   },
