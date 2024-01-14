@@ -723,6 +723,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The first VCR was made in 1956 and was the size of a piano.',
   },
   {
+    number: 181,
+    fact: 'The first jukebox was located in San Francisco in 1899.',
+  },
+  {
     number: 182,
     fact: 'A rainbow can only be seen in the morning or late afternoon.',
   },
