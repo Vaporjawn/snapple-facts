@@ -835,6 +835,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Add up opposing sides of a dice cue, and you\'ll always get seven.',
   },
   {
+    number: 209,
+    fact: 'The largest pumpkin ever grown weighed 1,061 lbs.',
+  },
+  {
     number: 211,
     fact: 'The average koala sleeps 22 hours each day.',
   },
