@@ -715,8 +715,16 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The first ballpoint pens were sold in 1945 for $12.00.',
   },
   {
+    number: 179,
+    fact: 'The first lighthouse to use electricity was the Statue of Liberty in 1886.',
+  },
+  {
     number: 180,
     fact: 'The first VCR was made in 1956 and was the size of a piano.',
+  },
+  {
+    number: 181,
+    fact: 'The first jukebox was located in San Francisco in 1899.',
   },
   {
     number: 182,
