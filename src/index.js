@@ -10,17 +10,6 @@ const getFacts_1 = __importDefault(require('./functions/getFacts/getFacts'));
 const listFacts_1 = __importDefault(require('./functions/listFacts/listFacts'));
 const randomFact_1 = __importDefault(require('./functions/randomFact/randomFact'));
 const snappleFacts_1 = __importDefault(require('./snappleFacts'));
-const getMissingFactNumbers = snappleFacts => {
-  const factNumbers = snappleFacts.map(fact => fact.number);
-  const missingFactNumbers = [];
-  for (let i = 1; i <= snappleFacts.length; i++) {
-    if (!factNumbers.includes(i)) {
-      missingFactNumbers.push(i);
-    }
-  }
-  return missingFactNumbers;
-};
-console.log(getMissingFactNumbers(snappleFacts_1.default));
 /**
  * Represents a collection of Snapple facts.
  */
