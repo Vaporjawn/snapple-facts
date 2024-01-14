@@ -799,6 +799,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The largest cheesecake ever made weighed 57,508 lbs.',
   },
   {
+    number: 200,
+    fact: 'The first country to use postcards was Austria.',
+  },
+  {
     number: 201,
     fact: 'The only one-syllabled U.S. state is Maine.',
   },
