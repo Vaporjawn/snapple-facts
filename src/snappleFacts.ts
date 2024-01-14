@@ -559,6 +559,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Hawaii is the only state with one school district.',
   },
   {
+    number: 140,
+    fact: 'Holland is the only country with a national dog.',
+  },
+  {
     number: 141,
     fact: 'The square dance is the official dance of the state of Washington.',
   },
@@ -637,6 +641,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 160,
     fact: 'One alternate title that had been considered for NBC\'s hit "Friends" was "Insomnia Caf�."',
+  },
+  {
+    number: 161,
+    fact: 'The first TV network kids show in the U.S. was "Captain Kangaroo."',
   },
   {
     number: 162,
