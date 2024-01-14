@@ -795,6 +795,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The U.S. is the largest country named after a real person (Amerigo Vespucci).',
   },
   {
+    number: 199,
+    fact: 'The largest cheesecake ever made weighed 57,508 lbs.',
+  },
+  {
     number: 201,
     fact: 'The only one-syllabled U.S. state is Maine.',
   },
