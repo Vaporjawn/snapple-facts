@@ -559,6 +559,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Hawaii is the only state with one school district.',
   },
   {
+    number: 140,
+    fact: 'Holland is the only country with a national dog.',
+  },
+  {
     number: 141,
     fact: 'The square dance is the official dance of the state of Washington.',
   },
