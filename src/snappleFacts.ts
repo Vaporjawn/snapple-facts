@@ -851,6 +851,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Galapagos turtles can take up to three weeks to digest a meal.',
   },
   {
+    number: 213,
+    fact: 'The largest ball of twine in the US weighs over 17,000.',
+  },
+  {
     number: 215,
     fact: 'Tennessee banned the use of a lasso to catch fish.',
   },
