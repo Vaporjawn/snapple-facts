@@ -907,6 +907,10 @@ const snappleFacts: SnappleFact[] = [
     fact: '13 percent of the world\'s tea comes from Kenya.',
   },
   {
+    number: 227,
+    fact: 'Tsiology is anything written about tea.',
+  },
+  {
     number: 228,
     fact: 'There is a town in South Dakota named Tea.',
   },
