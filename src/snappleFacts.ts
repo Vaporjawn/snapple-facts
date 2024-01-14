@@ -747,6 +747,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'A female kangaroo is called a flyer.',
   },
   {
+    number: 187,
+    fact: 'There are over 61,000 pizzerias in the U.S.',
+  },
+  {
     number: 188,
     fact: 'Antarctica is the driest, coldest, windiest, and highest continent on earth.',
   },
