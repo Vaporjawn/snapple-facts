@@ -691,6 +691,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The eye makes movements 50 times every second.',
   },
   {
+    number: 173,
+    fact: 'Chinese is the most spoken language in the world.',
+  },
+  {
     number: 174,
     fact: 'The world\'s biggest pyramid is not in Egypt, but in Mexico.',
   },
