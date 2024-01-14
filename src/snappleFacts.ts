@@ -887,6 +887,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The game of basketball was first played using a soccer ball and two peach baskets.',
   },
   {
+    number: 222,
+    fact: 'Twinkle Twinkle Little Star was composed by Mozart when he was five years old.',
+  },
+  {
     number: 224,
     fact: 'America\'s 1st roller coaster was built in 1827 to carry coal from a mine to boats below.',
   },
