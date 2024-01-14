@@ -955,6 +955,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'An ostrich\'s brain is smaller than its eye.',
   },
   {
+    number: 239,
+    fact: 'Besides humans, elephants are the only animals that can be taught to stand on their head.',
+  },
+  {
     number: 240,
     fact: '"Challenger Deep" is the deepest point on Earth and can hold 25 Empire State Buildings end to end.',
   },
