@@ -5,6 +5,20 @@ import RandomFact from './functions/randomFact/randomFact';
 import { SnappleFact } from './interfaces/snappleFact';
 import snappleFacts from './snappleFacts';
 
+const getMissingFactNumbers = (snappleFacts: SnappleFact[]): number[] => {
+  const factNumbers = snappleFacts.map(fact => fact.number);
+  const missingFactNumbers: number[] = [];
+
+  for (let i = 1; i <= snappleFacts.length; i++) {
+    if (!factNumbers.includes(i)) {
+      missingFactNumbers.push(i);
+    }
+  }
+
+  return missingFactNumbers;
+};
+
+console.log(getMissingFactNumbers(snappleFacts));
 /**
  * Represents a collection of Snapple facts.
  */
