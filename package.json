@@ -1,6 +1,6 @@
 {
   "name": "snapple-facts",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Every Snapple Fact",
   "main": "./src/index.js",
   "scripts": {
