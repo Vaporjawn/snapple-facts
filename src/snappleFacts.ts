@@ -1231,6 +1231,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'All dog breeds except chow-chows have black lips to prevent them from getting sunburned.',
   },
   {
+    number: 308,
+    fact: 'Connecticut was the first state to pass a Lemon Law in 1982.',
+  },
+  {
     number: 309,
     fact: 'Ancient Egyptians believed the \'vein of love\' ran from the third finger on the left hand to the heart.',
   },
