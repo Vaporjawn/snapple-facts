@@ -1043,6 +1043,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Underwater hockey is played with a 3-pound puck.',
   },
   {
+    number: 261,
+    fact: 'Playing in a marching band is considered moderate exercise.',
+  },
+  {
     number: 263,
     fact: 'Bowling pins need to tip over a mere 7 1/2 degrees to fall down.',
   },
