@@ -1047,6 +1047,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Playing in a marching band is considered moderate exercise.',
   },
   {
+    number: 262,
+    fact: 'The act of chewing an apple is a more efficient way to stay awake than caffeine.',
+  },
+  {
     number: 263,
     fact: 'Bowling pins need to tip over a mere 7 1/2 degrees to fall down.',
   },
