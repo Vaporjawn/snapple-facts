@@ -1155,6 +1155,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Four Corners, AZ, is the only place where a person can stand in 4 states at the same time.',
   },
   {
+    number: 289,
+    fact: 'In 1908, the first lollipop-making machine started in New Haven, CT.',
+  },
+  {
     number: 291,
     fact: 'Africa is divided into more countries than any other continent.',
   },
