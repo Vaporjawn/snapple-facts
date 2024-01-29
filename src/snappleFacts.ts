@@ -1095,6 +1095,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Each year, the average American eats about 15 pounds of apples.',
   },
   {
+    number: 274,
+    fact: 'All lemons are harvested by hand.',
+  },
+  {
     number: 275,
     fact: 'It took the first man to walk around the world four years, three months and 16 days to complete his journey.',
   },
