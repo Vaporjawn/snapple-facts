@@ -1031,6 +1031,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The first food eaten in space by a U.S. astronaut was applesauce.',
   },
   {
+    number: 258,
+    fact: 'Lemon wood is carved into chess pieces.',
+  },
+  {
     number: 259,
     fact: 'The original recipe for chocolate contained chili powder instead of sugar.',
   },
