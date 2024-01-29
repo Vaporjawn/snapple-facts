@@ -987,6 +987,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The \'silk\' of a spider is stronger than steel threads of the same diameter.',
   },
   {
+    number: 247,
+    fact: 'Britain was the first country to register a patent on polyester.',
+  },
+  {
     number: 248,
     fact: 'Snoopy is the most common dog name beginning with the letter S.',
   },
@@ -1001,6 +1005,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 251,
     fact: 'There are more French restaurants in New York City than in Paris.',
+  },
+  {
+    number: 252,
+    fact: 'There is a town in Alaska called Chicken.',
   },
   {
     number: 253,
