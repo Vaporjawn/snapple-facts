@@ -1063,6 +1063,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'About 90% of all garlic consumed in the U.S. comes from Gilroy, CA.',
   },
   {
+    number: 266,
+    fact: 'Manhattan is the only borough in New York City that doesn\'t have a Main Street.',
+  },
+  {
     number: 267,
     fact: 'Double Dutch jump rope is considered a cross-training sport.',
   },
