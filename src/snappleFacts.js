@@ -986,6 +986,10 @@ const snappleFacts = [
     fact: "The 'silk' of a spider is stronger than steel threads of the same diameter.",
   },
   {
+    number: 247,
+    fact: 'Britain was the first country to register a patent on polyester.',
+  },
+  {
     number: 248,
     fact: 'Snoopy is the most common dog name beginning with the letter S.',
   },
