@@ -1159,6 +1159,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'In 1908, the first lollipop-making machine started in New Haven, CT.',
   },
   {
+    number: 290,
+    fact: 'One out of every eight residents in the U.S. lives in California.',
+  },
+  {
     number: 291,
     fact: 'Africa is divided into more countries than any other continent.',
   },
