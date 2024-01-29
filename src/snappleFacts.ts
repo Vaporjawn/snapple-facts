@@ -1227,6 +1227,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'In the Middle Ages, chicken soup was considered an aphrodisiac.',
   },
   {
+    number: 307,
+    fact: 'All dog breeds except chow-chows have black lips to prevent them from getting sunburned.',
+  },
+  {
     number: 309,
     fact: 'Ancient Egyptians believed the \'vein of love\' ran from the third finger on the left hand to the heart.',
   },
