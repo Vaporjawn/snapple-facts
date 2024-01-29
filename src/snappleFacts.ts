@@ -1107,6 +1107,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Grizzly bears run as fast as the average horse.',
   },
   {
+    number: 277,
+    fact: 'Today\'s "modern" wrestling moves have been seen in tomb drawings from ancient Egypt.',
+  },
+  {
     number: 278,
     fact: 'China only has one time zone.',
   },
