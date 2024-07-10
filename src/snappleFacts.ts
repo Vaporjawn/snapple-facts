@@ -111,12 +111,12 @@ const snappleFacts: SnappleFact[] = [
     fact: 'A ball of glass will bounce higher than a ball of rubber.',
   },
   {
-      number: 28,
-      fact: 'Chewing gum while peeling onions will prevent you from crying.',
+    number: 28,
+    fact: 'Chewing gum while peeling onions will prevent you from crying.',
   },
   {
-      number: 29,
-      fact: 'On average a human being will spend up to 2 weeks kissing in his/her lifetime.',
+    number: 29,
+    fact: 'On average a human being will spend up to 2 weeks kissing in his/her lifetime.',
   },
   {
     number: 30,
@@ -124,7 +124,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 31,
-    fact: 'The average human eats 8 spiders in his/her lifetime while sleeping.'
+    fact: 'The average human eats 8 spiders in his/her lifetime while sleeping.',
   },
   {
     number: 32,
@@ -455,20 +455,20 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The fastest recorded speed of a racehorse was over 43 mph.',
   },
   {
-      number: 114,
-      fact: 'The oldest known animal was a tortoise, which lived to be 152 years old.',
+    number: 114,
+    fact: 'The oldest known animal was a tortoise, which lived to be 152 years old.',
   },
   {
-      number: 115,
-      fact: 'Bamboo makes up 99 percent of a panda\'s diet.',
+    number: 115,
+    fact: 'Bamboo makes up 99 percent of a panda\'s diet.',
   },
   {
-      number: 116,
-      fact: 'The largest fish is the whale shark - it can be over 50 feet long and weigh two tons.',
+    number: 116,
+    fact: 'The largest fish is the whale shark - it can be over 50 feet long and weigh two tons.',
   },
   {
-      number: 117,
-      fact: 'The starfish is the only animal that can turn its stomach inside out.',
+    number: 117,
+    fact: 'The starfish is the only animal that can turn its stomach inside out.',
   },
   {
     number: 118,
@@ -1279,12 +1279,20 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The name for the space between your eyebrows is \'nasion.\'',
   },
   {
-    'number': 320,
-    'fact': 'There is a town called Jackpot in Nevada.'
+    number: 320,
+    fact: 'There is a town called Jackpot in Nevada.',
   },
   {
     number: 321,
     fact: 'The word \'purple\' does not rhyme with any other word in the English language.',
+  },
+  {
+    number: 322,
+    fact: 'In the U.S., there are about 15,000 vacuum cleaner-related accidents each year.',
+  },
+  {
+    number: 323,
+    fact: 'The Lemon-Yellow Tree Frog is only active in the darkness of night.',
   },
   {
     number: 324,
@@ -1327,12 +1335,24 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Long Island is the largest island in the Continental U.S.',
   },
   {
+    number: 334,
+    fact: 'The beaver is the official animal of Canada.',
+  },
+  {
     number: 335,
     fact: 'Maine produces more toothpicks than any other state in the U.S.',
   },
   {
     number: 336,
     fact: 'The last letter to be added to our alphabet was J.',
+  },
+  {
+    number: 337,
+    fact: 'Farmington, Maine celebrates Chester Greenwood Day to honor the inventor of earmuffs.',
+  },
+  {
+    number: 338,
+    fact: 'Of all the trees in Australia, 75% are eucalyptus.',
   },
   {
     number: 339,
@@ -1375,6 +1395,14 @@ const snappleFacts: SnappleFact[] = [
     fact: 'It is estimated that the world\'s oceans contain 10 billion tons of gold.',
   },
   {
+    number: 349,
+    fact: 'Most cats don\'t like lemonade.',
+  },
+  {
+    number: 350,
+    fact: 'The watersheds that supply water to New York City are roughly the size of Delaware.',
+  },
+  {
     number: 351,
     fact: 'Cold water weighs less than hot water.',
   },
@@ -1407,8 +1435,16 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Butterflies were formerly known by the name Flutterby.',
   },
   {
+    number: 359,
+    fact: 'A teaspoon contains 120 drops of water.',
+  },
+  {
     number: 360,
     fact: 'Mexican jumping beans jump to get out of sunlight.',
+  },
+  {
+    number: 361,
+    fact: 'The pineapple is a very big berry.',
   },
   {
     number: 362,
@@ -1421,6 +1457,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 364,
     fact: 'Borborygmi is the noise that your stomach makes when you are hungry.',
+  },
+  {
+    number: 365,
+    fact: 'The oil in cashews helps prevent tooth decay.',
   },
   {
     number: 366,
@@ -1441,6 +1481,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 370,
     fact: 'Heat, not sunlight, ripens tomatoes.',
+  },
+  {
+    number: 371,
+    fact: 'Grapes are the most popular fruit in the world.',
   },
   {
     number: 372,
@@ -1471,6 +1515,14 @@ const snappleFacts: SnappleFact[] = [
     fact: 'It costs the U.S. government 2.5 cents to produce a quarter.',
   },
   {
+    number: 379,
+    fact: 'The "lemon yellow" crayon was introduced in 1949 and retired in 1990.',
+  },
+  {
+    number: 380,
+    fact: 'It is illegal for a portrait of a living person to appear on U.S. postage stamps.',
+  },
+  {
     number: 381,
     fact: 'Baboons were once trained by Egyptians to wait on tables.',
   },
@@ -1487,12 +1539,32 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Each year, the average person walks the distance from NY to Miami.',
   },
   {
+    number: 385,
+    fact: 'Lemons are more acidic than vinegar.',
+  },
+  {
     number: 386,
     fact: 'New York City\'s public school students represent about 188 different countries.',
   },
   {
+    number: 387,
+    fact: 'A banana is a giant herb.',
+  },
+  {
+    number: 388,
+    fact: 'The first person in the U.S. arrested for speeding was a NYC cab driver.',
+  },
+  {
     number: 389,
     fact: 'In the U.S., all interstate highways that run east to west are even-numbered.',
+  },
+  {
+    number: 390,
+    fact: 'Jack is the most common name in nursery rhymes.',
+  },
+  {
+    number: 391,
+    fact: 'A sea lemon is a mollusk that feeds on sponges.',
   },
   {
     number: 392,
@@ -1515,12 +1587,36 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The dragonfly can reach speeds of up to 36 mph.',
   },
   {
+    number: 397,
+    fact: 'Bamboo can grow over three feet per day.',
+  },
+  {
     number: 398,
     fact: 'Hippos can open their mouths 180 degrees.',
   },
   {
+    number: 399,
+    fact: 'Manhattan was the first capital of the United States.',
+  },
+  {
+    number: 400,
+    fact: 'About 80 women go into labor on NYC subways every year.',
+  },
+  {
+    number: 401,
+    fact: 'The coldest city in the U.S. is International Falls, Minnesota.',
+  },
+  {
     number: 402,
     fact: 'Christopher Columbus brought the first lemon seeds to America.',
+  },
+  {
+    number: 403,
+    fact: 'The largest hailstone ever recorded in the U.S. was 17.5 inches around.',
+  },
+  {
+    number: 404,
+    fact: 'The Statue of Liberty\'s nose is four feet six inches long.',
   },
   {
     number: 405,
@@ -1531,8 +1627,16 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The deepest place in the ocean is about seven miles deep.',
   },
   {
+    number: 407,
+    fact: 'The largest dog litter was 23 puppies.',
+  },
+  {
     number: 408,
     fact: 'Panda bears eat up to 16 hours a day.',
+  },
+  {
+    number: 409,
+    fact: 'Approximately 16,500 people in the U.S. go by the last name Lemon.',
   },
   {
     number: 410,
@@ -1548,19 +1652,35 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 413,
-    fact: 'The T-rex�s closest living relative is the chicken.',
+    fact: 'The T-rex\'s closest living relative is the chicken.',
   },
   {
     number: 414,
     fact: 'Chameleons can move both their eyes in different directions at the same time.',
   },
   {
+    number: 415,
+    fact: 'The most popular pet name in the United States is \'Max.\'',
+  },
+  {
     number: 416,
     fact: 'Many butterflies and moths are able to taste with their feet.',
   },
   {
+    number: 417,
+    fact: 'All polar bears are left-handed.',
+  },
+  {
+    number: 418,
+    fact: 'The smallest mammal in the world is the bumblebee bat, which weighs less than a penny.',
+  },
+  {
     number: 419,
     fact: 'A jiffy is an actual time measurement equaling 1/100th of a second.',
+  },
+  {
+    number: 420,
+    fact: 'In 10 minutes, a hurricane releases more energy than all the world\'s nuclear weapons combined.',
   },
   {
     number: 421,
@@ -1572,7 +1692,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 423,
-    fact: 'U.S. paper currency isn�t made of paper � it�s actually a blend of cotton and linen.',
+    fact: 'U.S. paper currency isn\'t made of paper - it\'s actually a blend of cotton and linen.',
   },
   {
     number: 424,
@@ -1580,7 +1700,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 425,
-    fact: 'Kangaroos can�t walk backward.',
+    fact: 'Kangaroos can\'t walk backward.',
   },
   {
     number: 426,
@@ -1605,6 +1725,14 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 431,
     fact: 'A twit is the technical term for a pregnant goldfish.',
+  },
+  {
+    number: 432,
+    fact: 'Antarctica holds 90% of the world\'s fresh water.',
+  },
+  {
+    number: 433,
+    fact: 'The state of Tennessee was originally called Franklin.',
   },
   {
     number: 434,
@@ -1632,7 +1760,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 440,
-    fact: 'The pupils in goats� eyes are rectangular.',
+    fact: 'The pupils in goats\' eyes are rectangular.',
   },
   {
     number: 441,
@@ -1640,7 +1768,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 442,
-    fact: 'Bees� wings beat about 11,400 times per minute.',
+    fact: 'Bees\' wings beat about 11,400 times per minute.',
   },
   {
     number: 443,
@@ -1657,6 +1785,14 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 446,
     fact: 'You breathe in about 13 pints of air every minute.',
+  },
+  {
+    number: 447,
+    fact: 'A gallon of water weighs 8.34 pounds.',
+  },
+  {
+    number: 448,
+    fact: 'The sun evaporates about a trillion tons of water a day.',
   },
   {
     number: 449,
@@ -1687,6 +1823,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Lobsters can live up to 50 years.',
   },
   {
+    number: 456,
+    fact: 'About 85% of the world\'s population is right-handed.',
+  },
+  {
     number: 457,
     fact: 'The first traffic light was in use in London in 1868, before the advent of cars.',
   },
@@ -1715,6 +1855,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The dot over the letter i is called a tittle.',
   },
   {
+    number: 464,
+    fact: 'Cows do not have upper front teeth.',
+  },
+  {
     number: 465,
     fact: 'The great white shark can go up to three months between meals.',
   },
@@ -1739,6 +1883,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Dairy cows drink up to 50 gallons of water per day.',
   },
   {
+    number: 471,
+    fact: 'The most common name for a pet goldfish is \'Jaws.\'',
+  },
+  {
     number: 472,
     fact: 'A nautical mile is 800 feet longer than a land mile.',
   },
@@ -1747,24 +1895,748 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Antarctica has as much ice as the Atlantic Ocean has water.',
   },
   {
+    number: 474,
+    fact: 'To temporarily revive your ballpoint pen, dip the tip into hot water for a few seconds.',
+  },
+  {
+    number: 475,
+    fact: 'Wrapping rubber bands around the ends of hangers can prevent clothes from slipping off.',
+  },
+  {
+    number: 476,
+    fact: 'Replacing your car\'s air filter can improve gas mileage by 10 percent.',
+  },
+  {
+    number: 477,
+    fact: 'A chalkboard eraser is one of the best ways to wipe a foggy windshield.',
+  },
+  {
     number: 478,
     fact: 'Candles will burn longer and drip less if they are placed in the freezer a few hours before using.',
+  },
+  {
+    number: 479,
+    fact: 'Knots come out easier if you sprinkle talcum powder on them.',
+  },
+  {
+    number: 480,
+    fact: 'You can tell which day a loaf of bread was baked by the color of its plastic twist tag.',
   },
   {
     number: 481,
     fact: 'Over 50 percent of your body heat is lost through your head and neck.',
   },
   {
+    number: 482,
+    fact: 'Dieting by not eating will actually make your body start conserving calories as fat.',
+  },
+  {
     number: 483,
-    fact: 'Smile more � every two thousand frowns creates one wrinkle.',
+    fact: 'Smile more - every two thousand frowns creates one wrinkle.',
+  },
+  {
+    number: 484,
+    fact: 'Rinsing bacon under cold water before frying can reduce the amount it shrinks by almost 50 percent.',
+  },
+  {
+    number: 485,
+    fact: 'Refrigerating apples can help them last up to 10 times longer than those left at room temperature.',
+  },
+  {
+    number: 486,
+    fact: 'While chopping onions, hold a piece of bread between your lips to keep your eyes from watering.',
+  },
+  {
+    number: 487,
+    fact: 'Place an apple in the bag with your potatoes to keep them from budding.',
+  },
+  {
+    number: 488,
+    fact: 'Place a slice of bread in the storage container to keep cookies soft when storing.',
+  },
+  {
+    number: 489,
+    fact: 'To keep an ice cream cone from dripping, stuff a miniature marshmallow into the bottom of the cone.',
+  },
+  {
+    number: 490,
+    fact: 'To take lumps out of a bag of sugar, place it in the refrigerator for 24 hours.',
+  },
+  {
+    number: 491,
+    fact: 'To remove crayon marks from walls, use a hairdryer to heat the wax.',
+  },
+  {
+    number: 492,
+    fact: 'To make a zipper slide up and down more smoothly, rub a bar of soap over the teeth.',
+  },
+  {
+    number: 493,
+    fact: 'Wipe the leaves of your plants with the soft inside of a banana skin to bring up shine and remove dust.',
+  },
+  {
+    number: 494,
+    fact: 'To clean paint off your hands, use olive oil - it softens the paint and makes it easy to remove.',
+  },
+  {
+    number: 495,
+    fact: 'To fix a button about to fall off, dab a little clear nail polish over the threads holding it on.',
+  },
+  {
+    number: 496,
+    fact: 'To clean paint off your hands, use olive oil - it softens the paint and makes it easy to remove.',
+  },
+  {
+    number: 497,
+    fact: 'To fix a button about to fall off, dab a little clear nail polish over the threads holding it on.',
+  },
+  {
+    number: 498,
+    fact: 'To remove crayon marks from walls, use a hairdryer to heat the wax.',
+  },
+  {
+    number: 499,
+    fact: 'An average strawberry has about 200 seeds.',
+  },
+  {
+    number: 500,
+    fact: 'A watermelon is 92% water.',
+  },
+  {
+    number: 501,
+    fact: 'Honey never spoils.',
+  },
+  {
+    number: 502,
+    fact: 'Bananas are berries, but strawberries aren’t.',
+  },
+  {
+    number: 503,
+    fact: 'Apples float because they are 25% air.',
+  },
+  {
+    number: 504,
+    fact: 'Pumpkins are a type of squash.',
+  },
+  {
+    number: 505,
+    fact: 'Tomatoes are fruits.',
+  },
+  {
+    number: 506,
+    fact: 'A cucumber is 96% water.',
+  },
+  {
+    number: 507,
+    fact: 'Potatoes were the first food to be grown in space.',
+  },
+  {
+    number: 508,
+    fact: 'Carrots were originally purple.',
+  },
+  {
+    number: 509,
+    fact: 'There are over 7,500 varieties of apples.',
+  },
+  {
+    number: 510,
+    fact: 'Pineapples take two years to grow.',
+  },
+  {
+    number: 511,
+    fact: 'Peanuts are not nuts; they are legumes.',
+  },
+  {
+    number: 512,
+    fact: 'Cranberries bounce if they are fresh.',
+  },
+  {
+    number: 513,
+    fact: 'A pomegranate can hold up to 1,000 seeds.',
+  },
+  {
+    number: 514,
+    fact: 'Lemons contain more sugar than strawberries.',
+  },
+  {
+    number: 515,
+    fact: 'Broccoli contains more protein than steak.',
+  },
+  {
+    number: 516,
+    fact: 'One avocado has more potassium than a banana.',
+  },
+  {
+    number: 517,
+    fact: 'A bunch of bananas is called a hand.',
+  },
+  {
+    number: 518,
+    fact: 'Garlic is known as a natural antibiotic.',
+  },
+  {
+    number: 519,
+    fact: 'Bell peppers come in different colors based on ripeness.',
+  },
+  {
+    number: 520,
+    fact: 'Grapes explode when you put them in the microwave.',
+  },
+  {
+    number: 521,
+    fact: 'Oranges are a hybrid of pomelo and mandarin.',
+  },
+  {
+    number: 522,
+    fact: 'Pineapples are berries.',
+  },
+  {
+    number: 523,
+    fact: 'Humans share 50% of their DNA with bananas.',
+  },
+  {
+    number: 524,
+    fact: 'Honey is the only food that includes all substances necessary to sustain life.',
+  },
+  {
+    number: 525,
+    fact: 'Chocolate was once used as currency.',
+  },
+  {
+    number: 526,
+    fact: 'A single strand of spaghetti is called a spaghetto.',
+  },
+  {
+    number: 527,
+    fact: 'Ketchup was used as medicine in the 1800s.',
+  },
+  {
+    number: 528,
+    fact: 'There are more than 10,000 varieties of tomatoes.',
+  },
+  {
+    number: 529,
+    fact: 'Peanut butter can be converted into diamonds.',
+  },
+  {
+    number: 530,
+    fact: 'Cucumbers are fruits.',
+  },
+  {
+    number: 531,
+    fact: 'French fries originated in Belgium.',
+  },
+  {
+    number: 532,
+    fact: 'Water makes up about 70% of a human’s body weight.',
+  },
+  {
+    number: 533,
+    fact: 'The smell of chocolate increases theta brain waves, which trigger relaxation.',
+  },
+  {
+    number: 534,
+    fact: 'Apples are more effective at waking you up in the morning than coffee.',
+  },
+  {
+    number: 535,
+    fact: 'Avocados are toxic to birds.',
+  },
+  {
+    number: 536,
+    fact: 'Eating bananas can help fight depression.',
+  },
+  {
+    number: 537,
+    fact: 'Broccoli contains more Vitamin C than an orange.',
+  },
+  {
+    number: 538,
+    fact: 'One of the most hydrating foods to eat is cucumber.',
+  },
+  {
+    number: 539,
+    fact: 'Carrots were first grown as medicine, not food.',
+  },
+  {
+    number: 540,
+    fact: 'Cherries are a member of the rose family.',
+  },
+  {
+    number: 541,
+    fact: 'Coconut water can be used as a substitute for blood plasma.',
+  },
+  {
+    number: 542,
+    fact: 'Eggplants are berries.',
+  },
+  {
+    number: 543,
+    fact: 'Figs have flowers inside them.',
+  },
+  {
+    number: 544,
+    fact: 'Green peas are one of the most popular vegetables in the world.',
+  },
+  {
+    number: 545,
+    fact: 'Lemons are native to Asia.',
+  },
+  {
+    number: 546,
+    fact: 'Mangoes are related to cashews and pistachios.',
+  },
+  {
+    number: 547,
+    fact: 'Peaches and nectarines are essentially the same fruit.',
+  },
+  {
+    number: 548,
+    fact: 'Pineapples regenerate; you can plant pineapple leaves to grow a new plant.',
+  },
+  {
+    number: 549,
+    fact: 'Radishes are related to wasabi.',
+  },
+  {
+    number: 550,
+    fact: 'Strawberries are the only fruit with seeds on the outside.',
+  },
+  {
+    number: 551,
+    fact: 'Tomatoes and cucumbers are botanically classified as berries.',
+  },
+  {
+    number: 552,
+    fact: 'Watermelon seeds are edible and highly nutritious.',
+  },
+  {
+    number: 553,
+    fact: 'Yams and sweet potatoes are not the same.',
+  },
+  {
+    number: 554,
+    fact: 'Zucchini can grow to be more than 3 feet long.',
+  },
+  {
+    number: 555,
+    fact: 'Almonds are seeds, not nuts.',
+  },
+  {
+    number: 556,
+    fact: 'Beets are high in natural sugar.',
+  },
+  {
+    number: 557,
+    fact: 'Celery is a low-calorie food.',
+  },
+  {
+    number: 558,
+    fact: 'Dates are high in fiber and antioxidants.',
+  },
+  {
+    number: 559,
+    fact: 'Garlic can help regulate blood pressure.',
+  },
+  {
+    number: 560,
+    fact: 'Onions are a good source of Vitamin C.',
+  },
+  {
+    number: 561,
+    fact: 'Pumpkin seeds are high in magnesium.',
+  },
+  {
+    number: 562,
+    fact: 'Spinach is high in iron.',
+  },
+  {
+    number: 563,
+    fact: 'Sweet potatoes are rich in beta-carotene.',
+  },
+  {
+    number: 564,
+    fact: 'Tomatoes are a good source of lycopene.',
+  },
+  {
+    number: 565,
+    fact: 'Walnuts are high in omega-3 fatty acids.',
+  },
+  {
+    number: 566,
+    fact: 'Yogurt contains probiotics that are beneficial for digestion.',
+  },
+  {
+    number: 567,
+    fact: 'Zinc is important for immune function.',
+  },
+  {
+    number: 568,
+    fact: 'Almond milk is a popular dairy alternative.',
+  },
+  {
+    number: 569,
+    fact: 'Beet juice can improve athletic performance.',
+  },
+  {
+    number: 570,
+    fact: 'Carrots are good for eye health.',
+  },
+  {
+    number: 571,
+    fact: 'Dark chocolate contains antioxidants.',
+  },
+  {
+    number: 572,
+    fact: 'Eggs are a complete source of protein.',
+  },
+  {
+    number: 573,
+    fact: 'Flax seeds are high in fiber.',
+  },
+  {
+    number: 574,
+    fact: 'Ginger can help reduce nausea.',
+  },
+  {
+    number: 575,
+    fact: 'Honey has antibacterial properties.',
+  },
+  {
+    number: 576,
+    fact: 'Iceberg lettuce is mostly water.',
+  },
+  {
+    number: 577,
+    fact: 'Jalapeños are a good source of Vitamin C.',
+  },
+  {
+    number: 578,
+    fact: 'Kale is considered a superfood.',
+  },
+  {
+    number: 579,
+    fact: 'Lentils are high in protein and fiber.',
+  },
+  {
+    number: 580,
+    fact: 'Mushrooms are a good source of Vitamin D.',
+  },
+  {
+    number: 581,
+    fact: 'Nuts are a healthy snack.',
+  },
+  {
+    number: 582,
+    fact: 'Oatmeal can help lower cholesterol.',
+  },
+  {
+    number: 583,
+    fact: 'Peppers come in many colors and flavors.',
+  },
+  {
+    number: 584,
+    fact: 'Quinoa is a complete protein.',
+  },
+  {
+    number: 585,
+    fact: 'Raspberries are high in fiber.',
+  },
+  {
+    number: 586,
+    fact: 'Salmon is rich in omega-3 fatty acids.',
+  },
+  {
+    number: 587,
+    fact: 'Tea is a popular beverage worldwide.',
+  },
+  {
+    number: 588,
+    fact: 'Ugli fruit is a cross between a grapefruit, orange, and tangerine.',
+  },
+  {
+    number: 589,
+    fact: 'Vanilla is derived from orchids.',
+  },
+  {
+    number: 590,
+    fact: 'Watermelons are 92% water.',
+  },
+  {
+    number: 591,
+    fact: 'Xigua is another name for watermelon.',
+  },
+  {
+    number: 592,
+    fact: 'Yams are often confused with sweet potatoes.',
+  },
+  {
+    number: 593,
+    fact: 'Zucchini is also known as courgette.',
+  },
+  {
+    number: 594,
+    fact: 'Apples are a member of the rose family.',
+  },
+  {
+    number: 595,
+    fact: 'The average person walks the equivalent of three times around the world in a lifetime.',
+  },
+  {
+    number: 596,
+    fact: 'Hummingbirds are the only birds that can fly backwards.',
+  },
+  {
+    number: 597,
+    fact: 'A day on Venus is longer than a year on Venus.',
+  },
+  {
+    number: 598,
+    fact: 'There are more stars in the universe than grains of sand on Earth.',
+  },
+  {
+    number: 599,
+    fact: 'A group of flamingos is called a "flamboyance."',
+  },
+  {
+    number: 600,
+    fact: 'Octopuses have three hearts.',
+  },
+  {
+    number: 601,
+    fact: 'Bananas are berries, but strawberries aren’t.',
+  },
+  {
+    number: 602,
+    fact: 'Sharks are immune to almost all known diseases.',
+  },
+  {
+    number: 603,
+    fact: 'The Eiffel Tower can be 15 cm taller during the summer.',
+  },
+  {
+    number: 604,
+    fact: 'Honey never spoils.',
+  },
+  {
+    number: 605,
+    fact: 'An octopus has blue blood.',
+  },
+  {
+    number: 606,
+    fact: 'Venus is the hottest planet in our solar system.',
+  },
+  {
+    number: 607,
+    fact: 'Adult cats only meow to communicate with humans.',
+  },
+  {
+    number: 608,
+    fact: 'Bees can recognize human faces.',
+  },
+  {
+    number: 609,
+    fact: 'A snail can sleep for three years.',
+  },
+  {
+    number: 610,
+    fact: 'It is impossible to hum while holding your nose.',
+  },
+  {
+    number: 611,
+    fact: 'Butterflies taste with their feet.',
+  },
+  {
+    number: 612,
+    fact: 'A group of crows is called a "murder."',
+  },
+  {
+    number: 613,
+    fact: 'The shortest war in history lasted 38 to 45 minutes.',
+  },
+  {
+    number: 614,
+    fact: 'Hot water freezes faster than cold water.',
+  },
+  {
+    number: 615,
+    fact: 'Koalas sleep up to 22 hours a day.',
+  },
+  {
+    number: 616,
+    fact: 'A bolt of lightning contains enough energy to toast 100,000 slices of bread.',
+  },
+  {
+    number: 617,
+    fact: 'Giraffes have the same number of neck vertebrae as humans.',
+  },
+  {
+    number: 618,
+    fact: 'Dolphins have names for each other.',
+  },
+  {
+    number: 619,
+    fact: 'The longest English word is 189,819 letters long.',
+  },
+  {
+    number: 620,
+    fact: 'Cows have best friends and get stressed when they are separated.',
+  },
+  {
+    number: 621,
+    fact: 'It takes a photon, on average, 170,000 years to travel from the core of the Sun to its surface.',
+  },
+  {
+    number: 622,
+    fact: 'A "jiffy" is an actual unit of time.',
+  },
+  {
+    number: 623,
+    fact: 'The inventor of the frisbee was turned into a frisbee after he died.',
+  },
+  {
+    number: 624,
+    fact: 'Banging your head against a wall for one hour burns 150 calories.',
+  },
+  {
+    number: 625,
+    fact: 'A flock of flamingos is called a "flamboyance."',
+  },
+  {
+    number: 626,
+    fact: 'Ostriches can run faster than horses.',
+  },
+  {
+    number: 627,
+    fact: 'Elephants can’t jump.',
+  },
+  {
+    number: 628,
+    fact: 'Polar bear fur is transparent, not white.',
+  },
+  {
+    number: 629,
+    fact: 'A group of porcupines is called a "prickle."',
+  },
+  {
+    number: 630,
+    fact: 'Cows can walk upstairs but not downstairs.',
+  },
+  {
+    number: 631,
+    fact: 'A group of hedgehogs is called an "array."',
+  },
+  {
+    number: 632,
+    fact: 'Otters hold hands while sleeping to keep from drifting apart.',
+  },
+  {
+    number: 633,
+    fact: 'The moon has moonquakes.',
+  },
+  {
+    number: 634,
+    fact: 'Humans are the only animals that blush.',
+  },
+  {
+    number: 635,
+    fact: 'Sloths can hold their breath longer than dolphins can.',
+  },
+  {
+    number: 636,
+    fact: 'A group of ravens is called an "unkindness."',
+  },
+  {
+    number: 637,
+    fact: 'A crocodile can’t stick its tongue out.',
+  },
+  {
+    number: 638,
+    fact: 'The heart of a shrimp is located in its head.',
+  },
+  {
+    number: 639,
+    fact: 'Bananas are curved because they grow towards the sun.',
+  },
+  {
+    number: 640,
+    fact: 'The inventor of the Pringles can is now buried in one.',
+  },
+  {
+    number: 641,
+    fact: 'A rhinoceros\' horn is made of hair.',
+  },
+  {
+    number: 642,
+    fact: 'There are more stars in the universe than grains of sand on Earth.',
+  },
+  {
+    number: 643,
+    fact: 'Honey never spoils.',
+  },
+  {
+    number: 644,
+    fact: 'An octopus has three hearts.',
+  },
+  {
+    number: 645,
+    fact: 'Cows can sleep standing up, but they can only dream lying down.',
+  },
+  {
+    number: 646,
+    fact: 'A group of frogs is called an "army."',
+  },
+  {
+    number: 647,
+    fact: 'Sea otters have a pouch under their forearm to store their favorite rocks.',
+  },
+  {
+    number: 648,
+    fact: 'Butterflies can’t fly if they are cold.',
+  },
+  {
+    number: 649,
+    fact: 'Some turtles can breathe through their butts.',
+  },
+  {
+    number: 650,
+    fact: 'Polar bears have black skin under their white fur.',
+  },
+  {
+    number: 651,
+    fact: 'Forty-six percent of leisure visitors to downtown New York City come from outside the United States.',
+  },
+  {
+    number: 652,
+    fact: 'New York taxi drivers collectively speak 60 languages.',
+  },
+  {
+    number: 653,
+    fact: 'More than 800 languages are spoken in New York City.',
   },
   {
     number: 654,
-    fact: 'New York taxi drivers collectively speak about 60 languages.',
+    fact: 'New York taxi drivers collectively speak 60 languages.',
+  },
+  {
+    number: 655,
+    fact: 'Forty-six percent of leisure visitors to downtown New York City come from outside the United States.',
+  },
+  {
+    number: 656,
+    fact: 'New York taxi drivers collectively speak 60 languages.',
+  },
+  {
+    number: 657,
+    fact: 'New York City is made up of 50 islands.',
   },
   {
     number: 658,
     fact: 'New York City is made up of 50 islands.',
+  },
+  {
+    number: 659,
+    fact: 'The strike note of The Liberty Bell is E flat.',
   },
   {
     number: 660,
@@ -1775,16 +2647,52 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Pigs were banished from Philadelphia\'s city streets in 1710.',
   },
   {
+    number: 662,
+    fact: 'Philadelphia was the first capital of the United States.',
+  },
+  {
     number: 663,
-    fact: 'About 40% of America\'s population lives within a one day drive to Philadelphia.',
+    fact: 'Forty percent of America\'s population lives within a one-day drive to Philadelphia.',
   },
   {
     number: 664,
     fact: 'It is against the law to put pretzels in bags in Philadelphia.',
   },
   {
+    number: 665,
+    fact: 'One in six doctors in America was trained in Philadelphia.',
+  },
+  {
+    number: 666,
+    fact: 'More than 800 languages are spoken in New York City.',
+  },
+  {
+    number: 667,
+    fact: 'The shoreline at Wildwood grows almost 100 feet per year.',
+  },
+  {
+    number: 668,
+    fact: 'Cape May is the oldest seashore resort in America.',
+  },
+  {
     number: 669,
     fact: 'In the game Monopoly, the properties are named after streets in Atlantic City.',
+  },
+  {
+    number: 670,
+    fact: 'Long Beach Island was once frequented by pirates.',
+  },
+  {
+    number: 671,
+    fact: 'There is a town called Jersey Shore in Pennsylvania.',
+  },
+  {
+    number: 672,
+    fact: 'The Wildwood Boardwalk extends nearly two miles and has more than 70,000 wooden planks.',
+  },
+  {
+    number: 673,
+    fact: 'The average turtle can\'t reproduce until it\'s 25 years old.',
   },
   {
     number: 674,
@@ -1808,7 +2716,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 679,
-    fact: 'A tiger�s night vision is six times better than a human�s.',
+    fact: 'A tiger\'s night vision is six times better than a human\'s.',
   },
   {
     number: 680,
@@ -1816,7 +2724,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 681,
-    fact: 'The jaguar, the largest cat in the Western Hemisphere, once lived all over the southern U.S.',
+    fact: 'The jaguar, the largest cat in the Western Hemisphere, once lived all over the southern US.',
   },
   {
     number: 682,
@@ -1824,7 +2732,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 683,
-    fact: 'Wildlife Forever has helped plant more than 132,000 trees in America since its founding in 1987.',
+    fact: 'Wildlife Forever has helped plant 132,420 trees in America since its founding in 1987.',
   },
   {
     number: 684,
@@ -1832,7 +2740,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 685,
-    fact: 'Dogs can make about 10 sounds, while cats make about 100.',
+    fact: 'Dogs can make about 10 sounds, cats make about 100.',
   },
   {
     number: 686,
@@ -1849,6 +2757,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 689,
     fact: 'The roadrunner chases after its prey at a blurring speed of up to 25 mph.',
+  },
+  {
+    number: 690,
+    fact: 'A chameleon shoots out its tongue to catch prey at speeds faster than a fighter jet.',
   },
   {
     number: 691,
@@ -1871,8 +2783,36 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The National Park Service manages over 350 parks on 80 million acres of public land.',
   },
   {
+    number: 696,
+    fact: 'With an average life expectancy of 81.2 years, the people of Okinawa, Japan live the longest.',
+  },
+  {
+    number: 697,
+    fact: 'Pilates stretches your muscles, improving your posture and helping you appear taller.',
+  },
+  {
     number: 698,
     fact: 'Stepping out for a walk every day can actually help you sleep better at night.',
+  },
+  {
+    number: 699,
+    fact: 'After working out, it takes 5 hours for your body temperature to return to normal.',
+  },
+  {
+    number: 700,
+    fact: 'Turning the faucet off while brushing your teeth can save up to 5 gallons of water.',
+  },
+  {
+    number: 701,
+    fact: 'It takes more water to fill a bathtub than it does to enjoy a nice, warm shower.',
+  },
+  {
+    number: 702,
+    fact: 'On average, a laptop uses half as much energy as a desktop computer.',
+  },
+  {
+    number: 703,
+    fact: 'The average bar of soap lasts twice as long as a bottle of body wash.',
   },
   {
     number: 704,
@@ -1891,12 +2831,32 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Most rechargeable batteries can be recharged up to 1,000 times.',
   },
   {
+    number: 708,
+    fact: 'Manufacturing recycled goods uses up to 95% less energy than using raw materials.',
+  },
+  {
+    number: 709,
+    fact: 'Hybrid cars produce up to 75% less pollution than other vehicles.',
+  },
+  {
+    number: 710,
+    fact: 'A tankless water heater uses half the energy of a standard model.',
+  },
+  {
+    number: 711,
+    fact: 'Baking soda makes a great scouring cleanser, and it\'s naturally chemical-free.',
+  },
+  {
+    number: 712,
+    fact: '100% recyclable, old newspapers are great for washing windows.',
+  },
+  {
     number: 713,
     fact: 'An egg that is fresh will sink in water, but a stale one won\'t.',
   },
   {
     number: 714,
-    fact: 'A camel can drink 25 gallons of water in less than three minutes.',
+    fact: 'When thirsty, a camel can drink 25 gallons of water in less than three minutes.',
   },
   {
     number: 715,
@@ -1908,23 +2868,31 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 717,
-    fact: 'Mangoes are the most-consumed fruit in the world.',
+    fact: 'The mango is the most consumed fruit in the world.',
   },
   {
     number: 718,
-    fact: 'Strawberries have an average of 200 seeds.',
+    fact: 'On average a strawberry has 200 seeds on it.',
   },
   {
     number: 719,
-    fact: 'A strawberry is not an actual berry, but a banana is.',
+    fact: 'A strawberry is not an actual berry but a banana is.',
   },
   {
     number: 720,
     fact: 'Fresh apples float because 25 percent of their volume is air.',
   },
   {
+    number: 721,
+    fact: 'The pomegranate is one of the oldest fruits known to man.',
+  },
+  {
     number: 722,
     fact: 'The peach was the first fruit to be eaten on the moon.',
+  },
+  {
+    number: 723,
+    fact: 'The optimum depth of water in a birdbath is two and a half inches.',
   },
   {
     number: 724,
@@ -1940,11 +2908,11 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 727,
-    fact: 'A spider�s silk is stronger than steel.',
+    fact: 'A spider\'s silk is stronger than steel.',
   },
   {
     number: 728,
-    fact: 'The planet Saturn\'s density is lower than water; in fact, it would float if placed in water.',
+    fact: 'The planet Saturn has a density lower than water. It would float if placed in water.',
   },
   {
     number: 729,
@@ -1975,8 +2943,20 @@ const snappleFacts: SnappleFact[] = [
     fact: 'A full moon is nine times brighter than a half moon.',
   },
   {
+    number: 736,
+    fact: 'More babies are born at night than during the day.',
+  },
+  {
     number: 737,
     fact: 'The human brain takes up 2% of human body weight but uses 20% of its energy.',
+  },
+  {
+    number: 738,
+    fact: 'There are more species of fish in the Amazon river than in the Atlantic Ocean.',
+  },
+  {
+    number: 739,
+    fact: 'You transfer more germs shaking hands than kissing.',
   },
   {
     number: 740,
@@ -2013,6 +2993,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 748,
     fact: 'A dog\'s average body temperature is 101 degrees Fahrenheit.',
+  },
+  {
+    number: 749,
+    fact: 'The average housefly lives for one month.',
   },
   {
     number: 750,
@@ -2059,6 +3043,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Dolphins sleep with one eye open.',
   },
   {
+    number: 761,
+    fact: 'Owls are one of the only birds who can see the color blue.',
+  },
+  {
     number: 762,
     fact: 'A duck has three eyelids.',
   },
@@ -2071,8 +3059,16 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.',
   },
   {
+    number: 765,
+    fact: 'A cat has 32 muscles in each ear.',
+  },
+  {
     number: 766,
     fact: 'The hippopotamus has the capability to remain underwater for as long as five minutes.',
+  },
+  {
+    number: 767,
+    fact: 'Honeybees have hair on their eyes.',
   },
   {
     number: 768,
@@ -2080,11 +3076,19 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 769,
-    fact: 'If a sheep and a goat mate, the offspring is called a geep.',
+    fact: 'If a sheep and a goat mate the offspring is called a geep.',
   },
   {
     number: 770,
     fact: 'Pistol shrimp can make a noise loud enough to break glass.',
+  },
+  {
+    number: 771,
+    fact: 'Some dinosaurs were as small as chickens.',
+  },
+  {
+    number: 772,
+    fact: 'Male moose shed their antlers every winter and grow a new pair the next year.',
   },
   {
     number: 773,
@@ -2108,7 +3112,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 778,
-    fact: 'Some bears build nests in trees to sunbathe and rest.',
+    fact: 'Some bears build nests in trees for sunbathing and resting.',
   },
   {
     number: 779,
@@ -2116,11 +3120,19 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 780,
-    fact: 'The indentation between the nose and the upper lip is called the philtrum.',
+    fact: 'The indentation in the middle of the area between the nose and the upper lip is called the philtrum.',
+  },
+  {
+    number: 781,
+    fact: 'Women blink nearly twice as much as men.',
   },
   {
     number: 782,
     fact: 'The human jaw can generate a force up to 200 pounds on the molars.',
+  },
+  {
+    number: 783,
+    fact: 'A group of frogs is called an army.',
   },
   {
     number: 784,
@@ -2139,6 +3151,14 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Like fingerprints, everyone\'s tongue print is different.',
   },
   {
+    number: 788,
+    fact: 'A group of flamingos is called a flamboyance.',
+  },
+  {
+    number: 789,
+    fact: 'Antarctica is the driest, windiest, and coldest continent.',
+  },
+  {
     number: 790,
     fact: 'Your big toe only has 2 bones and the rest have 3.',
   },
@@ -2147,20 +3167,48 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The average person takes 23,000 breaths a day.',
   },
   {
-    number: 797,
+    number: 792,
+    fact: 'A crocodile cannot stick its tongue out.',
+  },
+  {
+    number: 793,
+    fact: 'A shrimp\'s heart is in its head.',
+  },
+  {
+    number: 794,
+    fact: 'It is physically impossible for pigs to look up into the sky.',
+  },
+  {
+    number: 795,
+    fact: 'Horses and cows sleep while standing up.',
+  },
+  {
+    number: 796,
     fact: 'It is illegal to run out of gas in Youngstown, Ohio.',
   },
   {
-    number: 798,
+    number: 797,
     fact: 'Tennessee was previously named Franklin after Benjamin Franklin.',
   },
   {
-    number: 799,
+    number: 798,
     fact: 'The official color of California\'s Golden Gate Bridge is International Orange.',
+  },
+  {
+    number: 799,
+    fact: 'A group of porcupines is called a prickle.',
+  },
+  {
+    number: 800,
+    fact: 'Bananas are curved because they grow towards the sun.',
   },
   {
     number: 801,
     fact: 'It is not possible to tickle yourself.',
+  },
+  {
+    number: 802,
+    fact: 'A single strand of spaghetti is called a spaghetto.',
   },
   {
     number: 803,
@@ -2171,8 +3219,20 @@ const snappleFacts: SnappleFact[] = [
     fact: 'There are 293 ways to make change for a dollar.',
   },
   {
+    number: 805,
+    fact: 'India has a Bill of Rights for cows.',
+  },
+  {
+    number: 806,
+    fact: 'In Albania, nodding your head means no and shaking your head means yes.',
+  },
+  {
     number: 807,
     fact: 'Shakespeare invented the word assassination and bump.',
+  },
+  {
+    number: 808,
+    fact: 'A small child could swim through the veins of a blue whale.',
   },
   {
     number: 809,
@@ -2189,6 +3249,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 812,
     fact: '111,111,111 x 111,111,111 = 12,345,678,987,654,321.',
+  },
+  {
+    number: 813,
+    fact: 'The longest recorded flight of a chicken is 13 seconds.',
   },
   {
     number: 814,
@@ -2215,16 +3279,32 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Children grow faster during springtime.',
   },
   {
+    number: 820,
+    fact: 'The human nose can remember 50,000 different scents.',
+  },
+  {
     number: 821,
     fact: 'It takes an interaction of 72 muscles to produce human speech.',
+  },
+  {
+    number: 822,
+    fact: 'Octopuses have three hearts.',
   },
   {
     number: 823,
     fact: 'Sailors once thought wearing gold earrings improved eyesight.',
   },
   {
+    number: 824,
+    fact: 'You can\'t hum while holding your nose.',
+  },
+  {
     number: 825,
     fact: 'Our eyes are always the same size from birth, but our nose and ears never stop growing.',
+  },
+  {
+    number: 826,
+    fact: 'A group of crows is called a murder.',
   },
   {
     number: 827,
@@ -2239,8 +3319,16 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Women\'s hearts typically beat faster than men\'s hearts.',
   },
   {
+    number: 830,
+    fact: 'There are more stars in the universe than grains of sand on Earth.',
+  },
+  {
     number: 831,
     fact: 'Adults laugh only about 15 to 100 times a day, while six-year-olds laugh an average of 300 times a day.',
+  },
+  {
+    number: 832,
+    fact: 'Honey never spoils.',
   },
   {
     number: 833,
@@ -2251,12 +3339,40 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Right-handed people tend to chew food on the right side and lefties chew on the left.',
   },
   {
+    number: 835,
+    fact: 'A single strand of hair can hold up to 100 grams in weight.',
+  },
+  {
+    number: 836,
+    fact: 'It is impossible to lick your own elbow.',
+  },
+  {
+    number: 837,
+    fact: 'The most widely eaten fruit in America is the banana.',
+  },
+  {
+    number: 838,
+    fact: 'Cranberries are sorted for ripeness by bouncing them.',
+  },
+  {
     number: 839,
     fact: 'A cucumber consists of 96% water.',
   },
   {
+    number: 840,
+    fact: 'The only food that does not spoil is honey.',
+  },
+  {
+    number: 841,
+    fact: 'The most popular ice cream flavor is vanilla.',
+  },
+  {
     number: 842,
     fact: 'Vanilla is used to make chocolate.',
+  },
+  {
+    number: 843,
+    fact: 'Bamboo (the world\'s tallest grass) can grow up to 90 cm in a day.',
   },
   {
     number: 844,
@@ -2265,6 +3381,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 845,
     fact: 'A lemon contains more sugar than a strawberry.',
+  },
+  {
+    number: 846,
+    fact: 'An average of three billion cups of tea are consumed daily worldwide.',
   },
   {
     number: 847,
@@ -2279,16 +3399,44 @@ const snappleFacts: SnappleFact[] = [
     fact: 'New York was the first state to require cars to have license plates.',
   },
   {
+    number: 850,
+    fact: 'Hawaii is further south than Florida.',
+  },
+  {
     number: 851,
     fact: 'Miami installed the first ATM for rollerbladers.',
+  },
+  {
+    number: 852,
+    fact: 'Clearwater, Florida has the highest rate of lightning strikes per capita in the US.',
   },
   {
     number: 853,
     fact: 'Hawaii has its own time zone.',
   },
   {
+    number: 854,
+    fact: 'Hawaii is the only US state that grows coffee.',
+  },
+  {
     number: 855,
     fact: 'Oregon has more ghost towns than any other US state.',
+  },
+  {
+    number: 856,
+    fact: 'The world\'s largest silver nugget (1,840 lbs) was found in 1894 near Aspen, Colorado.',
+  },
+  {
+    number: 857,
+    fact: 'Louisiana is home to over 80% of the world\'s crayfish.',
+  },
+  {
+    number: 858,
+    fact: 'New Jersey is home to the world\'s first drive-in movie theater.',
+  },
+  {
+    number: 859,
+    fact: 'George Washington took the oath of office in New York City in 1789.',
   },
   {
     number: 860,
@@ -2297,6 +3445,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 861,
     fact: 'South Carolina is home to the first tea farm in the U.S.',
+  },
+  {
+    number: 862,
+    fact: 'The typewriter was invented in Milwaukee, WI in 1867.',
   },
   {
     number: 863,
@@ -2340,19 +3492,39 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 873,
-    fact: 'President William McKinley had a pet parrot that he named \'Washington Post.\'',
+    fact: 'President William McKinley had a pet parrot that he named "Washington Post."',
   },
   {
     number: 874,
     fact: 'Harry S. Truman\'s middle name is S.',
   },
   {
+    number: 875,
+    fact: 'Before Thomas Jefferson took office, people bowed to the president, rather than shaking his hand.',
+  },
+  {
     number: 876,
     fact: 'The youngest U.S. president to be in office was Theodore Roosevelt at age 42.',
   },
   {
+    number: 877,
+    fact: 'People don\'t sneeze when they are asleep because the nerves involved in the sneeze reflex are also resting.',
+  },
+  {
+    number: 878,
+    fact: 'Only male fireflies can fly.',
+  },
+  {
     number: 879,
-    fact: 'Most Koala bears can sleep up to 22 hours a day.',
+    fact: 'Most Koala bears sleep about 22 hours a day.',
+  },
+  {
+    number: 880,
+    fact: 'The Venus flytrap can eat a whole cheeseburger.',
+  },
+  {
+    number: 881,
+    fact: 'A baby caribou can outrun its mother at 3 days old.',
   },
   {
     number: 882,
@@ -2360,23 +3532,67 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 883,
-    fact: 'Butterflies can taste with their hind feet.',
+    fact: 'Butterflies taste with their hind feet.',
   },
   {
     number: 884,
     fact: 'A strand from the web of a golden spider is as strong as a steel wire of the same size.',
   },
   {
+    number: 885,
+    fact: 'Vultures can fly for six hours without flapping their wings.',
+  },
+  {
     number: 886,
-    fact: 'The bumblebee bat is one of the smallest mammals on Earth. It weighs less than a penny.',
+    fact: 'The bumblebee bat is the smallest mammal on Earth. It weighs less than a penny.',
   },
   {
     number: 887,
     fact: 'The Valley of Square Trees in Panama is the only known place in the world where trees have rectangular trunks.',
   },
   {
+    number: 888,
+    fact: 'In some cultures\' telling of Snow White, the dwarves are thieves.',
+  },
+  {
     number: 889,
     fact: 'The original Cinderella was Egyptian and wore fur slippers.',
+  },
+  {
+    number: 890,
+    fact: 'The number 1 or the word "One" appears on the dollar bill 16 times.',
+  },
+  {
+    number: 891,
+    fact: 'Pound cake got its name from the original recipe which called for a pound of butter.',
+  },
+  {
+    number: 892,
+    fact: 'The can opener was invented 48 years after the can.',
+  },
+  {
+    number: 893,
+    fact: 'Jack-O-Lanterns were originally made out of turnips.',
+  },
+  {
+    number: 894,
+    fact: 'Jousting is the official sport of Maryland.',
+  },
+  {
+    number: 895,
+    fact: 'If you shake a can of mixed nuts, the larger nuts will rise to the top.',
+  },
+  {
+    number: 896,
+    fact: '2nd Street is the most common street name in the United States; First Street is the 6th most common.',
+  },
+  {
+    number: 897,
+    fact: 'The Mayflower only held 102 People.',
+  },
+  {
+    number: 898,
+    fact: 'The ridges on the sides of coins are called reeding or milling.',
   },
   {
     number: 899,
@@ -2385,6 +3601,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 900,
     fact: 'Neckties were first worn in Croatia, which is why they were called cravats.',
+  },
+  {
+    number: 901,
+    fact: 'The quartz crystal in your wristwatch vibrates 32,768 times a second.',
   },
   {
     number: 902,
@@ -2403,6 +3623,14 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The side of a hammer is called a cheek.',
   },
   {
+    number: 906,
+    fact: 'Rubber bands last longer when refrigerated.',
+  },
+  {
+    number: 907,
+    fact: 'Dueling is legal in Paraguay as long as both parties are registered blood donors.',
+  },
+  {
     number: 908,
     fact: 'In Athens, Greece, a driver\'s license can be taken away by law if the driver is deemed either unbathed or poorly dressed.',
   },
@@ -2412,11 +3640,15 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 910,
-    fact: 'Less than 3% of the water on Earth is fresh.',
+    fact: 'Less than 2% of the water on Earth is fresh.',
   },
   {
     number: 911,
     fact: 'A cubic mile of fog is made up of less than a gallon of water.',
+  },
+  {
+    number: 912,
+    fact: 'Meteorologists claim they\'re right 85% of the time.',
   },
   {
     number: 913,
@@ -2431,6 +3663,18 @@ const snappleFacts: SnappleFact[] = [
     fact: 'At room temperature, the average air molecule travels at the speed of a rifle bullet.',
   },
   {
+    number: 916,
+    fact: 'A cubic inch of human bone can bear the weight of five standard pickup trucks.',
+  },
+  {
+    number: 917,
+    fact: 'The average lead pencil can draw a line 35 miles long or write roughly 50,000 English words.',
+  },
+  {
+    number: 918,
+    fact: 'The first lollipop was invented in Connecticut.',
+  },
+  {
     number: 919,
     fact: 'The lollipop was named after one of the most famous Racehorses in the early 1900s, Lolly Pop.',
   },
@@ -2439,8 +3683,16 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Buzz Aldrin was one of the first men on the moon. His mother\'s maiden name was also Moon.',
   },
   {
+    number: 921,
+    fact: 'If you had 1 billion dollars and spent 1 thousand dollars a day, it would take you 2,749 years to spend it all.',
+  },
+  {
     number: 922,
     fact: 'Maine is the only state with a one-syllable name.',
+  },
+  {
+    number: 923,
+    fact: 'In Germany, the shhh sound means hurry up.',
   },
   {
     number: 924,
@@ -2460,7 +3712,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 928,
-    fact: 'New York City has over 800 miles of subway track.',
+    fact: 'New York City has 722 miles of subway track.',
   },
   {
     number: 929,
@@ -2479,6 +3731,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Horses can\'t vomit.',
   },
   {
+    number: 933,
+    fact: 'A crocodile can\'t stick out its tongue.',
+  },
+  {
     number: 934,
     fact: 'Babies are born with about 300 separate bones, but adults have 206.',
   },
@@ -2493,6 +3749,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 937,
     fact: 'Squirrels lose more than half of the nuts they hide.',
+  },
+  {
+    number: 938,
+    fact: 'It cost the United States Mint two cents to produce and distribute a penny in 2012.',
   },
   {
     number: 939,
@@ -2555,6 +3815,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The longest attack of hiccups ever lasted 68 years.',
   },
   {
+    number: 954,
+    fact: 'Until its demolition in 2012, one percent of Greenland\'s total population lived in a single apartment building called Blok P.',
+  },
+  {
     number: 955,
     fact: 'A bolt of lightning can reach temperatures hotter than 50,000 degrees Fahrenheit - five times hotter than the sun.',
   },
@@ -2576,7 +3840,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 960,
-    fact: 'There are 21 \'secret\' highways that are part of the Interstate Highway System. They are not identified as such by road signs.',
+    fact: 'There are 21 "secret" highways that are part of the Interstate Highway System. They are not identified as such by road signs.',
   },
   {
     number: 961,
@@ -2585,6 +3849,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 962,
     fact: 'John Wilkes Booth\'s brother saved the life of Abraham Lincoln\'s son.',
+  },
+  {
+    number: 963,
+    fact: 'The Pacific Ocean is eight inches higher than the Atlantic Ocean at the Panama Canal.',
   },
   {
     number: 964,
@@ -2599,8 +3867,12 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Tennis was originally played with bare hands.',
   },
   {
+    number: 967,
+    fact: 'There are ten times more microbial cells than human cells in our bodies.',
+  },
+  {
     number: 968,
-    fact: '-40 degrees Fahrenheit is the same temperatures as -40 degrees Celsius.',
+    fact: '-40 degrees Fahrenheit is the same temperature as -40 degrees Celsius.',
   },
   {
     number: 969,
@@ -2619,12 +3891,28 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The name of the city of Portland, Oregon was decided by a coin toss. The name that lost was Boston.',
   },
   {
+    number: 973,
+    fact: 'Within five minutes of waking, 50 percent of a dream is forgotten. Within ten minutes, 90 percent of it is forgotten.',
+  },
+  {
+    number: 974,
+    fact: 'All gondolas in Venice, Italy must be painted black unless they are carrying an important person.',
+  },
+  {
     number: 975,
     fact: 'The letter J is the only letter in the alphabet that does not appear anywhere on the periodic table of the elements.',
   },
   {
     number: 976,
     fact: '\'K\' was chosen to stand for a strikeout in baseball because \'S\' was being used to denote a sacrifice.',
+  },
+  {
+    number: 977,
+    fact: 'The tradition of baseball managers wearing player uniforms started because the first managers were also players.',
+  },
+  {
+    number: 978,
+    fact: 'George Washington feared being buried alive.',
   },
   {
     number: 979,
@@ -2661,6 +3949,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 987,
     fact: 'The first American gold rush happened in North Carolina, not California.',
+  },
+  {
+    number: 988,
+    fact: 'Each year, the Moon moves away from Earth by about four centimeters.',
   },
   {
     number: 989,
