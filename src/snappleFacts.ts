@@ -1279,6 +1279,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'The name for the space between your eyebrows is \'nasion.\'',
   },
   {
+    'number': 320,
+    'fact': 'There is a town called Jackpot in Nevada.'
+  },
+  {
     number: 321,
     fact: 'The word \'purple\' does not rhyme with any other word in the English language.',
   },
