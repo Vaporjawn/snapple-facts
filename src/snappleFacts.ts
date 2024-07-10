@@ -1267,6 +1267,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'It took Leonardo da Vinci 12 years to paint the lips of the Mona Lisa.',
   },
   {
+    number: 317,
+    fact: 'Lemon sharks can give birth to about 36 babies at one time.',
+  },
+  {
     number: 318,
     fact: 'Top-performing companies are called \'blue chips\' after the costliest chips in casinos.',
   },
