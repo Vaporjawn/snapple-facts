@@ -7,7 +7,11 @@ import crypto from 'crypto';
  */
 const RandomFact = (snappleFacts: SnappleFact[]): SnappleFact => {
   const randomIndex = crypto.randomInt(0, snappleFacts.length);
-  return snappleFacts[randomIndex];
+  const fact = snappleFacts[randomIndex];
+  if (!fact) {
+    throw new Error('No facts available');
+  }
+  return fact;
 };
 
 export default RandomFact;

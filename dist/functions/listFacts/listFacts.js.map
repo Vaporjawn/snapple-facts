@@ -1,0 +1,1 @@
+{"version":3,"file":"listFacts.js","sourceRoot":"","sources":["../../../src/functions/listFacts/listFacts.ts"],"names":[],"mappings":";;AAQA,MAAM,SAAS,GAAG,CAAC,YAA2B,EAAY,EAAE;IAC1D,OAAO,YAAY,CAAC,GAAG,CAAC,IAAI,CAAC,EAAE,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC;AAC7C,CAAC,CAAC;AAEF,kBAAe,SAAS,CAAC"}

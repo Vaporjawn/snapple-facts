@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { SnappleFact } from './interfaces/snappleFact';
 
 const snappleFacts: SnappleFact[] = [

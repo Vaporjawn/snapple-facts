@@ -58,4 +58,17 @@ class SnappleFacts {
   }
 }
 
+// Export the class as default
 export default SnappleFacts;
+
+// Also export an instance for convenience
+export const snappleFactsInstance = new SnappleFacts();
+
+// Export individual functions for convenience
+export const getFacts = () => snappleFactsInstance.getFacts();
+export const listFacts = () => snappleFactsInstance.listFacts();
+export const getFactByNumber = (number: number) => snappleFactsInstance.getFactByNumber(number);
+export const randomFact = () => snappleFactsInstance.randomFact();
+
+// Export types
+export { SnappleFact } from './interfaces/snappleFact';

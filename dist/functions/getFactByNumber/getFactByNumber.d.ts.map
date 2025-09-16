@@ -1,0 +1,1 @@
+{"version":3,"file":"getFactByNumber.d.ts","sourceRoot":"","sources":["../../../src/functions/getFactByNumber/getFactByNumber.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,8BAA8B,CAAC;AAU3D,QAAA,MAAM,eAAe,GAAI,MAAM;IAAE,YAAY,EAAE,WAAW,EAAE,CAAC;IAAC,MAAM,EAAE,MAAM,CAAA;CAAE,KAAG,WAAW,GAAG,SAI9F,CAAC;AAEF,eAAe,eAAe,CAAC"}
