@@ -1962,24 +1962,16 @@ const snappleFacts: SnappleFact[] = [
     fact: 'To take lumps out of a bag of sugar, place it in the refrigerator for 24 hours.',
   },
   {
-    number: 491,
+    number: 492,
     fact: 'To remove crayon marks from walls, use a hairdryer to heat the wax.',
   },
   {
-    number: 492,
+    number: 493,
     fact: 'To make a zipper slide up and down more smoothly, rub a bar of soap over the teeth.',
   },
   {
-    number: 493,
-    fact: 'Wipe the leaves of your plants with the soft inside of a banana skin to bring up shine and remove dust.',
-  },
-  {
     number: 494,
-    fact: 'To clean paint off your hands, use olive oil - it softens the paint and makes it easy to remove.',
-  },
-  {
-    number: 495,
-    fact: 'To fix a button about to fall off, dab a little clear nail polish over the threads holding it on.',
+    fact: 'Wipe the leaves of your plants with the soft inside of a banana skin to bring up shine and remove dust.',
   },
   {
     number: 496,
@@ -1990,652 +1982,16 @@ const snappleFacts: SnappleFact[] = [
     fact: 'To fix a button about to fall off, dab a little clear nail polish over the threads holding it on.',
   },
   {
-    number: 498,
-    fact: 'To remove crayon marks from walls, use a hairdryer to heat the wax.',
-  },
-  {
-    number: 499,
-    fact: 'An average strawberry has about 200 seeds.',
-  },
-  {
-    number: 500,
-    fact: 'A watermelon is 92% water.',
-  },
-  {
-    number: 501,
-    fact: 'Honey never spoils.',
-  },
-  {
-    number: 502,
-    fact: 'Bananas are berries, but strawberries aren’t.',
-  },
-  {
-    number: 503,
-    fact: 'Apples float because they are 25% air.',
-  },
-  {
-    number: 504,
-    fact: 'Pumpkins are a type of squash.',
-  },
-  {
-    number: 505,
-    fact: 'Tomatoes are fruits.',
-  },
-  {
-    number: 506,
-    fact: 'A cucumber is 96% water.',
-  },
-  {
-    number: 507,
-    fact: 'Potatoes were the first food to be grown in space.',
-  },
-  {
-    number: 508,
-    fact: 'Carrots were originally purple.',
-  },
-  {
-    number: 509,
-    fact: 'There are over 7,500 varieties of apples.',
-  },
-  {
-    number: 510,
-    fact: 'Pineapples take two years to grow.',
-  },
-  {
-    number: 511,
-    fact: 'Peanuts are not nuts; they are legumes.',
-  },
-  {
-    number: 512,
-    fact: 'Cranberries bounce if they are fresh.',
-  },
-  {
-    number: 513,
-    fact: 'A pomegranate can hold up to 1,000 seeds.',
-  },
-  {
-    number: 514,
-    fact: 'Lemons contain more sugar than strawberries.',
-  },
-  {
-    number: 515,
-    fact: 'Broccoli contains more protein than steak.',
-  },
-  {
-    number: 516,
-    fact: 'One avocado has more potassium than a banana.',
-  },
-  {
-    number: 517,
-    fact: 'A bunch of bananas is called a hand.',
-  },
-  {
-    number: 518,
-    fact: 'Garlic is known as a natural antibiotic.',
-  },
-  {
-    number: 519,
-    fact: 'Bell peppers come in different colors based on ripeness.',
-  },
-  {
-    number: 520,
-    fact: 'Grapes explode when you put them in the microwave.',
-  },
-  {
-    number: 521,
-    fact: 'Oranges are a hybrid of pomelo and mandarin.',
-  },
-  {
-    number: 522,
-    fact: 'Pineapples are berries.',
-  },
-  {
-    number: 523,
-    fact: 'Humans share 50% of their DNA with bananas.',
-  },
-  {
-    number: 524,
-    fact: 'Honey is the only food that includes all substances necessary to sustain life.',
-  },
-  {
-    number: 525,
-    fact: 'Chocolate was once used as currency.',
-  },
-  {
-    number: 526,
-    fact: 'A single strand of spaghetti is called a spaghetto.',
-  },
-  {
-    number: 527,
-    fact: 'Ketchup was used as medicine in the 1800s.',
-  },
-  {
-    number: 528,
-    fact: 'There are more than 10,000 varieties of tomatoes.',
-  },
-  {
-    number: 529,
-    fact: 'Peanut butter can be converted into diamonds.',
-  },
-  {
-    number: 530,
-    fact: 'Cucumbers are fruits.',
-  },
-  {
-    number: 531,
-    fact: 'French fries originated in Belgium.',
-  },
-  {
-    number: 532,
-    fact: 'Water makes up about 70% of a human’s body weight.',
-  },
-  {
-    number: 533,
-    fact: 'The smell of chocolate increases theta brain waves, which trigger relaxation.',
-  },
-  {
-    number: 534,
-    fact: 'Apples are more effective at waking you up in the morning than coffee.',
-  },
-  {
-    number: 535,
-    fact: 'Avocados are toxic to birds.',
-  },
-  {
-    number: 536,
-    fact: 'Eating bananas can help fight depression.',
-  },
-  {
-    number: 537,
-    fact: 'Broccoli contains more Vitamin C than an orange.',
-  },
-  {
-    number: 538,
-    fact: 'One of the most hydrating foods to eat is cucumber.',
-  },
-  {
-    number: 539,
-    fact: 'Carrots were first grown as medicine, not food.',
-  },
-  {
-    number: 540,
-    fact: 'Cherries are a member of the rose family.',
-  },
-  {
-    number: 541,
-    fact: 'Coconut water can be used as a substitute for blood plasma.',
-  },
-  {
-    number: 542,
-    fact: 'Eggplants are berries.',
-  },
-  {
-    number: 543,
-    fact: 'Figs have flowers inside them.',
-  },
-  {
-    number: 544,
-    fact: 'Green peas are one of the most popular vegetables in the world.',
-  },
-  {
-    number: 545,
-    fact: 'Lemons are native to Asia.',
-  },
-  {
-    number: 546,
-    fact: 'Mangoes are related to cashews and pistachios.',
-  },
-  {
-    number: 547,
-    fact: 'Peaches and nectarines are essentially the same fruit.',
-  },
-  {
-    number: 548,
-    fact: 'Pineapples regenerate; you can plant pineapple leaves to grow a new plant.',
-  },
-  {
-    number: 549,
-    fact: 'Radishes are related to wasabi.',
-  },
-  {
-    number: 550,
-    fact: 'Strawberries are the only fruit with seeds on the outside.',
-  },
-  {
-    number: 551,
-    fact: 'Tomatoes and cucumbers are botanically classified as berries.',
-  },
-  {
-    number: 552,
-    fact: 'Watermelon seeds are edible and highly nutritious.',
-  },
-  {
-    number: 553,
-    fact: 'Yams and sweet potatoes are not the same.',
-  },
-  {
-    number: 554,
-    fact: 'Zucchini can grow to be more than 3 feet long.',
-  },
-  {
-    number: 555,
-    fact: 'Almonds are seeds, not nuts.',
-  },
-  {
-    number: 556,
-    fact: 'Beets are high in natural sugar.',
-  },
-  {
-    number: 557,
-    fact: 'Celery is a low-calorie food.',
-  },
-  {
-    number: 558,
-    fact: 'Dates are high in fiber and antioxidants.',
-  },
-  {
-    number: 559,
-    fact: 'Garlic can help regulate blood pressure.',
-  },
-  {
-    number: 560,
-    fact: 'Onions are a good source of Vitamin C.',
-  },
-  {
-    number: 561,
-    fact: 'Pumpkin seeds are high in magnesium.',
-  },
-  {
-    number: 562,
-    fact: 'Spinach is high in iron.',
-  },
-  {
-    number: 563,
-    fact: 'Sweet potatoes are rich in beta-carotene.',
-  },
-  {
-    number: 564,
-    fact: 'Tomatoes are a good source of lycopene.',
-  },
-  {
-    number: 565,
-    fact: 'Walnuts are high in omega-3 fatty acids.',
-  },
-  {
-    number: 566,
-    fact: 'Yogurt contains probiotics that are beneficial for digestion.',
-  },
-  {
-    number: 567,
-    fact: 'Zinc is important for immune function.',
-  },
-  {
-    number: 568,
-    fact: 'Almond milk is a popular dairy alternative.',
-  },
-  {
-    number: 569,
-    fact: 'Beet juice can improve athletic performance.',
-  },
-  {
-    number: 570,
-    fact: 'Carrots are good for eye health.',
-  },
-  {
-    number: 571,
-    fact: 'Dark chocolate contains antioxidants.',
-  },
-  {
-    number: 572,
-    fact: 'Eggs are a complete source of protein.',
-  },
-  {
-    number: 573,
-    fact: 'Flax seeds are high in fiber.',
-  },
-  {
-    number: 574,
-    fact: 'Ginger can help reduce nausea.',
-  },
-  {
-    number: 575,
-    fact: 'Honey has antibacterial properties.',
-  },
-  {
-    number: 576,
-    fact: 'Iceberg lettuce is mostly water.',
-  },
-  {
-    number: 577,
-    fact: 'Jalapeños are a good source of Vitamin C.',
-  },
-  {
-    number: 578,
-    fact: 'Kale is considered a superfood.',
-  },
-  {
-    number: 579,
-    fact: 'Lentils are high in protein and fiber.',
-  },
-  {
-    number: 580,
-    fact: 'Mushrooms are a good source of Vitamin D.',
-  },
-  {
-    number: 581,
-    fact: 'Nuts are a healthy snack.',
-  },
-  {
-    number: 582,
-    fact: 'Oatmeal can help lower cholesterol.',
-  },
-  {
-    number: 583,
-    fact: 'Peppers come in many colors and flavors.',
-  },
-  {
-    number: 584,
-    fact: 'Quinoa is a complete protein.',
-  },
-  {
-    number: 585,
-    fact: 'Raspberries are high in fiber.',
-  },
-  {
-    number: 586,
-    fact: 'Salmon is rich in omega-3 fatty acids.',
-  },
-  {
-    number: 587,
-    fact: 'Tea is a popular beverage worldwide.',
-  },
-  {
-    number: 588,
-    fact: 'Ugli fruit is a cross between a grapefruit, orange, and tangerine.',
-  },
-  {
-    number: 589,
-    fact: 'Vanilla is derived from orchids.',
-  },
-  {
-    number: 590,
-    fact: 'Watermelons are 92% water.',
-  },
-  {
-    number: 591,
-    fact: 'Xigua is another name for watermelon.',
-  },
-  {
-    number: 592,
-    fact: 'Yams are often confused with sweet potatoes.',
-  },
-  {
-    number: 593,
-    fact: 'Zucchini is also known as courgette.',
-  },
-  {
-    number: 594,
-    fact: 'Apples are a member of the rose family.',
-  },
-  {
-    number: 595,
-    fact: 'The average person walks the equivalent of three times around the world in a lifetime.',
-  },
-  {
-    number: 596,
-    fact: 'Hummingbirds are the only birds that can fly backwards.',
-  },
-  {
-    number: 597,
-    fact: 'A day on Venus is longer than a year on Venus.',
-  },
-  {
-    number: 598,
-    fact: 'There are more stars in the universe than grains of sand on Earth.',
-  },
-  {
-    number: 599,
-    fact: 'A group of flamingos is called a "flamboyance."',
-  },
-  {
-    number: 600,
-    fact: 'Octopuses have three hearts.',
-  },
-  {
-    number: 601,
-    fact: 'Bananas are berries, but strawberries aren’t.',
-  },
-  {
-    number: 602,
-    fact: 'Sharks are immune to almost all known diseases.',
-  },
-  {
-    number: 603,
-    fact: 'The Eiffel Tower can be 15 cm taller during the summer.',
-  },
-  {
-    number: 604,
-    fact: 'Honey never spoils.',
-  },
-  {
-    number: 605,
-    fact: 'An octopus has blue blood.',
-  },
-  {
-    number: 606,
-    fact: 'Venus is the hottest planet in our solar system.',
-  },
-  {
-    number: 607,
-    fact: 'Adult cats only meow to communicate with humans.',
-  },
-  {
-    number: 608,
-    fact: 'Bees can recognize human faces.',
-  },
-  {
-    number: 609,
-    fact: 'A snail can sleep for three years.',
-  },
-  {
-    number: 610,
-    fact: 'It is impossible to hum while holding your nose.',
-  },
-  {
-    number: 611,
-    fact: 'Butterflies taste with their feet.',
-  },
-  {
-    number: 612,
-    fact: 'A group of crows is called a "murder."',
-  },
-  {
-    number: 613,
-    fact: 'The shortest war in history lasted 38 to 45 minutes.',
-  },
-  {
-    number: 614,
-    fact: 'Hot water freezes faster than cold water.',
-  },
-  {
-    number: 615,
-    fact: 'Koalas sleep up to 22 hours a day.',
-  },
-  {
-    number: 616,
-    fact: 'A bolt of lightning contains enough energy to toast 100,000 slices of bread.',
-  },
-  {
-    number: 617,
-    fact: 'Giraffes have the same number of neck vertebrae as humans.',
-  },
-  {
-    number: 618,
-    fact: 'Dolphins have names for each other.',
-  },
-  {
-    number: 619,
-    fact: 'The longest English word is 189,819 letters long.',
-  },
-  {
-    number: 620,
-    fact: 'Cows have best friends and get stressed when they are separated.',
-  },
-  {
-    number: 621,
-    fact: 'It takes a photon, on average, 170,000 years to travel from the core of the Sun to its surface.',
-  },
-  {
-    number: 622,
-    fact: 'A "jiffy" is an actual unit of time.',
-  },
-  {
-    number: 623,
-    fact: 'The inventor of the frisbee was turned into a frisbee after he died.',
-  },
-  {
-    number: 624,
-    fact: 'Banging your head against a wall for one hour burns 150 calories.',
-  },
-  {
-    number: 625,
-    fact: 'A flock of flamingos is called a "flamboyance."',
-  },
-  {
-    number: 626,
-    fact: 'Ostriches can run faster than horses.',
-  },
-  {
-    number: 627,
-    fact: 'Elephants can’t jump.',
-  },
-  {
-    number: 628,
-    fact: 'Polar bear fur is transparent, not white.',
-  },
-  {
-    number: 629,
-    fact: 'A group of porcupines is called a "prickle."',
-  },
-  {
-    number: 630,
-    fact: 'Cows can walk upstairs but not downstairs.',
-  },
-  {
-    number: 631,
-    fact: 'A group of hedgehogs is called an "array."',
-  },
-  {
-    number: 632,
-    fact: 'Otters hold hands while sleeping to keep from drifting apart.',
-  },
-  {
-    number: 633,
-    fact: 'The moon has moonquakes.',
-  },
-  {
-    number: 634,
-    fact: 'Humans are the only animals that blush.',
-  },
-  {
-    number: 635,
-    fact: 'Sloths can hold their breath longer than dolphins can.',
-  },
-  {
-    number: 636,
-    fact: 'A group of ravens is called an "unkindness."',
-  },
-  {
-    number: 637,
-    fact: 'A crocodile can’t stick its tongue out.',
-  },
-  {
-    number: 638,
-    fact: 'The heart of a shrimp is located in its head.',
-  },
-  {
-    number: 639,
-    fact: 'Bananas are curved because they grow towards the sun.',
-  },
-  {
-    number: 640,
-    fact: 'The inventor of the Pringles can is now buried in one.',
-  },
-  {
-    number: 641,
-    fact: 'A rhinoceros\' horn is made of hair.',
-  },
-  {
-    number: 642,
-    fact: 'There are more stars in the universe than grains of sand on Earth.',
-  },
-  {
-    number: 643,
-    fact: 'Honey never spoils.',
-  },
-  {
-    number: 644,
-    fact: 'An octopus has three hearts.',
-  },
-  {
-    number: 645,
-    fact: 'Cows can sleep standing up, but they can only dream lying down.',
-  },
-  {
-    number: 646,
-    fact: 'A group of frogs is called an "army."',
-  },
-  {
-    number: 647,
-    fact: 'Sea otters have a pouch under their forearm to store their favorite rocks.',
-  },
-  {
-    number: 648,
-    fact: 'Butterflies can’t fly if they are cold.',
-  },
-  {
-    number: 649,
-    fact: 'Some turtles can breathe through their butts.',
-  },
-  {
-    number: 650,
-    fact: 'Polar bears have black skin under their white fur.',
-  },
-  {
     number: 651,
     fact: 'Forty-six percent of leisure visitors to downtown New York City come from outside the United States.',
-  },
-  {
-    number: 652,
-    fact: 'New York taxi drivers collectively speak 60 languages.',
-  },
-  {
-    number: 653,
-    fact: 'More than 800 languages are spoken in New York City.',
   },
   {
     number: 654,
     fact: 'New York taxi drivers collectively speak 60 languages.',
   },
   {
-    number: 655,
-    fact: 'Forty-six percent of leisure visitors to downtown New York City come from outside the United States.',
-  },
-  {
-    number: 656,
-    fact: 'New York taxi drivers collectively speak 60 languages.',
-  },
-  {
-    number: 657,
-    fact: 'New York City is made up of 50 islands.',
-  },
-  {
     number: 658,
     fact: 'New York City is made up of 50 islands.',
-  },
-  {
-    number: 659,
-    fact: 'The strike note of The Liberty Bell is E flat.',
   },
   {
     number: 660,
@@ -2660,10 +2016,6 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 665,
     fact: 'One in six doctors in America was trained in Philadelphia.',
-  },
-  {
-    number: 666,
-    fact: 'More than 800 languages are spoken in New York City.',
   },
   {
     number: 667,
@@ -3131,7 +2483,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 783,
-    fact: 'A group of frogs is called an army.',
+    fact: 'Men get hiccups more than women.',
   },
   {
     number: 784,
@@ -3139,7 +2491,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 785,
-    fact: 'The middle finger has the fastest growing nail.',
+    fact: 'The fastest growing nail is on the middle finger.',
   },
   {
     number: 786,
@@ -3151,11 +2503,11 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 788,
-    fact: 'A group of flamingos is called a flamboyance.',
+    fact: 'The average person falls asleep in seven minutes.',
   },
   {
     number: 789,
-    fact: 'Antarctica is the driest, windiest, and coldest continent.',
+    fact: 'The average woman is 5 inches shorter than the average man.',
   },
   {
     number: 790,
@@ -3167,39 +2519,39 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 792,
-    fact: 'A crocodile cannot stick its tongue out.',
+    fact: 'The state of Florida is bigger than England.',
   },
   {
     number: 793,
-    fact: 'A shrimp\'s heart is in its head.',
+    fact: 'Broadway is one of the longest streets in the world. It is 150 miles long.',
   },
   {
     number: 794,
-    fact: 'It is physically impossible for pigs to look up into the sky.',
+    fact: 'Mount Whitney, the highest mountain in the continental United States, and Zabriskien Point, the lowest point in the United States, are less than eighty miles apart.',
   },
   {
     number: 795,
-    fact: 'Horses and cows sleep while standing up.',
+    fact: 'Hawaii is moving toward Japan at the rate of almost 4 inches per year.',
   },
   {
     number: 796,
-    fact: 'It is illegal to run out of gas in Youngstown, Ohio.',
+    fact: 'India has more English speakers than the United States.',
   },
   {
     number: 797,
-    fact: 'Tennessee was previously named Franklin after Benjamin Franklin.',
+    fact: 'In Youngstown Ohio, it is against the law to run out of gas.',
   },
   {
     number: 798,
-    fact: 'The official color of California\'s Golden Gate Bridge is International Orange.',
+    fact: 'Tennessee was previously named Franklin after Benjamin Franklin.',
   },
   {
     number: 799,
-    fact: 'A group of porcupines is called a prickle.',
+    fact: 'The official color of California\'s Golden Gate Bridge is International Orange.',
   },
   {
     number: 800,
-    fact: 'Bananas are curved because they grow towards the sun.',
+    fact: 'Most lipstick contains fish scales.',
   },
   {
     number: 801,
@@ -3207,7 +2559,7 @@ const snappleFacts: SnappleFact[] = [
   },
   {
     number: 802,
-    fact: 'A single strand of spaghetti is called a spaghetto.',
+    fact: 'Every state except Maine, Alaska, and Hawaii is home to at least one species of venomous snake.',
   },
   {
     number: 803,
