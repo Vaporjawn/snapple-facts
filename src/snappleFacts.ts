@@ -3478,6 +3478,290 @@ const snappleFacts: SnappleFact[] = [
     fact: 'An octopus has three hearts.',
   },
   {
+    number: 1032,
+    fact: 'The Chicago Bears were originally based out of Decatur, IL and called the Staleys.',
+  },
+  {
+    number: 1033,
+    fact: 'The Bears\' unique \'rounded\' style on their uniforms dates back to the 1950s.',
+  },
+  {
+    number: 1034,
+    fact: 'The Bears\' trademark \'C\' logo first appeared on helmets in 1962.',
+  },
+  {
+    number: 1035,
+    fact: 'The original Decatur Staleys were renamed the Chicago Bears on January 28, 1922.',
+  },
+  {
+    number: 1036,
+    fact: 'The Bears have the most Pro Football Hall of Famers (27) of all NFL teams.',
+  },
+  {
+    number: 1037,
+    fact: 'The Chicago Bears have sold out every home game since Sept. 9, 1984.',
+  },
+  {
+    number: 1038,
+    fact: 'The Chicago Bears are the only NFL franchise with over 750 all-time wins.',
+  },
+  {
+    number: 1040,
+    fact: 'The Chicago Bears have the most retired jersey numbers in the NFL with 14.',
+  },
+  {
+    number: 1041,
+    fact: 'The Bears were known as the Decatur Staleys in 1920 and the Chicago Staleys in 1921.',
+  },
+  {
+    number: 1042,
+    fact: 'The Bears played their home games at Wrigley Field for 50 seasons (1921-1970).',
+  },
+  {
+    number: 1043,
+    fact: 'The largest crowd to attend a Bears game was 100,470 people, in 1958 in Los Angeles.',
+  },
+  {
+    number: 1044,
+    fact: 'The 1985 Bears went 15-1 and won the Super Bowl after going 1-3 in the preseason.',
+  },
+  {
+    number: 1045,
+    fact: 'The Bears\' first regular-season game outside the U.S. was played in Toronto in 2010.',
+  },
+  {
+    number: 1046,
+    fact: 'The Bears sent a record nine players to the Pro Bowl in 1985 when they won the Super Bowl.',
+  },
+  {
+    number: 1047,
+    fact: 'The Bears\' first Thanksgiving game was a 6-0 loss to the Chicago Tigers in 1920.',
+  },
+  {
+    number: 1048,
+    fact: 'The Bears clinched the 2005 NFC North title with a win in Green Bay, WI on Christmas Day.',
+  },
+  {
+    number: 1049,
+    fact: 'The Bears teams that won back-to-back NFL titles in 1940-41 boasted six future Hall of Fame players.',
+  },
+  {
+    number: 1050,
+    fact: 'In 1925, the Bears played 19 games in a two-month span on a coast-to-coast barnstorming tour.',
+  },
+  {
+    number: 1051,
+    fact: 'When the NFL was formed in 1920, the Bears and 11 other teams paid a $100 entry fee.',
+  },
+  {
+    number: 1052,
+    fact: 'The Bears dominated the NFL in the 1940s, winning four league championships.',
+  },
+  {
+    number: 1053,
+    fact: 'The Bears had winning records in 24 of their first 25 seasons of existence from 1920-1944.',
+  },
+  {
+    number: 1054,
+    fact: 'In 1970, the Bears played a home game at Northwestern University\'s Dyche Stadium, beating the Eagles.',
+  },
+  {
+    number: 1055,
+    fact: 'The Bears played a preseason game against the CFL\'s Montreal Alouettes in 1961.',
+  },
+  {
+    number: 1056,
+    fact: 'The Bears beat Green Bay 33-14 in the NFL\'s first divisional playoff game in 1941.',
+  },
+  {
+    number: 1057,
+    fact: 'The Bears made the playoffs in 1994 after finishing fourth in the NFL Central Division.',
+  },
+  {
+    number: 1058,
+    fact: 'The Bears have played preseason games in Canada, England, Sweden, Germany and Ireland.',
+  },
+  {
+    number: 1059,
+    fact: 'The Bears changed the \'C\' on their helmets from white to orange in 1973.',
+  },
+  {
+    number: 1060,
+    fact: 'The Bears added the initials \'GSH\' to the left sleeve in 1984, in honor of their late coach George S. Halas.',
+  },
+  {
+    number: 1061,
+    fact: 'In 1920, the vertical stripes on the Bears jerseys were strips of leather used to help the players secure the ball.',
+  },
+  {
+    number: 1062,
+    fact: 'The Bears changed their jersey colors to navy and orange in 1958.',
+  },
+  {
+    number: 1063,
+    fact: 'The Bears are known by the Pro Football Hall of Fame as having the last player to play without a helmet.',
+  },
+  {
+    number: 1064,
+    fact: 'The Bears\' team colors, orange and navy, were selected after those of the University of Illinois.',
+  },
+  {
+    number: 1065,
+    fact: 'The Chicago Bears fight song, \'Bear Down, Chicago Bears\' was introduced in 1941.',
+  },
+  {
+    number: 1066,
+    fact: 'The Bears have come back to win the game with 20-point deficits twice since the 1980s - 1987 at Tampa Bay and in 2006 at Arizona.',
+  },
+  {
+    number: 1067,
+    fact: 'The Chicago Bears have opened the season with a win 54 times, the most in the NFL.',
+  },
+  {
+    number: 1068,
+    fact: 'The Chicago Bears have selected more players out of the University of Notre Dame than any other school.',
+  },
+  {
+    number: 1069,
+    fact: 'The Chicago Bears and Chicago Cardinals played football\'s first indoor game on December 15, 1930.',
+  },
+  {
+    number: 1070,
+    fact: 'The Chicago Bears unveiled their Famous T-formation in a 73-0 win over Washington for the NFL title in 1940.',
+  },
+  {
+    number: 1071,
+    fact: 'The Bears\' last game at Wrigley Field was a 35-15 win over Green Bay on Dec. 13, 1970.',
+  },
+  {
+    number: 1072,
+    fact: 'The Bears\' first game at Soldier Field was a 17-15 win over the Pittsburgh Steelers on Sept. 19, 1971.',
+  },
+  {
+    number: 1073,
+    fact: 'The Bears have held training camp in 3 different states - Wisconsin, Illinois and Indiana.',
+  },
+  {
+    number: 1074,
+    fact: 'The Bears\' first training camp held away from their facilities was hosted by the University of Notre Dame in 1933.',
+  },
+  {
+    number: 1075,
+    fact: 'The Bears held training camp at Lane Tech High in Chicago in 1934.',
+  },
+  {
+    number: 1076,
+    fact: 'The Bears moved their training camp to St. John\'s Military Academy in Delafield, WI in 1935.',
+  },
+  {
+    number: 1077,
+    fact: 'The Bears and Packers agreed their playoff game should be played to a \'sudden death\' finish in the event of a tie in 1941.',
+  },
+  {
+    number: 1079,
+    fact: 'The Bears opened training camp at Lake Forest College in 1975.',
+  },
+  {
+    number: 1080,
+    fact: 'In their 1000th game in franchise history on October 3rd, 1993, the Bears defeated Atlanta.',
+  },
+  {
+    number: 1081,
+    fact: 'The Bears moved their training camp to UW-Platteville in 1984.',
+  },
+  {
+    number: 1082,
+    fact: 'The Bears opened training camp at Olivet Nazarene University in Bourbonnais, IL in 2002.',
+  },
+  {
+    number: 1083,
+    fact: 'The Bears played all of their home games in 2002 at the University of Illinois while Soldier Field was under construction.',
+  },
+  {
+    number: 1084,
+    fact: 'The number 42 has only been worn by one Bears player.',
+  },
+  {
+    number: 1085,
+    fact: '87 players who have played for the Bears, have also played high school football in Illinois.',
+  },
+  {
+    number: 1086,
+    fact: 'Evanston High School has produced the most Bears players out of any high school in Illinois (5).',
+  },
+  {
+    number: 1087,
+    fact: 'Twenty players by the last name of \'Johnson\' or \'Williams\' have played for the Bears - more than any other last name.',
+  },
+  {
+    number: 1088,
+    fact: 'Strawberries are actually members of the rose family.',
+  },
+  {
+    number: 1089,
+    fact: 'Americans, on average, eat more than 4 pounds of fresh strawberries each year.',
+  },
+  {
+    number: 1090,
+    fact: 'Unlike many fruits, strawberries don\'t continue to ripen after being picked.',
+  },
+  {
+    number: 1095,
+    fact: 'If all the strawberries produced in California in one year were laid berry to berry, they\'d go around the world 15 times.',
+  },
+  {
+    number: 1100,
+    fact: 'Mint comes in over 30 varieties.',
+  },
+  {
+    number: 1101,
+    fact: 'Mint plant origins can be traced to the Mediterranean region.',
+  },
+  {
+    number: 1104,
+    fact: 'Mint has been found in Egyptian tombs from as far back as 1000 B.C.',
+  },
+  {
+    number: 1105,
+    fact: 'In ancient Greece, the strawberry was a symbol for Venus, the Goddess of Love.',
+  },
+  {
+    number: 1108,
+    fact: 'Ancient Romans thought strawberries could cure bad breath and chronic fainting.',
+  },
+  {
+    number: 1111,
+    fact: 'Strawberries are the first fruit to ripen in the spring.',
+  },
+  {
+    number: 1112,
+    fact: 'There are over 10 million bricks in The Empire State Building.',
+  },
+  {
+    number: 1113,
+    fact: 'Earth, Texas, is the only place on Earth named Earth.',
+  },
+  {
+    number: 1117,
+    fact: 'Apple pie was adopted as Vermont\'s official state pie in 1999.',
+  },
+  {
+    number: 1120,
+    fact: 'The Grand Canyon could hold about 900 trillion footballs.',
+  },
+  {
+    number: 1121,
+    fact: 'The United States has no official language.',
+  },
+  {
+    number: 1122,
+    fact: 'There was an amendment proposed in 1893 to rename the U.S. the \'United States of the Earth.\'',
+  },
+  {
+    number: 1125,
+    fact: 'The largest free-flying American flag in the world is 90 feet long by 60 feet wide.',
+  },
+  {
     number: 1133,
     fact: 'Only 12 U.S. presidents have been elected to office for two terms and served those two terms.',
   },
@@ -3586,6 +3870,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Jimmy Carter filed a report for a UFO sighting in 1973, calling it �the darndest thing I�ve ever seen.�',
   },
   {
+    number: 1160,
+    fact: 'In 1940, the University of California bestowed Ronald Reagan with the Most Nearly Perfect Male Figure Award.',
+  },
+  {
     number: 1161,
     fact: 'Bill Clinton\'s face is so symmetrical that he ranked in facial symmetry alongside male models.',
   },
@@ -3624,6 +3912,10 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 1170,
     fact: 'Andrew Jackson\'s pet parrot Poll was removed from his funeral for cursing.',
+  },
+  {
+    number: 1171,
+    fact: 'Teddy bears get their name from President Theodore \'Teddy\' Roosevelt, who once refused to shoot a black bear.',
   },
   {
     number: 1172,
@@ -4278,6 +4570,10 @@ const snappleFacts: SnappleFact[] = [
     fact: 'Nowhere in the Humpty Dumpty nursery rhyme does it say that Humpty Dumpty is an egg.',
   },
   {
+    number: 1335,
+    fact: 'There are only 18 minutes of total action in a baseball game.',
+  },
+  {
     number: 1336,
     fact: 'Located on the Detroit River, the J.W. Wescott II is the only floating post office in the U.S. and has its own ZIP Code: 48222.',
   },
@@ -4576,6 +4872,18 @@ const snappleFacts: SnappleFact[] = [
   {
     number: 1410,
     fact: 'There are more people on Facebook today than there were on the Earth 200 years ago.',
+  },
+  {
+    number: 1411,
+    fact: 'The Eiffel Tower is 6 inches taller in the summer than in the winter.',
+  },
+  {
+    number: 1413,
+    fact: '\'Thursday\' is named in honor of the Norse god, Thor.',
+  },
+  {
+    number: 1414,
+    fact: 'If the human eye were a digital camera, it would have 576 megapixels.',
   },
   {
     number: 1415,
