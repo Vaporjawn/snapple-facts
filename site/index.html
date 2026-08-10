@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Snapple Facts — Every Snapple &quot;Real Fact,&quot; in your pocket</title>
+    <meta
+      name="description"
+      content="Browse, search, and generate all 1,311 Snapple 'Real Facts' — plus a tiny, dependency-free TypeScript/JavaScript package you can drop into any project."
+    />
+    <meta name="theme-color" content="#e6301e" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#a3160a" media="(prefers-color-scheme: dark)" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="canonical" href="https://vaporjawn.dev/snapple-facts/" />
+
+    <!-- Icons -->
+    <link rel="icon" href="/snapple-facts/assets/icons/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/svg+xml" href="/snapple-facts/assets/icons/mark.svg" />
+    <link rel="apple-touch-icon" href="/snapple-facts/assets/icons/apple-touch-icon.png" />
+    <link rel="manifest" href="/snapple-facts/manifest.webmanifest" />
+
+    <!-- Open Graph / Twitter -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Snapple Facts" />
+    <meta property="og:title" content='Snapple Facts — Every Snapple "Real Fact," in your pocket' />
+    <meta
+      property="og:description"
+      content="Browse, search, and generate all 1,311 Snapple 'Real Facts.' Free TypeScript/JavaScript package included."
+    />
+    <meta property="og:url" content="https://vaporjawn.dev/snapple-facts/" />
+    <meta property="og:image" content="https://vaporjawn.dev/snapple-facts/assets/icons/icon-512.png" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Snapple Facts" />
+    <meta
+      name="twitter:description"
+      content="Browse, search, and generate all 1,311 Snapple 'Real Facts.' Free TypeScript/JavaScript package included."
+    />
+    <meta name="twitter:image" content="https://vaporjawn.dev/snapple-facts/assets/icons/icon-512.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;1,9..144,600&family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="/snapple-facts/css/styles.css" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareSourceCode",
+        "name": "snapple-facts",
+        "description": "Every Snapple 'Real Fact,' available as a free TypeScript/JavaScript package and browsable website.",
+        "codeRepository": "https://github.com/Vaporjawn/snapple-facts",
+        "programmingLanguage": "TypeScript",
+        "author": {
+          "@type": "Person",
+          "name": "Victor Williams",
+          "url": "https://github.com/Vaporjawn"
+        },
+        "license": "https://github.com/Vaporjawn/snapple-facts/blob/main/LICENSE"
+      }
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <div class="bubbles" aria-hidden="true">
+      <span></span><span></span><span></span><span></span><span></span> <span></span><span></span><span></span
+      ><span></span><span></span>
+    </div>
+
+    <header class="site-header">
+      <div class="wrap site-header__inner">
+        <a class="brand" href="/snapple-facts/">
+          <img class="brand__mark" src="/snapple-facts/assets/icons/icon-48.png" width="28" height="28" alt="" />
+          <span>Snapple Facts</span>
+        </a>
+
+        <nav class="site-nav" aria-label="Primary">
+          <a href="#random">Random</a>
+          <a href="#browse">Browse</a>
+          <a href="#usage">Install</a>
+          <a href="https://github.com/Vaporjawn/snapple-facts" rel="noopener" target="_blank">GitHub</a>
+        </nav>
+
+        <div class="site-header__actions">
+          <button id="theme-toggle" class="icon-btn" type="button" aria-pressed="false" title="Toggle dark mode (T)">
+            <svg class="icon icon--sun" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                fill="currentColor"
+                d="M12 4a1 1 0 0 1-1-1V1a1 1 0 1 1 2 0v2a1 1 0 0 1-1 1Zm0 19a1 1 0 0 1-1-1v-2a1 1 0 1 1 2 0v2a1 1 0 0 1-1 1ZM4 13H2a1 1 0 1 1 0-2h2a1 1 0 1 1 0 2Zm19 0h-2a1 1 0 1 1 0-2h2a1 1 0 1 1 0 2ZM5.6 6.99a1 1 0 0 1-.71-.29L3.5 5.31A1 1 0 1 1 4.91 3.9L6.3 5.29a1 1 0 0 1-.7 1.7Zm12.8 12.8a1 1 0 0 1-.71-.3l-1.39-1.39a1 1 0 0 1 1.41-1.41l1.39 1.39a1 1 0 0 1-.7 1.71ZM4.9 20.09a1 1 0 0 1-.7-1.7l1.39-1.4a1 1 0 1 1 1.41 1.41L5.6 19.8a1 1 0 0 1-.7.29ZM17.7 6.99a1 1 0 0 1-.7-1.7l1.39-1.4a1 1 0 1 1 1.41 1.42l-1.39 1.39a1 1 0 0 1-.71.29ZM12 18a6 6 0 1 1 6-6 6 6 0 0 1-6 6Z"
+              />
+            </svg>
+            <svg class="icon icon--moon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                fill="currentColor"
+                d="M12.34 2.02a1 1 0 0 1 1.05 1.5A8 8 0 0 0 20.5 14.6a1 1 0 0 1 1.5 1.03A10 10 0 1 1 12.34 2.02Z"
+              />
+            </svg>
+          </button>
+          <a
+            class="icon-btn"
+            href="https://github.com/Vaporjawn/snapple-facts"
+            rel="noopener"
+            target="_blank"
+            title="View source on GitHub"
+          >
+            <svg class="icon" width="18" height="18" viewBox="0 0 16 16" aria-hidden="true">
+              <path
+                fill="currentColor"
+                d="M8 0C3.58 0 0 3.58 0 8a8 8 0 0 0 5.47 7.59c.4.07.55-.17.55-.38
+                0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01
+                1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95
+                0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.5 7.5 0 0 1 4 0c1.53-1.04 2.2-.82
+                2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54
+                1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z"
+              />
+            </svg>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="hero">
+        <div class="wrap hero__inner">
+          <img
+            class="hero__logo"
+            src="/snapple-facts/assets/snapple-logo.png"
+            srcset="/snapple-facts/assets/snapple-logo.png 1x, /snapple-facts/assets/snapple-logo@2x.png 2x"
+            width="200"
+            height="84"
+            alt="Snapple"
+          />
+          <h1>Real Facts, on tap.</h1>
+          <p class="hero__tagline">
+            Every fact ever printed under a Snapple cap — <strong id="stat-count">1,311</strong> of them — searchable,
+            shareable, and free to use in your own projects.
+          </p>
+
+          <div class="hero__stats" aria-hidden="true">
+            <img
+              alt=""
+              src="https://img.shields.io/npm/v/snapple-facts?style=flat&amp;color=e6301e&amp;label=npm"
+              loading="lazy"
+            />
+            <img
+              alt=""
+              src="https://img.shields.io/github/stars/Vaporjawn/snapple-facts?style=flat&amp;color=f2b705&amp;label=stars"
+              loading="lazy"
+            />
+            <img
+              alt=""
+              src="https://img.shields.io/npm/dt/snapple-facts?style=flat&amp;color=e6301e&amp;label=downloads"
+              loading="lazy"
+            />
+            <img
+              alt=""
+              src="https://img.shields.io/bundlephobia/minzip/snapple-facts?style=flat&amp;color=f2b705&amp;label=size"
+              loading="lazy"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section id="random" class="cap-section">
+        <div class="wrap">
+          <div class="cap-stage">
+            <button id="get-fact" type="button" class="cap" aria-describedby="fact-instructions">
+              <span class="cap__ring"></span>
+              <span class="cap__label">
+                <span class="cap__real">Real Fact</span>
+                <span class="cap__hash">#<span id="fact-number">—</span></span>
+              </span>
+            </button>
+
+            <div class="fact-card" id="fact-card" aria-live="polite">
+              <p class="fact-card__text" id="fact-text">Tap the cap to twist open a random Snapple fact.</p>
+              <div class="fact-card__actions">
+                <button id="copy-fact" type="button" class="btn btn--ghost btn--sm" disabled>
+                  <span data-state="idle">Copy</span>
+                  <span data-state="done" hidden>Copied!</span>
+                </button>
+                <button id="share-fact" type="button" class="btn btn--ghost btn--sm" disabled>Share</button>
+                <a id="tweet-fact" class="btn btn--ghost btn--sm" target="_blank" rel="noopener" aria-disabled="true"
+                  >Post on X</a
+                >
+              </div>
+            </div>
+          </div>
+
+          <p id="fact-instructions" class="cap-hint">
+            Press <kbd>R</kbd> for another, or
+            <button id="fact-of-day" type="button" class="link-btn">jump to today&rsquo;s fact</button>.
+          </p>
+        </div>
+      </section>
+
+      <section id="browse" class="browse-section">
+        <div class="wrap">
+          <div class="browse-header">
+            <h2>Browse all <span id="stat-count-browse">1,311</span> facts</h2>
+            <div class="browse-controls">
+              <label class="search-field">
+                <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+                  <path
+                    fill="currentColor"
+                    d="m21.71 20.29-3.4-3.39A9 9 0 1 0 17 18.31l3.39 3.4a1 1 0 0 0 1.32-1.42ZM11 18a7 7 0 1 1 7-7 7 7 0 0 1-7 7Z"
+                  />
+                </svg>
+                <input
+                  id="search"
+                  type="search"
+                  placeholder="Search facts… (try “camel” or press /)"
+                  autocomplete="off"
+                  aria-label="Search facts"
+                />
+              </label>
+              <label class="jump-field">
+                <span>#</span>
+                <input id="jump-number" type="number" min="1" placeholder="Jump to №" inputmode="numeric" />
+              </label>
+            </div>
+          </div>
+
+          <p id="results-summary" class="results-summary" role="status"></p>
+
+          <ul id="fact-list" class="fact-list"></ul>
+          <p id="fact-list-empty" class="fact-list-empty" hidden>No facts match “<span id="empty-query"></span>.”</p>
+
+          <div class="load-more-wrap">
+            <button id="load-more" type="button" class="btn btn--outline" hidden>Load more facts</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="usage" class="usage-section">
+        <div class="wrap">
+          <h2>Bring the facts into your own app</h2>
+          <p class="usage-lead">
+            <code>snapple-facts</code> is a zero-dependency TypeScript package with full typings, a class API, and
+            standalone functions — pick whichever style fits.
+          </p>
+
+          <div class="code-tabs">
+            <div class="code-tabs__list" role="tablist" aria-label="Installation and usage examples">
+              <button class="code-tab" role="tab" aria-selected="true" data-tab="install">Install</button>
+              <button class="code-tab" role="tab" aria-selected="false" data-tab="class">Class API</button>
+              <button class="code-tab" role="tab" aria-selected="false" data-tab="functions">Functions</button>
+            </div>
+
+            <div class="code-panel" data-panel="install" role="tabpanel">
+              <pre><code>npm install snapple-facts --save-dev</code></pre>
+              <button class="copy-code btn btn--ghost btn--sm" type="button">Copy</button>
+            </div>
+
+            <div class="code-panel" data-panel="class" role="tabpanel" hidden>
+              <pre><code>import SnappleFacts from 'snapple-facts';
+
+const snappleFacts = new SnappleFacts();
+
+snappleFacts.randomFact();               // { number, fact }
+snappleFacts.getFacts();                 // SnappleFact[]
+snappleFacts.listFacts();                // string[]
+snappleFacts.getFactByNumber(1);         // SnappleFact | undefined</code></pre>
+              <button class="copy-code btn btn--ghost btn--sm" type="button">Copy</button>
+            </div>
+
+            <div class="code-panel" data-panel="functions" role="tabpanel" hidden>
+              <pre><code>import { RandomFact, GetFacts, ListFacts, GetFactByNumber } from 'snapple-facts';
+
+const randomFact = RandomFact();
+const facts = GetFacts();
+const factList = ListFacts();
+const fact = GetFactByNumber(1);</code></pre>
+              <button class="copy-code btn btn--ghost btn--sm" type="button">Copy</button>
+            </div>
+          </div>
+
+          <div class="usage-links">
+            <a
+              class="btn btn--primary"
+              href="https://www.npmjs.com/package/snapple-facts"
+              rel="noopener"
+              target="_blank"
+              >View on npm</a
+            >
+            <a class="btn btn--outline" href="https://github.com/Vaporjawn/snapple-facts" rel="noopener" target="_blank"
+              >Source on GitHub</a
+            >
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap site-footer__inner">
+        <div>
+          <p>
+            Built by <a href="https://github.com/Vaporjawn" rel="noopener" target="_blank">Victor Williams</a> · MIT
+            Licensed
+          </p>
+          <p class="site-footer__muted">
+            Not affiliated with or endorsed by Snapple Beverage Corp. Facts are for fun — please don&rsquo;t sue us.
+          </p>
+        </div>
+        <div class="site-footer__links">
+          <a href="https://github.com/Vaporjawn/snapple-facts" rel="noopener" target="_blank">GitHub</a>
+          <a href="https://github.com/Vaporjawn/snapple-facts/issues" rel="noopener" target="_blank">Issues</a>
+          <a href="https://www.npmjs.com/package/snapple-facts" rel="noopener" target="_blank">npm</a>
+          <a href="https://github.com/sponsors/Vaporjawn" rel="noopener" target="_blank">Sponsor</a>
+        </div>
+      </div>
+    </footer>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+    <script src="/snapple-facts/js/app.js" defer></script>
+  </body>
+</html>

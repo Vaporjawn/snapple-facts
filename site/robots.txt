@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vaporjawn.dev/snapple-facts/sitemap.xml

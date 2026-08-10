@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>404 — That fact doesn&rsquo;t exist (yet) · Snapple Facts</title>
+    <meta name="robots" content="noindex" />
+    <link rel="icon" href="/snapple-facts/assets/icons/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/svg+xml" href="/snapple-facts/assets/icons/mark.svg" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,700;1,9..144,600&family=Inter:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/snapple-facts/css/styles.css" />
+    <script>
+      // Keep the error page consistent with whatever theme the visitor
+      // chose on the main site (mirrors the logic in js/app.js).
+      (function () {
+        var stored = localStorage.getItem('sf-theme');
+        if (stored === 'light' || stored === 'dark') {
+          document.documentElement.setAttribute('data-theme', stored);
+        }
+      })();
+    </script>
+    <style>
+      .not-found {
+        min-height: 80vh;
+        display: grid;
+        place-items: center;
+        text-align: center;
+        padding: 40px 20px;
+      }
+      .not-found__code {
+        font-family: var(--font-display);
+        font-size: clamp(3.5rem, 12vw, 7rem);
+        color: var(--accent);
+        margin: 0;
+        line-height: 1;
+      }
+      .not-found p {
+        color: var(--ink-muted);
+        max-width: 420px;
+        margin: 10px auto 26px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="bubbles" aria-hidden="true">
+      <span></span><span></span><span></span><span></span><span></span> <span></span><span></span><span></span
+      ><span></span><span></span>
+    </div>
+    <main class="not-found">
+      <div>
+        <p class="not-found__code">404</p>
+        <h1>That cap hasn&rsquo;t been twisted off yet.</h1>
+        <p>This page doesn&rsquo;t exist — but there are 1,311 real Snapple facts that do. Head back and grab one.</p>
+        <a class="btn btn--primary" href="/snapple-facts/">← Back to Snapple Facts</a>
+      </div>
+    </main>
+  </body>
+</html>

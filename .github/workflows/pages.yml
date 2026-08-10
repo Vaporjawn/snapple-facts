@@ -1,0 +1,70 @@
+# Builds the npm package (the single source of truth for fact data),
+# generates site/data/facts.json from it, stamps the service worker with
+# this deploy's commit SHA for cache-busting, and publishes site/ to
+# GitHub Pages using the official Actions-based deployment flow.
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches: ['main']
+    paths:
+      - 'site/**'
+      - 'src/**'
+      - 'scripts/generate-site-data.js'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'pages'
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Build package
+        run: npm run build
+
+      - name: Generate facts.json for the site
+        run: node scripts/generate-site-data.js
+
+      - name: Stamp service worker cache version
+        env:
+          DEPLOY_SHA: ${{ github.sha }}
+        run: sed -i "s/__CACHE_VERSION__/${DEPLOY_SHA}/" site/sw.js
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
