@@ -1,11 +1,11 @@
 import { SnappleFact } from './interfaces/snappleFact';
 declare class SnappleFacts {
-    private snappleFacts;
-    constructor();
-    getFacts(): SnappleFact[];
-    listFacts(): string[];
-    getFactByNumber(number: number): SnappleFact | undefined;
-    randomFact(): SnappleFact;
+  private snappleFacts;
+  constructor();
+  getFacts(): SnappleFact[];
+  listFacts(): string[];
+  getFactByNumber(number: number): SnappleFact | undefined;
+  randomFact(): SnappleFact;
 }
 export default SnappleFacts;
 export declare const snappleFactsInstance: SnappleFacts;
